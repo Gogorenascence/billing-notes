@@ -1,3 +1,6 @@
+mmi 69 + 1500
+extent, disability 68
+rtw - 73
 ===================
 At MMI
 W5 WP
@@ -38,10 +41,14 @@ Take assignment
 =====================
 Checking billing status
 twice a week
-Call adjuster/insurance company
+Call adjuster/insurance company at around 3pm
  -   Tax ID number
  -   Date of service
  -   claim number
  -   billed amount
 
  See if received
+
+
+
+If you plan to come, text "yes".
