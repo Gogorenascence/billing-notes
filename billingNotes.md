@@ -52,3 +52,8 @@ Call adjuster/insurance company at around 3pm
 
 
 If you plan to come, text "yes".
+
+
+Bill review numbers
+8003700594 Gallagher Bassett
+8006843639 opt 1 PMA
