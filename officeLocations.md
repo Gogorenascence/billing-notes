@@ -1,5 +1,5 @@
 OFFICE LOCATION: 		Pinnacle Health, 427 E Duranta Ave Ste# 104
-					Alamo, TX 78616
+Alamo, TX 78616
 
 OFFICE LOCATION: 		Crossroads Clinic, 4102 Buffalo Gap Rd Ste# A1,
 Abilene, TX 79605
@@ -13,15 +13,25 @@ OFFICE LOCATION: 		Anthony Chiro
 1659599306
 
 OFFICE LOCATION: 		Lawson Chiropractic, 9701 Brodie Ln Ste# 202
-					Austin, TX 78748
-					1043205735
-
+Austin, TX 78748
+1043205735
 
 OFFICE LOCATION: 		Occmed Med Clinic, 6014 45th St Unit A
-					Lubbock, TX 79407
-					1174653851
-
+Lubbock, TX 79407
+1174653851
 
 OFFICE LOCATION: 		Healthcare Solutions, 10540 S Post Oak Rd Ste 200
-					Houston, TX 77035
-					1992097737
+Houston, TX 77035
+1992097737
+
+OFFICE LOCATION: 		Clifford Chiropractic, 4222 Trinity Mills Rd Ste 106
+Dallas, TX 75287
+1093192098
+
+OFFICE LOCATION: 		Arkansas Lane Chiropractic, 2704 W Arkansas Ln
+Arlington, TX 76016
+1902821986
+
+OFFICE LOCATION: 		New Dimensions Rehabilitation, 508 S Spring Ave.
+Tyler, TX 75702
+1902821986
