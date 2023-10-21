@@ -34,4 +34,16 @@ Arlington, TX 76016
 
 OFFICE LOCATION: 		New Dimensions Rehabilitation, 508 S Spring Ave.
 Tyler, TX 75702
-1902821986
+1891859294
+
+OFFICE LOCATION: 		Affordacare Spine & Rehab, 710 S Gregg St. Ste# 100
+Big Spring, TX 79720
+1336567015
+
+OFFICE LOCATION: 		Beaty Chiropratic Clinic, 2100 N Grandview Ave. Ste A
+Odessa, TX 79761
+1619012366
+
+OFFICE LOCATION: 		Crossroads Clinic, 4102 Buffalo Gap Rd Ste A1
+Abilene, TX 79605
+1205956786
