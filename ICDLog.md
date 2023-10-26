@@ -295,6 +295,10 @@ M62.838 Other muscle spasm
 G44.309 Post-traumatic headache, Unspecified, not intractable
 V53.5XXF Driver of SUV injured in collision with another vehicle in traffic accident.
 
+S92.334A Nondisplaced fracture of second metatarsal bone, right foot, initial encounter for closed fracture
+S92.334A Nondisplaced fracture of third metatarsal bone, right foot, initial encounter for closed fracture
+S92.534A Nondisplaced fracture of distal phalanx of right lesser toe(s)
+
 
 59 mod treatment in overlaping areas
 massage and adjustments can't be on the areas without modifiers
