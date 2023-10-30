@@ -47,3 +47,6 @@ Odessa, TX 79761
 OFFICE LOCATION: 		Crossroads Clinic, 4102 Buffalo Gap Rd Ste A1
 Abilene, TX 79605
 1205956786
+
+OFFICE LOCATION: 		Jamon Clayton, DC, 1706 Cary St. Weslaco, TX 78599
+1881038008
