@@ -92,3 +92,15 @@ issued 10/25
 800957 to 5601 bri
 
 Ricardo Pope
+
+
+request to transfer to pma
+jessie gentr
+
+nancy cardona
+rec
+employere pays bill or pma
+sent back for processing
+7-10 days for processing
+Katie Siegfried - pma
+supervisor will
