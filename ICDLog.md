@@ -10,6 +10,8 @@
 
 [NEC] not elsewhere classified
 
+Use whole part
+
 J. CLAYTON D.C. (12053)
 
 M50.20 Other cervical disc displacement, unspecified cervical region
@@ -55,10 +57,12 @@ M79.632 Pain in Left Forearm
 
 
 S63.91XA Sprain of Unspecified part of Right wrist and hand, initial encounter
+S63.501A Unspecified sprain of right wrist, initial encounter
 S66.911A Strain of Unspecified muscle, fascia and tendon at wrist and hand level, Right hand, initial encounter
 M25.531 Pain in Right wrist
 
 S63.92XA Sprain of Unspecified part of Left wrist and hand, initial encounter
+S63.502A Unspecified sprain of left wrist, initial encounter
 S66.912A Strain of Unspecified muscle, fascia and tendon at wrist and hand level, Left hand, initial encounter
 M25.532 Pain in Left wrist
 
