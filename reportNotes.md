@@ -19,3 +19,12 @@ Add full exam - all positive and negative results
 Add PT for PT evaluations
 
 not determined to be apart of the extent
+
+statutory - maxed out length of benefits 104 weeks
+
+
+
+carlos lopez
+not at mmi
+
+11/8

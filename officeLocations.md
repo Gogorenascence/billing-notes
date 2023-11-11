@@ -50,3 +50,8 @@ Abilene, TX 79605
 
 OFFICE LOCATION: 		Jamon Clayton, DC, 1706 Cary St. Weslaco, TX 78599
 1881038008
+
+OFFICE LOCATION: 		Physical Therapy and Rehab Concepts,
+915 Highway 80 San Mar Plaza Shopping Center
+San Marcos, TX 78666
+1235353350
