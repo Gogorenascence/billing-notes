@@ -23,8 +23,15 @@ not determined to be apart of the extent
 statutory - maxed out length of benefits 104 weeks
 
 
+lu se
+mmi
 
-carlos lopez
-not at mmi
+jen d
+track post op pt
 
-11/8
+rtw
+
+Barron
+5/31/23
+rotator cuff not compensible
+has not yet reached MMI

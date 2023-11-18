@@ -1,20 +1,33 @@
 Texas Mutual - 1-512-224-3800 2 -2 -1
     TM 8885325246
+
 Gallagher Bassett 800-370-0594 1
+    PO Box 2831
+    Clinton, IA 52733
+
 Travelers - 1-800-252-4633 2 -4 -1
+
 Sedgwick
     866-495-7844 7
     855-286-9465 7
     225-368-3500
+
 ESIS - 800-233-8931 4
 
-Waeil Kelada
-Gallagher Bassett 009936000003WC01
-rec. 10/23
-rev. 10/27
-bill# 0192763857
-sent to j5chiro
-amount $800
+The Hartford 1(860) 547-5000
+
+Service Lloyds Insurance Company
+(512) 637-3100 -1 -4
+
+Claims Administrative Services
+(800) 765-2412
+
+Summit Holdings
+1-800-762-7811
+fax: 8636671871
+PO Box 2928
+Lakeland, FL 33806-2928
+----------------------------------------------------------------
 
 
 Agustin Lopez
@@ -43,17 +56,6 @@ bill#
 sent to
 amount
 
-
-Margaret Jones
-Sedgwick 4A23060TZ670001
-adj clementina hern 9723726224
-rec.10/23
-rev. 10/25
-bill#137109183
-sent to 10/26
-amount 650.00
-
-
 Ricardo Pope
 berk
 rec.
@@ -70,10 +72,6 @@ Rejected by adjuster 956-513-8896
 Adjuster back on mon
 
 
-Nancy Cardona
-pma
-
-
 request to transfer to pma
 jessie gentr
 
@@ -84,3 +82,63 @@ sent back for processing
 7-10 days for processing
 Katie Siegfried - pma
 supervisor will
+--------------------------------------------------------------------
+
+Frances Garza
+Y2ZC91846
+ Different claim number 000891048390WC01
+GB
+rec. Not received
+rev.
+bill#
+sent to
+amount
+
+Marcelo Terrones
+FVH2531
+Travelers
+rec. 11/17/23
+rev. pending 4-5 weeks
+bill#
+sent to
+amount
+
+Audie Cole
+Y2ZC91846
+The Hartford
+rec. Not received resend through fax: 8592582239
+rev. pending 4-5 weeks
+bill#
+sent to
+amount
+
+Jose Benitez
+9704085
+Service Lloyds
+rec. 11/10
+ref. 15860254
+rev. pending 4-5 weeks
+bill#
+sent to
+amount
+
+Dillon Jackson
+Not reached 11/17
+LEWI 210126
+CAS
+rec. 11/10
+ref. 15860254
+rev. pending 4-5 weeks
+bill#
+sent to
+amount
+
+Barbara Gonzales
+claim 292824
+Summit Holdings
+rec. Not received
+ref. 15860254
+rev. pending 4-5 weeks
+bill#
+sent to
+amount

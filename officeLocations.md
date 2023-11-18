@@ -55,3 +55,10 @@ OFFICE LOCATION: 		Physical Therapy and Rehab Concepts,
 915 Highway 80 San Mar Plaza Shopping Center
 San Marcos, TX 78666
 1235353350
+
+OFFICE LOCATION: 		Spine & Health Institute, 7400 Blanco Rd Ste 125
+San Antonio, TX 78216
+1841419942
+
+OFFICE LOCATION: 		May Family Chiropractic, 1507 S Key Ave Ste A
+Lampasas, TX 76550
