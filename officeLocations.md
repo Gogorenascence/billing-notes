@@ -7,6 +7,7 @@ Abilene, TX 79605
 OFFICE LOCATION: 		2922 Oak Lawn Ave, Dallas, TX 75219
 
 OFFICE LOCATION: 		Southwest Chiropractic, 1030 N Zaragoza STE A El Paso, TX 79907
+1396916227
 
 OFFICE LOCATION: 		Anthony Chiro
 61 N Kegley Rd, Temple, TX 76502
@@ -44,8 +45,12 @@ OFFICE LOCATION: 		Beaty Chiropratic Clinic, 2100 N Grandview Ave. Ste A
 Odessa, TX 79761
 1619012366
 
-OFFICE LOCATION: 		Crossroads Clinic, 4102 Buffalo Gap Rd Ste A1
+<!-- OFFICE LOCATION: 		Crossroads Clinic, 4102 Buffalo Gap Rd Ste A1
 Abilene, TX 79605
+1205956786 -->
+
+OFFICE LOCATION: 		Crossroads Clinic, 4433 Loop 322
+Abilene, TX 79602
 1205956786
 
 OFFICE LOCATION: 		Jamon Clayton, DC, 1706 Cary St. Weslaco, TX 78599
@@ -62,3 +67,7 @@ San Antonio, TX 78216
 
 OFFICE LOCATION: 		May Family Chiropractic, 1507 S Key Ave Ste A
 Lampasas, TX 76550
+1871688028
+
+OFFICE LOCATION: 		Rice Chiropractic Clinic, 204 N 1st St.
+Conroe, TX 77301

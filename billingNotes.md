@@ -15,6 +15,10 @@ MMI and Impairment Rating billed together
 
 1 unit at $500 if not at MMI
 never more than 1 unit
+
+FCE
+10 units
+750.00
 ====================
 Extent of Injury W6 RE
 Disability W7 RE
@@ -60,3 +64,31 @@ Bill review numbers
 
 
 PMA W goes at the front of the claim number
+
+
+Send bills:
+Cover Page
+Bill
+W9
+[applicable forms]
+Report
+
+efax.com
+8179770333
+2681
+
+Subject = Attn: Bill Review Department
+Message = DD Billing for [patient name]
+            [claim]
+
+
+1500
+w9
+69
+68
+73
+report
+
+
+malay 2 units RTW mmi
+barron 3 units mmi
