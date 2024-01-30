@@ -1,3 +1,4 @@
+
 Texas Mutual - 1-512-224-3800 2 -2 -1
     TM 8885325246
 
@@ -12,6 +13,7 @@ Sedgwick
     855-286-9465 7
 
 ESIS - 800-233-8931 4
+closed 4:30pm
 
 The Hartford 1(860) 547-5000
     TX -1-877-952-9222
@@ -34,7 +36,7 @@ Biberk
 2039892652
 
 Liberty Mutual
-800-290-8711 2 1 5
+<!-- 800-290-8711 2 1 5 -->
 800-500-7044 2
 
 Accident Fund National Insurance
@@ -45,12 +47,22 @@ IMO injurymanagement.com
 
 CCMSI
 800-252-5059
+closes 1630
 
 cbcs claims
 833-599-2832
 
 Starstone National Insurance Company
 1-844-722-7827
+
+Zurich North America
+(713) 787-7800
+closed at 1630
+
+5173162747
+
+Znat
+800-440-5020
 
 ----------------------------------------------------------------
 
@@ -84,17 +96,11 @@ rev.
 bill#
 sent to
 amount
+denied
+500
 
 Nantos
 8636671871
-
-Jesse Jarrett
-001437082582WC01
-Gallagher Bassett
-sent 11/26
-rec. 11/28
-denied - timely file
-Reconsideration and don't deny as duplicate
 
 Ricardo Pope
 N9WC702779001
@@ -102,32 +108,75 @@ Berkshire Hathaway
 No reached
 sent 11/26
 
-lucia sepulveda
-4A2304MRKBT-O001
-Sedgwick
-in review
+no yet reached mmi
+still hasn't
+2 if  only pt
+3 month out as normal
+4 month out for surgery
+statutory matches mmi date
 
-Rose Lowe
-1426001358160
-Texas Mutual
-sent 11/29
-rec. 11/30
-rev. pending 45 days
+s92.422a
 
-Deandre Garden
-ATP23149428
-Starstone National Insurance Company
-Not reached
-sent 11/21
+3/13
 
-Barbara Gonzales
-claim 292824
-Summit Holdings
-rec. 11/30
-rev. pending 45 days
+juan b 1500
+juan m
 
-Lenoire Washington
-AFC230607875
-Accident Fund National Insurance
-Received 11/13
-In review
+kendrick j
+received 1/2/24
+
+joanna h
+
+
+-------------------------------------------
+
+
+Heidi McDowell
+znat
+466-51-5709
+rec 1/9/23
+pending
+
+Juan Monarrez
+lm
+
+kelly is off
+
+lucia s
+denied because provider was out network
+sedgwick
+
+Kendrick Jenkins
+1/2/24
+pending
+
+tm
+
+Kyle Miller
+tm
+denied 12/20/23
+
+
+Tyrine Mason
+
+barbara
+
+
+
+
+
+Hawkins
+mmi 12/6/23
+s83.92xa
+4% i
+
+
+
+
+
+scottier b
+
+
+miguel bl
+pending
+1

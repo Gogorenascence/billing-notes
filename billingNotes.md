@@ -8,6 +8,8 @@ W5 WP
 Not at MMI
 W5 NM
 
+MI 75 d
+
 MMI and Impairment Rating billed together
 1 unit at $850 if at MMI
 1 unit at $1000 if at MMI
@@ -88,7 +90,3 @@ w9
 68
 73
 report
-
-
-malay 2 units RTW mmi
-barron 3 units mmi

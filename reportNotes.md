@@ -23,6 +23,7 @@ not determined to be apart of the extent
 statutory - maxed out length of benefits 104 weeks
 
 
-Heidi 12/11
 
-Caleb had not reached MMI
+ cerv
+ L shou
+ knee
