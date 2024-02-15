@@ -1,12 +1,14 @@
 
-Texas Mutual - 1-512-224-3800 2 -2 -1
+Texas Mutual -  2 -2 -1
     TM 8885325246
 
 Gallagher Bassett 800-370-0594 1
     PO Box 2831
     Clinton, IA 52733
+    7176971266 -2
+    closes at 5
 
-Travelers - 1-800-252-4633 2 -4 -1
+Travelers - 1-800-252-4633 2 -4 -1 -1
 
 Sedgwick
     866-495-7844 7
@@ -14,6 +16,10 @@ Sedgwick
 
 ESIS - 800-233-8931 4
 closed 4:30pm
+
+Conduit
+888-853-4735 -6
+closes at 4:00pm
 
 The Hartford 1(860) 547-5000
     TX -1-877-952-9222
@@ -64,6 +70,15 @@ closed at 1630
 Znat
 800-440-5020
 
+Sentry Casualty Company
+800-473-6879
+closes at 5pm
+
+Coventry
+800-937-6824
+
+AS&G Claims Administration
+800-580-2334
 ----------------------------------------------------------------
 
 Ricardo Pope
@@ -76,37 +91,11 @@ amount
 w9 form - 2039892652
 new department email
 
-Virides Hartfield
-esis
-10/09
-Rejected by adjuster 956-513-8896
-Adjuster back on mon
 
-
-request to transfer to pma
-jessie gentr
-
---------------------------------------------------------------------
-Barbara Gonzales
-claim 292824
-Summit Holdings
-rec. Not received
-ref. 15860254
-rev.
-bill#
-sent to
-amount
-denied
-500
 
 Nantos
 8636671871
 
-Ricardo Pope
-N9WC702779001
-Berkshire Hathaway
-No reached
-sent 11/26
 
 no yet reached mmi
 still hasn't
@@ -122,8 +111,7 @@ s92.422a
 juan b 1500
 juan m
 
-kendrick j
-received 1/2/24
+
 
 joanna h
 
@@ -137,46 +125,69 @@ znat
 rec 1/9/23
 pending
 
-Juan Monarrez
-lm
 
-kelly is off
 
-lucia s
-denied because provider was out network
-sedgwick
 
-Kendrick Jenkins
-1/2/24
+
+
+
+
+
+
+
+
+
+o johnson
 pending
-
-tm
-
-Kyle Miller
-tm
-denied 12/20/23
-
-
-Tyrine Mason
-
-barbara
-
-
-
-
-
-Hawkins
-mmi 12/6/23
-s83.92xa
-4% i
-
-
-
-
-
-scottier b
 
 
 miguel bl
 pending
-1
+1/29
+1000
+ext 236
+fce
+denied
+rec allowance nego disc
+
+
+Fabian Montanez
+Sentry
+
+1. Fabian Montanez
+    pending release
+    $850
+
+2. James Dotson
+    Pending
+    no received
+    2148227460
+    4a2304jnl92-0001
+
+3. Brandon Hawkins
+    Sent for review
+    sent on 1/25/24
+
+4. Scottie Braddy
+    Received 01/31/24
+    $650
+
+5. Victoria Anthony
+    pending
+
+6. Loel Roberts
+    Not reached
+    Conduit
+    8009327460
+
+    863-669-2059
+    Under 10
+    PO 14807 lexington Ky 40512
+    conduit
+    randstad
+
+10. Ricardo Pope
+    Not received
+    billing does not access
+    new department
+    emialing request of info

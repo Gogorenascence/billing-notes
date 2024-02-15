@@ -90,3 +90,19 @@ w9
 68
 73
 report
+
+
+2 if  only pt
+3 month out as normal
+4 month out for surgery
+statutory matches mmi date
+
+marco cuel
+d icd
+s83.91xd
+s83.281d
+mmi 1-10-24
+1% ir
+
+69
+1500
