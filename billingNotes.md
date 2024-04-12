@@ -1,3 +1,4 @@
+DWC Forms
 mmi 69 + 1500
 extent, disability 68
 rtw - 73
@@ -8,12 +9,12 @@ W5 WP
 Not at MMI
 W5 NM
 
-MI 75 d
+MI 75
 
 MMI and Impairment Rating billed together
 1 unit at $850 if at MMI
-1 unit at $1000 if at MMI
-1 unit at $1200 if at MMI
+2 units at $1000 if at MMI
+3 units at $1200 if at MMI
 
 1 unit at $500 if not at MMI
 never more than 1 unit
@@ -97,12 +98,8 @@ report
 4 month out for surgery
 statutory matches mmi date
 
-marco cuel
-d icd
-s83.91xd
-s83.281d
-mmi 1-10-24
-1% ir
+andy
 
-69
-1500
+florence ar 68 69
+
+maria comp all 3 reports

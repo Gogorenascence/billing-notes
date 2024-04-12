@@ -260,6 +260,7 @@ H93.13 Tinnitus, Bilateral
 H93.19 Tinnitus, Unspecified Ear
 R07.9 Chest pain, Unspecified
 M62.838 Other muscle spasm
+M67. 51 Plica syndrome, right knee
 
 G44.309 Post-traumatic headache, Unspecified, not intractable
 S00.83XA Contusion of other part of head, initial encounter
@@ -301,6 +302,7 @@ V53.5XXF Driver of SUV injured in collision with another vehicle in traffic acci
 
 S92.334A Nondisplaced fracture of second metatarsal bone, right foot, initial encounter for closed fracture
 S92.334A Nondisplaced fracture of third metatarsal bone, right foot, initial encounter for closed fracture
+S92.514D Nondisplaced fracture of proximal phalanx of right lesser toe(s), subsequent encounter for fracture with routine healing
 S92.534A Nondisplaced fracture of distal phalanx of right lesser toe(s)
 
 
