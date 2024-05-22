@@ -1,4 +1,5 @@
 DWC Forms
+
 mmi 69 + 1500
 extent, disability 68
 rtw - 73
@@ -85,6 +86,8 @@ Message = DD Billing for [patient name]
             [claim]
 
 
+Billing order
+
 1500
 w9
 69
@@ -98,8 +101,13 @@ report
 4 month out for surgery
 statutory matches mmi date
 
-andy
+95 days starting with to date
+from - date of exam
+to - late date of testing
 
-florence ar 68 69
+No WP or RE
+NM still applies
 
-maria comp all 3 reports
+Assignment number goes to box 23
+
+99456 w/ mod 52 for missed appointment

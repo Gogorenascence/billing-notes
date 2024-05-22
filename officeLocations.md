@@ -90,3 +90,14 @@ OFFICE LOCATION: 		Marshall Physical Therapy Clinic, 1006 E End Blvd N, Marshall
 
 Functional Performance 1204 N 7th St Harlingen, TX 78550
 1982786299
+
+Hillcrest Chiropractic Clinic, 6701 Sanger Ave Ste 104 Waco, TX 76710
+
+Family Chiropractic, 1920 Acton Hwy Granbury, TX 76049
+1720122807
+
+Pain Relief Rehab, 363 W. Main Street, Lewisville, TX 75067
+1386019735
+
+Southwest Back Clinic, 4241 Southwest
+Blvd Ste 106, San Angelo, TX 76904-5687

@@ -15,8 +15,11 @@ PO Box 660456
 Sedgwick
     866-495-7844 7
     855-286-9465 7
+fax:
+
 
 ESIS - 800-233-8931 4
+800 9377460 -5
 closed 4:30pm
 
 Conduit
@@ -46,6 +49,8 @@ Biberk
 Liberty Mutual
 <!-- 800-290-8711 2 1 5 -->
 800-500-7044 2
+Helmsmann
+800-320-7582
 
 Accident Fund National Insurance
 8662065851 voice mail full
@@ -84,7 +89,7 @@ AS&G Claims Administration
 800-580-2334
 
 Randstad(Conduit)
-8888534735 - 1 - 6
+8888534735 - 6
 863-669-2059 - fax
 Under 10 pages
 or
@@ -92,9 +97,24 @@ PO 14807 lexington Ky 40512
 closes at 4:00pm
 
 Nationwide
-1-888-490-1549
+<!-- 1-888-490-1549 -->
+8004213535 4 - 2
 
+genex
+8888640574 -1
+closes at 4pm
 
+Creative Risk Funding
+fax or email
+Ph: (972) 889-9300
+Fx: (972) 889-3700
+fax@crf.cc
+
+Strategic Comp
+800-467-7725 -- 4 - 2
+732-576-6157
+
+closes at 4:30pm
 ----------------------------------------------------------------
 
 Ricardo Pope
@@ -198,6 +218,7 @@ darryl will
 
 bertha doming
 Adj Renata Schuch 8337002461 ext 12045
+
 8008226099 - 1
 7325766009
 
@@ -210,7 +231,7 @@ james dot
 <!-- 2/5 O'bovia Johnson - nc -->
 <!-- 2/5 Miguel Bledsoe - sedg no preauthorization found -->
 <!-- 2/15 Marco Cuellar - lm - 650 -->
-2/15 Loel Roberts - condui - 650 waiting on check
+<!-- 2/15 Loel Roberts - condui - 650 waiting on check -->
 <!-- 2/15 Faith Mangrum - tm - p -->
 <!-- 2/15 Ricardo Pope - biberk - not received -->
 <!-- 2/16 David Hill - trav - 850 on 2/23 -->
@@ -222,14 +243,128 @@ james dot
 3/2 Jordan Clark 022324 - sedgwick - p under paid 350 not 650
 <!-- 3/4 Joe Martinez - trav - p -->
 <!-- 3/5 Maria Campos - GB - p -->
-3/6 Lauralyn Alexander - Tristar - 650 on 3/22
+<!-- 3/6 Lauralyn Alexander - Tristar - 650 on 3/22 -->
 <!-- 3/7 Florence Arnold - CRF -->
 
 
 Sasha Spears FCE - GB - denied 3/11 - report not included add report
+Sasha adjuster
+Latonya shepard 2nd bill 2/13 - zurich
+
 Hernando Bustos - Employers Preferred Insurance Company
-Bobby Roberts - TM - NR
-Anthony Dominguez - LM -
-Federico Rojas - TM - 3/19 - pending
-Manuel Marez - CRF -
-Tyler Grey - GB - R 3/27 pending
+<!-- Bobby Roberts - TM - 3/25 - NR -->
+<!-- Anthony Dominguez - LM - pending -->
+<!-- Federico Rojas - TM - 3/19 - pending -->
+<!-- Manuel Marez - CRF - message left -->
+<!-- Tyler Grey - GB - R 3/27  - pending  -->
+
+Bertha Dominguez - genex
+adj: renata schuch
+8337002461 -12045
+
+bd nationwide
+ofer tm pending
+jessica cuell es pending 4/12
+jose reyes sed pending
+alfredo gon sed
+latony paid
+
+8003700594 -1 -5 gb bill review
+
+
+latony
+bertha - nr - 18003638904
+7325766009
+ofer - nr - 5122243889
+receive 4/2/24
+8885325246
+rojas - 3/19 - pending
+roberts - 3/26 - pending
+
+2149220650 - sedg fax
+9724439062 - deb campos
+
+jose r
+202401030139885
+
+
+
+
+
+loe rob 650 JS 78112
+
+bert dom - nation 4/18 1400
+cn 20321203
+8008226099
+cr 17004013
+
+ofer ros tm - pendin
+ash ran sed 4a2203ftu98-0001 4/17 950
+fred roj tm - 1100 4/16
+oscar gon tm - 650 3/26
+jesus rob sed - 4/11 800
+jessi cuel esis
+
+call bhavna g
+carol_garza@gbtpa.com
+
+
+
+bob rob tm - pend 4/19 350
+jos rey sed - r 4/15 pending 202401030139885 4/23 800
+alfr gon sed - add 77 to clm # nr 5220240411030137 C367030382000101670 4/25 450
+
+
+
+ofer rosa
+belinda yabarra
+
+
+fuente 1 mmi
+alice 4/19 nm
+
+
+stefanie galindo - sed - 4/26 pending
+carl dav trav - nr 8-10 - 4/19 650
+manu mar crf
+lyset gamez strat comp - vm
+
+josh usher ccmsi loop
+ricardo pope
+
+
+concentra
+austinsouth@concentra.com
+
+farren lewis trav - billing hcs - 4/29 - pending
+jaime tm - 4/16 pending
+jess cull esis 4/12
+sash sp gb - denied mar 11 - report - 972-728-1116
+
+campos recs
+
+jaime
+jess cuel - 4/29 - 5/2 full
+
+loel roberts
+da92571302
+8888534735 - 6
+
+ryan williams
+8886826671
+
+jm014728
+
+thomas car lm - 4/20
+electra johnson - sed - 4/29 5/2 650
+german m sed 002210406104 4/30 5/2 650
+
+
+ashley rankin
+las
+farren lewis
+
+
+reginald - lm
+ashley rankin sed 4a2203ftu98-0001
+2149220650
