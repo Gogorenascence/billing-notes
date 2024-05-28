@@ -145,7 +145,7 @@ statutory matches mmi date
 
 -------------------------------------------
 
-
+[
 Heidi McDowell
 znat
 466-51-5709
@@ -343,7 +343,7 @@ sash sp gb - denied mar 11 - report - 972-728-1116
 
 campos recs
 
-jaime
+jaime tm - 5/16 1400
 jess cuel - 4/29 - 5/2 full
 
 loel roberts
@@ -355,9 +355,8 @@ ryan williams
 
 jm014728
 
-thomas car lm - 4/20
-electra johnson - sed - 4/29 5/2 650
-german m sed 002210406104 4/30 5/2 650
+thomas car lm - 4/20 - 4/23 5/11 350
+underpaid
 
 
 ashley rankin
@@ -365,6 +364,21 @@ las
 farren lewis
 
 
-reginald - lm
+reginald - lm -
 ashley rankin sed 4a2203ftu98-0001
 2149220650
+
+
+Thelma B - 5/24 - GB
+Jennifer R - 5/24 -Sed
+Farren Lewis - 5/23 - Travelers
+Reginald A - 5/23 - LM
+Lauren B - 5/16 - Edwards Risk Management
+Deniven B - 5/15 - PMA
+Pamela P - 5/15 - Sed
+Jetteah L - 5/13 - Travelers
+Leif D - 5/13 - CRF
+Annisia N - 5/13 - indemnity...
+Gay G - 5/9 - Sed
+Fernando F - 5/6 - indemnity...
+Alice Wienke - 5/6 - Metrop...

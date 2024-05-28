@@ -92,6 +92,8 @@ Functional Performance 1204 N 7th St Harlingen, TX 78550
 1982786299
 
 Hillcrest Chiropractic Clinic, 6701 Sanger Ave Ste 104 Waco, TX 76710
+1104106335
+
 
 Family Chiropractic, 1920 Acton Hwy Granbury, TX 76049
 1720122807
@@ -101,3 +103,7 @@ Pain Relief Rehab, 363 W. Main Street, Lewisville, TX 75067
 
 Southwest Back Clinic, 4241 Southwest
 Blvd Ste 106, San Angelo, TX 76904-5687
+
+Truitt Chiropractic, 100 W Henderson St STE H Cleburne, TX 76033
+
+Optimus Physical Therapy, 4311 Andrews Hwy, Midland, TX 79703
