@@ -2,12 +2,9 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require('mongoose');
 const cors = require("cors");
-const cardRouter = require("./routes/card")
-const gameRouter = require("./routes/game")
-const playerRouter = require("./routes/player")
-const articleRouter = require("./routes/article")
-const deckRouter = require("./routes/deck")
-const setupSocket = require("./socket")
+const patientRouter = require("./routes/patient")
+const billRouter = require("./routes/bill")
+const carrierRouter = require("./routes/carrier")
 const dotenv = require('dotenv');
 
 
@@ -20,17 +17,17 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 
 const http = require("http").createServer(app);
-const io = require("socket.io")(http, {
-    cors: {
-        origin: "*",
-    },
-});
+// const io = require("socket.io")(http, {
+//     cors: {
+//         origin: "*",
+//     },
+// });
 
 mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true, useUnifiedTopology: true })
     .then(() => console.log('MongoDB connected'))
     .catch((err) => console.log(err));
 
-setupSocket(io)
+// setupSocket(io)
 
 const PORT = process.env.PORT || 4000;
 
@@ -39,11 +36,9 @@ http.listen(PORT, () => {
 });
 
 app.get('/', (req, res) => {
-    res.send('Game Server is running');
+    res.send('Server is running');
 });
 
-app.use('/cards', cardRouter);
-app.use('/games', gameRouter);
-app.use('/players', playerRouter);
-app.use('/articles', articleRouter);
-app.use('/decks', deckRouter);
+app.use('/patients', patientRouter);
+app.use('/bills', billRouter);
+app.use('/carriers', carrierRouter);

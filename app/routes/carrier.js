@@ -1,61 +1,57 @@
 const express = require('express');
 const router = express.Router();
-const { Article } = require('../models/article');
+const { Carrier } = require('../models/carrier');
 
-// Create a new article
+// Create a new carrier
 router.post('/', async (req, res) => {
-    const article = new Article(req.body);
+    const carrier = new Carrier(req.body);
     try {
-        await article.save();
-        res.status(201).send(article);
+        await carrier.save();
+        res.status(201).send(carrier);
     } catch (error) {
         res.status(400).send(error);
     }
 });
 
-// Get all articles
+// Get all carriers
 router.get('/', async (req, res) => {
     try {
-        const articles = await Article.find();
-        const processed_articles = [...articles].map((article) => {
-            article.id = article._id ? (article._id.$oid ? article._id.$oid : article._id) : article.id;
-            return article;
+        const carriers = await Carrier.find();
+        const processed_carriers = [...carriers].map((carrier) => {
+            carrier.id = carrier._id ? (carrier._id.$oid ? carrier._id.$oid : carrier._id) : carrier.id;
+            return carrier;
         })
-        res.send(processed_articles);
+        res.send(processed_carriers);
     } catch (error) {
         console.error(error)
         res.status(500).send(error);
     }
 });
 
-// Get a article by ID
+// Get a carrier by ID
 router.get('/:id', async (req, res) => {
     const _id = req.params.id;
     try {
-        const article = await Article.findById(_id);
-        if (!article) {
+        const carrier = await Carrier.findById(_id);
+        if (!carrier) {
             return res.status(404).send();
         }
-        res.send(article);
+        res.send(carrier);
     } catch (error) {
         res.status(500).send(error);
     }
 });
 
-// Update a article by ID
+// Update a carrier by ID
 router.patch('/:id', async (req, res) => {
     const updates = Object.keys(req.body);
     const allowedUpdates = [
-        "title",
-        "subtitle",
-        "author",
-        "story_date",
-        "section",
-        "content",
-        "images",
-        "news",
-        "site_link",
-        "updated"
+        "name",
+        "address",
+        "phone",
+        "fax",
+        "email",
+        "notes"
     ];
     const isValidOperation = updates.every((update) => allowedUpdates.includes(update));
 
@@ -64,29 +60,29 @@ router.patch('/:id', async (req, res) => {
     }
 
     try {
-        const article = await Article.findById(req.params.id);
-        if (!article) {
+        const carrier = await Carrier.findById(req.params.id);
+        if (!carrier) {
             return res.status(404).send();
         }
 
-        updates.forEach((update) => article[update] = req.body[update]);
-        await article.save();
-        res.send(article);
+        updates.forEach((update) => carrier[update] = req.body[update]);
+        await carrier.save();
+        res.send(carrier);
     } catch (error) {
         res.status(400).send(error);
     }
 });
 
-// Delete a article by ID
+// Delete a carrier by ID
 router.delete('/:id', async (req, res) => {
     try {
-        const article = await Article.findByIdAndDelete(req.params.id);
+        const carrier = await Carrier.findByIdAndDelete(req.params.id);
 
-        if (!article) {
+        if (!carrier) {
             return res.status(404).send();
         }
 
-        res.send(article);
+        res.send(carrier);
     } catch (error) {
         res.status(500).send(error);
     }
