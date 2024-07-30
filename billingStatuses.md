@@ -9,11 +9,12 @@ Gallagher Bassett 800-370-0594 1
     closes at 5
 
 Travelers - 1-800-252-4633 2 -4 -1 -1 -2
+providerinquiry@travelers.com
 PO Box 660456
 75266-0456
 
 Sedgwick
-    866-495-7844 7
+    1-866-495-7844 7
     855-286-9465 7
 fax:
 
@@ -22,8 +23,10 @@ ESIS - 800-233-8931 4
 800 9377460 -5
 closed 4:30pm
 
-Conduit
+Conduent
 888-853-4735 -6
+866-851-7739
+833-631-4866
 closes at 4:00pm
 
 The Hartford 1(860) 547-5000
@@ -34,6 +37,7 @@ Service Lloyds Insurance Company
 
 Claims Administrative Services
 (800) 765-2412
+Closes at 5pm
 
 Summit Holdings
 1-800-762-7811
@@ -43,17 +47,27 @@ Lakeland, FL 33806-2928
 Closes 3:00 pm
 
 Biberk
-8777012813 2 2
+<!-- 8777012813 2 2 -->
+<!-- 888-495-8949 -->
+<!-- 844-229-9289 -7 - last 6 digits of claim # -->
 <!-- 2039892652 -->
+844-472-0966
+email - claims@biberk.com
+claim # in subject
+
 
 Liberty Mutual
 <!-- 800-290-8711 2 1 5 -->
+
 800-500-7044 2
+fx 8889258391
+
 Helmsmann
 800-320-7582
+8443252467
 
 Accident Fund National Insurance
-8662065851 voice mail full
+8662065851 down - mbr@accidentfund.com
 
 IMO injurymanagement.com
 877-339-1268
@@ -77,6 +91,7 @@ closed at 1630
 
 Znat
 800-440-5020
+8182518901 1 2 3 need ssn
 
 Sentry Casualty Company
 800-473-6879
@@ -108,13 +123,62 @@ Creative Risk Funding
 fax or email
 Ph: (972) 889-9300
 Fx: (972) 889-3700
-fax@crf.cc
+fax@crf.cc <-------
 
 Strategic Comp
 800-467-7725 -- 4 - 2
 732-576-6157
 
 closes at 4:30pm
+
+cbcs claims
+833-599-2832
+
+INDEMNITY INSURANCE COMPANY OF NORTH AMERICA
+(512) 296-3092 -1 -4 -3 -1
+
+Edwards Risk Management
+(800) 575-2657
+closes at 5pm
+
+Broadspire
+1-866-830-2383 - 3
+provider24@choosebroadspire.com
+name
+DOS
+SSN
+Claim #
+
+EK Health
+8885070616
+fx 408-740-4219
+
+PMA
+1-888-476-2669 -6 -2
+FX: 1-800-432-9762
+
+Texas Municipal League Intergovernmental Risk Pool
+tmlirp.org
+ph 800-537-6655
+fx 732-813-1345
+
+Fax
+Sedgwick
+18592644071
+
+Sunz Insurance Company
+(941) 306-3077
+505-212-6901
+
+Hello, billing for [Patient]'s DD Exam was sent to [Carrier] by fax. I wanted to get information on that bill's status.
+
+Claim Number: WC204308
+Date of injury: 10/20/23
+Date of service: 06/12/24
+Billed amount: 600.00
+TX ID: 82-2170594
+
+Thank you
 ----------------------------------------------------------------
 
 Ricardo Pope
@@ -227,40 +291,15 @@ closes at 5pm
 lucia
 james dot
 --------------------------------------------------------
-<!-- 2/2 Todd Metivier - zuric - 950 on 2/19 -->
-<!-- 2/5 O'bovia Johnson - nc -->
-<!-- 2/5 Miguel Bledsoe - sedg no preauthorization found -->
-<!-- 2/15 Marco Cuellar - lm - 650 -->
-<!-- 2/15 Loel Roberts - condui - 650 waiting on check -->
-<!-- 2/15 Faith Mangrum - tm - p -->
-<!-- 2/15 Ricardo Pope - biberk - not received -->
-<!-- 2/16 David Hill - trav - 850 on 2/23 -->
-<!-- 2/16 Chad Harding - gb 650 3/1 -->
-<!-- 2/22 Janis Holliday - trave - 650 on 3/1 -->
-<!-- 2/22 Isabel Perales - sedg - 1150  -->
-<!-- 2/24 Sasha Spears - gb 1150 on 3/6 -->
+
 2/28 Oscar Gonzalez - tm - pending
 3/2 Jordan Clark 022324 - sedgwick - p under paid 350 not 650
-<!-- 3/4 Joe Martinez - trav - p -->
-<!-- 3/5 Maria Campos - GB - p -->
-<!-- 3/6 Lauralyn Alexander - Tristar - 650 on 3/22 -->
-<!-- 3/7 Florence Arnold - CRF -->
-
 
 Sasha Spears FCE - GB - denied 3/11 - report not included add report
 Sasha adjuster
 Latonya shepard 2nd bill 2/13 - zurich
 
 Hernando Bustos - Employers Preferred Insurance Company
-<!-- Bobby Roberts - TM - 3/25 - NR -->
-<!-- Anthony Dominguez - LM - pending -->
-<!-- Federico Rojas - TM - 3/19 - pending -->
-<!-- Manuel Marez - CRF - message left -->
-<!-- Tyler Grey - GB - R 3/27  - pending  -->
-
-Bertha Dominguez - genex
-adj: renata schuch
-8337002461 -12045
 
 bd nationwide
 ofer tm pending
@@ -284,48 +323,25 @@ roberts - 3/26 - pending
 2149220650 - sedg fax
 9724439062 - deb campos
 
-jose r
-202401030139885
 
-
-
-
-
-loe rob 650 JS 78112
-
-bert dom - nation 4/18 1400
 cn 20321203
 8008226099
 cr 17004013
 
 ofer ros tm - pendin
-ash ran sed 4a2203ftu98-0001 4/17 950
-fred roj tm - 1100 4/16
-oscar gon tm - 650 3/26
-jesus rob sed - 4/11 800
-jessi cuel esis
+
 
 call bhavna g
 carol_garza@gbtpa.com
 
 
 
-bob rob tm - pend 4/19 350
-jos rey sed - r 4/15 pending 202401030139885 4/23 800
-alfr gon sed - add 77 to clm # nr 5220240411030137 C367030382000101670 4/25 450
-
-
-
 ofer rosa
 belinda yabarra
-
-
-fuente 1 mmi
 alice 4/19 nm
 
 
 stefanie galindo - sed - 4/26 pending
-carl dav trav - nr 8-10 - 4/19 650
 manu mar crf
 lyset gamez strat comp - vm
 
@@ -337,14 +353,8 @@ concentra
 austinsouth@concentra.com
 
 farren lewis trav - billing hcs - 4/29 - pending
-jaime tm - 4/16 pending
-jess cull esis 4/12
+
 sash sp gb - denied mar 11 - report - 972-728-1116
-
-campos recs
-
-jaime tm - 5/16 1400
-jess cuel - 4/29 - 5/2 full
 
 loel roberts
 da92571302
@@ -369,16 +379,10 @@ ashley rankin sed 4a2203ftu98-0001
 2149220650
 
 
-Thelma B - 5/24 - GB
-Jennifer R - 5/24 -Sed
-Farren Lewis - 5/23 - Travelers
-Reginald A - 5/23 - LM
-Lauren B - 5/16 - Edwards Risk Management
-Deniven B - 5/15 - PMA
-Pamela P - 5/15 - Sed
-Jetteah L - 5/13 - Travelers
-Leif D - 5/13 - CRF
-Annisia N - 5/13 - indemnity...
-Gay G - 5/9 - Sed
-Fernando F - 5/6 - indemnity...
-Alice Wienke - 5/6 - Metrop...
+9285
+
+nancy mmi at exam
+69
+1500
+post op pt 30 acl repair
+knee impairm

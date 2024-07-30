@@ -1,5 +1,5 @@
 OFFICE LOCATION: 		Pinnacle Health, 427 E Duranta Ave Ste# 104
-Alamo, TX 78616
+Alamo, TX 78516
 1669650263
 
 OFFICE LOCATION:        9330 Lyndon B Johnson Fwy STE 900 Dallas, TX 75243
@@ -105,5 +105,12 @@ Southwest Back Clinic, 4241 Southwest
 Blvd Ste 106, San Angelo, TX 76904-5687
 
 Truitt Chiropractic, 100 W Henderson St STE H Cleburne, TX 76033
+1043397367
 
 Optimus Physical Therapy, 4311 Andrews Hwy, Midland, TX 79703
+
+Corsicana Chiropractic, 2300 W 2nd Ave Corsicana, TX 75110
+1427520386
+
+Pamela Tackett, DC, 1367 E College St, Seguin, TX 78155
+1033293808

@@ -112,18 +112,45 @@ Assignment number goes to box 23
 
 99456 w/ mod 52 for missed appointment
 
+===================
+Reconsideration of Billing
 
-farren - s80.02xa
-resubmission
+ATTN: Bill Review Department Reconsideration
+
+BILL ID [Internal Bill Number] WAS INCORRECTLY PROCESSED.
+<!-- Repeat for each billing item -->
+Claimant was billed for 99456, [Billing Modifier], which according to EDI billing rules has a minimal payment of [Minimum Amount] for 1 unit. ** Claiment payout was [Amonut received].
+<!-- Repeat for each billing item -->
+
+**Please note this bill is from a state oreded DD exam which requires mandatory payment, or be subject of fines and/or penalties.
+
+Please remit a payment theat was unfulfilled for m initial review.
+
+Billing order
+
+1500
+EOB
+69
+68
+73
+report
 
 
-Fax
-Sedgwick
-18592644071
+BILL ID 142180538 WAS INCORRECTLY PROCESSED.
+Claimant was billed for 99456, W5 WP, which according to EDI billing rules has a minimal payment of $650 for 1 unit. ** Claiment payout was $350.
+
+**Please note this bill is from a state oreded DD exam which requires mandatory payment, or be subject of fines and/or penalties.
 
 
-bill 69
-mmi rtw tim smith
+hank howard 1500
+alberto cruz extent
 
-bill 69
-mmi rtw juan mon
+mmi
+dd victor ford
+
+EH
+cerv sprain
+lumbar s/s
+right knee medial menisc
+
+herniated disc cervical lumbar

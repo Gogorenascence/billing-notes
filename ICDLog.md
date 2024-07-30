@@ -21,13 +21,15 @@ M54.2 Cervicalgia
 
 M99.01 Segmental Dysfunction of cervical
 
-S23.3XXA Thoracic Spran, initial encounter
+S23.3XXA Thoracic Sprain, initial encounter
 S23.41XA Sprain of ribs, initial encounter
 M54.6 Thoracic Pain
 
 S23.3XXA Thoracic Sprain, initial encounter
 S29.019A Thoracic Strain, initial encounter
 M54.6 Thoracic Pain
+
+S29.012A Strain of muscle and tendon of back wall of thorax, initial encounter
 
 S43.81XA Right Shoulder Sprain, initial encounter
 S46.811A Right Shoulder Strain, initial encounter
