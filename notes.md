@@ -84,3 +84,44 @@ charges -->
 
 Form
 ===============
+
+
+<!-- 1) Cervical + first 2 girths
+Thoracic + first 2 girths
+separate pages -->
+
+<!-- 2) Axial compression/Spurlings -->
+<!-- O'Briens Test under Hawkins Sign -->
+
+<!-- 3) Elbow first page only -->
+
+<!-- 4) Remove (finger)
+
+5) Ignore (hand)
+
+6) Separate Hip, Ankle and toes
+add thigh and calf girths to all pages  -->
+<!--
+7) Third page is the only one (knee) -->
+
+<!-- 8) Second page of (7) becomes the second page of (8) -->
+
+<!-- 9) No change
+
+10) Remove
+
+11) Add pages 1-3 of (10) to the end of (11) -->
+
+12) Remove the second page
+
+13) Remove the second page
+
+14) Remove
+
+Intake Form
+Remove bottom
+PMH instead of Medical History
+PSH + line
+Remove Previous Surg... add ADLs affected
+Under Employer, "same/different"
+FT/PT/NW

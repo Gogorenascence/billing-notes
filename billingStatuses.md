@@ -3,6 +3,7 @@ Texas Mutual - 1 - 1  2 -2 -1
     TM 8885325246
 
 Gallagher Bassett 800-370-0594 1
+    833-707-6338
     PO Box 2831
     Clinton, IA 52733
     7176971266 -2
@@ -17,6 +18,7 @@ Sedgwick
     1-866-495-7844 7
     855-286-9465 7
 fax:
+18592644071
 
 
 ESIS - 800-233-8931 4
@@ -44,6 +46,7 @@ Summit Holdings
 fax: 8636671871
 PO Box 2928
 Lakeland, FL 33806-2928
+dg-summit_prov_auth_req@summitholdings.com
 Closes 3:00 pm
 
 Biberk
@@ -51,8 +54,11 @@ Biberk
 <!-- 888-495-8949 -->
 <!-- 844-229-9289 -7 - last 6 digits of claim # -->
 <!-- 2039892652 -->
-844-472-0966
+844-472-0966 2
+2039892652
+
 email - claims@biberk.com
+biberk.com/policyholders/upload-medical-bills
 claim # in subject
 
 
@@ -68,12 +74,15 @@ Helmsmann
 
 Accident Fund National Insurance
 8662065851 down - mbr@accidentfund.com
+closes at 1600
 
 IMO injurymanagement.com
 877-339-1268
 
 CCMSI
-800-252-5059
+<!-- 800-252-5059 -->
+844-525-0294 - 0
+fx 9723867918
 closes 1630
 
 cbcs claims
@@ -142,7 +151,7 @@ Edwards Risk Management
 closes at 5pm
 
 Broadspire
-1-866-830-2383 - 3
+1-866-830-2383 - 1 - 3
 provider24@choosebroadspire.com
 name
 DOS
@@ -169,6 +178,25 @@ Sedgwick
 Sunz Insurance Company
 (941) 306-3077
 505-212-6901
+
+Strategic Comp
+ph 8004677725 -3 -2
+fx 7325766157
+
+Normandy Insurance Services
+<!-- 866-688-6442 1 4 -->
+<!-- 4848804018 1 -->
+4844986370 1
+
+fax 4842827680
+billaudit@s1-medical.com
+
+Zenith
+fax 18003640443
+
+State Office of Risk Management
+Main #: (512) 475-1440
+Fax #: (512) 370-9025
 
 Hello, billing for [Patient]'s DD Exam was sent to [Carrier] by fax. I wanted to get information on that bill's status.
 
@@ -386,3 +414,13 @@ nancy mmi at exam
 1500
 post op pt 30 acl repair
 knee impairm
+
+compensible
+cerv s/s
+
+disputed
+
+
+no causation
+lumbar
+- 37556

@@ -114,3 +114,9 @@ Corsicana Chiropractic, 2300 W 2nd Ave Corsicana, TX 75110
 
 Pamela Tackett, DC, 1367 E College St, Seguin, TX 78155
 1033293808
+
+Berry Chiropractic, 4111 Call Field Rd, Wichita Falls, TX 76308
+1588658710
+
+Slaughter Chiropractic, 2021 N Mays St Ste 900, Round Rock, TX 78664
+1881889756

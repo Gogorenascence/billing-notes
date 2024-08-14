@@ -5,6 +5,7 @@ const cors = require("cors");
 const patientRouter = require("./routes/patient")
 const billRouter = require("./routes/bill")
 const carrierRouter = require("./routes/carrier")
+const icdcodeRouter = require("./routes/icdcode")
 const dotenv = require('dotenv');
 
 
@@ -42,3 +43,4 @@ app.get('/', (req, res) => {
 app.use('/patients', patientRouter);
 app.use('/bills', billRouter);
 app.use('/carriers', carrierRouter);
+app.use('/icdcodes', icdcodeRouter);

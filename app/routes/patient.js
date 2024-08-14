@@ -36,6 +36,7 @@ router.get('/:id', async (req, res) => {
         if (!patient) {
             return res.status(404).send();
         }
+        patient.id = patient._id ? (patient._id.$oid ? patient._id.$oid : patient._id) : patient.id;
         res.send(patient);
     } catch (error) {
         res.status(500).send(error);
@@ -53,9 +54,11 @@ router.patch('/:id', async (req, res) => {
         "sex",
         "SSN",
         "DOI",
+        "DWCNumber",
         "diagnosisCodes",
         "carrierID",
         "carrierName",
+        "representative",
         "adjuster",
         "claimNumber",
         "docLinks",

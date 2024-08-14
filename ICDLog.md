@@ -111,7 +111,7 @@ M25.572 Pain in Left ankle and joints of foot
 M79.672 Pain in Left foot
 
 
-
+S83.241A Other tear of medial meniscus, current injury, right knee, initial encounter.
 
 S53.401A Unspecified sprain of Right elbow, initial encounter
 M25.521 Pain in Right elbow

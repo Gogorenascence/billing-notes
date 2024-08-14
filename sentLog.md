@@ -1,6 +1,6 @@
 
-Thelma B -  Sent 5/24 - GB - No received 
-Deniven B - Sent 5/15 - PMA
+<!-- Thelma B -  Sent 5/24 - GB - No received  -->
+<!-- Deniven B - Sent 5/15 - PMA -->
 Jetteah L - Sent 5/28 - Travelers/cbcs claims - bill not received/no case found/injury reported
 Wesley Jennings - sent 5/29 cas
 Joanna H - sent 5/31 zur
@@ -17,8 +17,8 @@ Gene Baxter / Sunz Insurance Company / sent 6/28
 
 Jirachai Martin / liberty mutual / 6-17 / pending
 Austin Barnes - gb - 6/24 - pending
-Carlos Leon - zurich - pending
-
+<!-- Carlos Leon - zurich - pending
+2148661475 -->
 
 Hacermabeth Tecson - sent 6/27 - Accident Fund - system down
 
@@ -34,34 +34,78 @@ claims@nlf-info.com
 attn cindy
 mbr@guard.com
 
+Joel Garza 7/31 sed 8/5 - denied charges not covered
+Denny Hainley
+5123459730 adj resent bill to be approved
+
+Danny Cruz rec 8/1/24 summit - pending
+Hank Howard - sent 7/24 - Biberk - nr adj resent through site 8/9
+Juan Barrios - sent 7/3 - Sedgwick - received 7/4 - pending adj linda 9727154264 pending
+Tomas Cortinas 8/1 normandy received 8/1
+48488040
+De la Rosa esis received 8/7 pending
+Jasmine Flores 8/2 strat - received 8/2
+
+Edward Daniels - Gallagher Bassett  - 7/7 - 7/17 - $449 - (972) 728-3564 receiving 8/3 pending
+
+Marlene Gray ccmsi
+T Barrells cas received 8/6 pending
+veronica ubom sorm received 8/6 pending
+eufracio tm nr
+Cullen Riddle 7/31 tm - 8/1 pending
+
+Jose Reyes sed - 202401030139885 - 7/10 - call adj 1476.00 8/9
+Alfredo Gonzalez sed 202307270135177 - 7/10 - call adj 08/08 834.00 8/9
+call supervisor
+9723726122
+2149220618
+4696241018
+9723726189
+2149220600
+
+
+
+courtney thomas
+2149220635
+
+
+<!-- Terry Zimmerman - sent 7/5 - TMLIRP - denied eob requested -->
+Hacermabeth - received 7/11 - pending
+Jessica Boucher
+5178974962
 
 
 
 
 
-Hank Howard - sent 7/24 - Biberk - wait
 
-Alfredo Gonzalez sed 202307270135177 - 7/10 pending - call adj
-Jose Reyes sed - 202401030139885 - 7/10 - pending - call adj
+Russell Parum - sent 7/16 - Broadspire - 7/16 - pending
+29 - 8/2 - 493 underpaid
 
-Dustin Green accid down - mbr@accidentfund.com - resent
+
+Dustin Green accid down - mbr@accidentfund.com - resent - pending  received 7/16 7/29
+Sandra Rice
+9728342060
+
 Hector Rodela - sent 7/15 - Travelers - resent
 
-Terry Zimmerman - sent 7/5 - TMLIRP - denied eob requested
 Alexis Valera - sent 7/19 - Sed - 7/24 denied - exceeds recommended amount
  thr sp lumbar str
  radicu
 
 Frances Garza - sent 7/19 - 7/22 - 7/22- full-  Gallagher Bassett
-Edward Daniels - Gallagher Bassett  - 7/7 - 7/17 - $449 - (972) 728-3564
 Donald Bunch  Gallagher Bassett - 7/13 - 7/15 - full
-Justin Royce zenith - 7/8 - pending
+Justin Royce zenith - 7/8 - sent 8/8
 Nancy Cardona - sent 7/2 - PMA - Conduent - received 7/4 - pending
-Russell Parum - sent 7/16 - Broadspire - 7/16 - pending
 Julieta Esparza - sent 7/9 - tm beryl 7/9 - pending
-Juan Barrios - sent 7/3 - Sedgwick - received 7/4 - pending adj linda 9727154262
 2149220600
 9727154202
+
+barrios
+
+KNEE SHOULDE MMI IR
+<!-- carlos leon differe -->
+<!-- Gerardo Moreno 7/31 gb - 8/1 - pd 1800 -->
 
 <!-- Lettie Lopez / Sedgwick / full -->
 <!-- Maria Reyes / biberk / 6-20 / full 7-11 -->

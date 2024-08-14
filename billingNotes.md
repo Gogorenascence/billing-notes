@@ -119,7 +119,7 @@ ATTN: Bill Review Department Reconsideration
 
 BILL ID [Internal Bill Number] WAS INCORRECTLY PROCESSED.
 <!-- Repeat for each billing item -->
-Claimant was billed for 99456, [Billing Modifier], which according to EDI billing rules has a minimal payment of [Minimum Amount] for 1 unit. ** Claiment payout was [Amonut received].
+Claimant was billed for 99456, [Billing Modifier], which according to EDI billing rules has a minimal payment of [Minimum Amount] for 1 unit. ** Claimant payout was [Amonut received].
 <!-- Repeat for each billing item -->
 
 **Please note this bill is from a state oreded DD exam which requires mandatory payment, or be subject of fines and/or penalties.

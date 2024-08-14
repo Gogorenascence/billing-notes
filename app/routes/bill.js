@@ -46,7 +46,6 @@ router.get('/:id', async (req, res) => {
 router.patch('/:id', async (req, res) => {
     const updates = Object.keys(req.body);
     const allowedUpdates = [
-        "patientID",
         "patientFirstName",
         "patientLastName",
         "carrierID",
@@ -54,18 +53,25 @@ router.patch('/:id', async (req, res) => {
         "claimNumber",
         "DOS",
         "procedureCodes",
+        "diagnosisCodes",
+        "disputedAreas",
         "charge",
         "status",
         "sent",
         "received",
+        "processed",
         "paid",
         "docLink",
+        "lastChecked",
         "notes"
     ];
     const isValidOperation = updates.every((update) => allowedUpdates.includes(update));
 
     if (!isValidOperation) {
-        return res.status(400).send({ error: 'Invalid updates!' });
+        return res.status(400).send({
+            error: 'Invalid updates!',
+            content: updates.filter(update => !allowedUpdates.includes(update))
+        });
     }
 
     try {
