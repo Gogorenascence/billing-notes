@@ -120,3 +120,6 @@ Berry Chiropractic, 4111 Call Field Rd, Wichita Falls, TX 76308
 
 Slaughter Chiropractic, 2021 N Mays St Ste 900, Round Rock, TX 78664
 1881889756
+
+NP Health Clinic 837 N Main St. Spc 118, Lumberton, TX 77657
+1598931636

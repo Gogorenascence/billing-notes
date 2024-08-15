@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react'
 
 
-function AutoComplete({
+function CodeAutoComplete({
     itemList,
     renderCondition,
     setNoneRenderFunction,
@@ -63,4 +63,4 @@ function AutoComplete({
     )
 }
 
-export default AutoComplete
+export default CodeAutoComplete

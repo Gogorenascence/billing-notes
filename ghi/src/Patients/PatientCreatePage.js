@@ -2,6 +2,7 @@ import { useState, useEffect, useContext } from "react";
 import { NavLink, useNavigate, useParams } from 'react-router-dom';
 // import { AuthContext } from "../context/AuthContext";
 import AutoComplete from "../Display/AutoComplete";
+import ICD10Autocomplete from "../Codes/ICD10Autocomplete";
 import helper from "../Helper";
 
 
@@ -42,16 +43,18 @@ function PatientCreatePage() {
         company: ""
     })
 
-
     const getPatient = async() =>{
         if (patient_id !== "create") {
             const patientResponse = await fetch(`http://localhost:4000/Patients/${patient_id}`)
             if (patientResponse.ok) {
                 const patientData = await patientResponse.json()
-                setPatient(patientData);
+                setPatient(patientData)
+                setDiagnosisCodes(patientData.diagnosisCodes)
             } else {
                 setNoPatient(true)
             }
+        } else {
+            setNoPatient(true)
         }
     };
 
@@ -60,57 +63,153 @@ function PatientCreatePage() {
         setPatient({
             ...patient,
             [event.target.name]: event.target.value})
-            console.log(diagnosisCodes)
-        }
+        console.log(diagnosisCodes)
+        console.log(selectedCarrier)
+    }
     const [diagnosisCodes, setDiagnosisCodes] = useState([])
 
     const [icdcodes, setICDCodes] = useState([])
+    const [icdcount, setICDCount] = useState(0)
     const [showACICD, setShowACICD] = useState(true)
     const [icdSearch, setICDSearch] = useState("")
 
-    const getICDCodes = async() =>{
-        const ICDResponse = await fetch("http://localhost:4000/icdcodes/")
-        if (ICDResponse.ok) {
-            const ICDData = await ICDResponse.json()
-            setICDCodes(ICDData.sort((a,b) => a.ICDcode.localeCompare(b.ICDcode)))
-        }
-    };
 
-    const filteredCodes = [...icdcodes].filter(icdcode =>
-        icdSearch? (icdcode.ICDcode.toLowerCase().includes(icdSearch.toLowerCase()) ||
-        icdcode.name.toLowerCase().includes(icdSearch)): false)
+    // https://clinicaltables.nlm.nih.gov/api/icd10cm/v3/search?sf=code,name&terms=
 
+    // const getICDCodes = async() =>{
+    //     const ICDResponse = await fetch("http://localhost:4000/icdcodes/")
+    //     // if (ICDResponse.ok) {
+    //     //     const ICDData = await ICDResponse.json()
+    //     //     setICDCodes(ICDData.sort((a,b) => a.ICDcode.localeCompare(b.ICDcode)))
+    //     // }
+    // };
 
-    const handleSearchICD = (event) => {
+    // const filteredCodes = [];
+    // const lowerCaseSearch = icdSearch.toLowerCase();
+
+    // for (let i = 0; i < icdcodes.length; i++) {
+    //     const icdcode = icdcodes[i];
+    //     if (icdSearch &&
+    //         (icdcode.ICDcode.toLowerCase().includes(lowerCaseSearch) ||
+    //         icdcode.name.toLowerCase().includes(lowerCaseSearch))) {
+    //         filteredCodes.push(icdcode);
+    //     }
+    // }
+
+    const handleSearchICD = async (event) => {
         setShowACICD(true)
         setICDSearch(event.target.value);
+        const ICDResponse = await fetch(`https://clinicaltables.nlm.nih.gov/api/icd10cm/v3/search?sf=code,name&terms=${event.target.value}`)
+        if (ICDResponse.ok) {
+            const ICDData = await ICDResponse.json()
+            console.log(ICDData)
+            setICDCodes(ICDData[3])
+            setICDCount(ICDData[0])
+        }
     }
-
 
     const handleClickDiagnosis = (item) => {
         setDiagnosisCodes([...diagnosisCodes, {
-            code: item.ICDcode,
-            name: item.name,
+            code: item[0],
+            name: item[1],
         }]);
         setICDSearch("")
     }
 
     const handleRemoveDiagnosis = (item) => {
+        // const newCode = newDiagnosisCodes.filter(newCode => newCode.ICDcode === item.code)
+        // if (newCode) {
+        //     const codeIndex = newDiagnosisCodes.indexOf(newCode);
+        //     const newCodeList = [...newDiagnosisCodes];
+        //     newCodeList.splice(codeIndex, 1);
+        //     setNewDiagnosisCodes(newCodeList)
+        // }
         const diagnosisIndex = diagnosisCodes.indexOf(item);
         const newDiagnosisList = [...diagnosisCodes];
         newDiagnosisList.splice(diagnosisIndex, 1);
         setDiagnosisCodes(newDiagnosisList);
     }
 
+    // const [newDiagnosisCode, setNewDiagnosisCode] = useState({
+    //     ICDcode: "",
+    //     name: "",
+    // })
+    // const [newDiagnosisCodes, setNewDiagnosisCodes] = useState([])
+    // const handleNewCodeChange = (event) => {
+    //     setNewDiagnosisCode({ ...newDiagnosisCode, [event.target.name]: event.target.value});
+    // }
+
+    // const addNewCode = (item) => {
+    //     setNewDiagnosisCodes([...newDiagnosisCodes, item])
+    //     setDiagnosisCodes([...diagnosisCodes, {
+    //         code: item.ICDcode,
+    //         name: item.name,
+    //     }]);
+    //     setNewDiagnosisCode({
+    //         ICDcode: "",
+    //         name: "",
+    //     })
+    // }
+
+    const [carriers, setCarriers] = useState([])
+
+    const getCarriers = async() =>{
+        const carriersResponse = await fetch("http://localhost:4000/carriers/")
+        if (carriersResponse.ok) {
+            const carriersData = await carriersResponse.json()
+            setCarriers(carriersData.sort((a,b) => a.name.localeCompare(b.name)))
+            console.log(patient.carrierID)
+            const patientCarrier = carriersData.find(carrier => carrier.id === patient.carrierID)
+            if (patientCarrier) {
+                console.log(patientCarrier)
+                setSelectedCarrier(patientCarrier)
+            }
+        }
+    };
+
+    const [selectedCarrier, setSelectedCarrier] = useState("");
+
+    const handleSelectedCarrier = (event) => {
+        const carrier_id = event.target.value
+        if (carrier_id !== "") {
+            const selectedCarrierData = carriers.find(carrier => carrier.id === carrier_id)
+            console.log(selectedCarrierData)
+            setPatient({
+                ...patient,
+                ["carrierID"]: selectedCarrierData.id,
+                ["carrierName"]: selectedCarrierData.name,
+            })
+            setSelectedCarrier(selectedCarrierData)
+        } else {
+            setPatient({
+                ...patient,
+                ["carrierID"]: "",
+                ["carrierName"]: "",
+            })
+            setSelectedCarrier("")
+        }
+        console.log(patient)
+    }
+
     useEffect(() => {
         getPatient()
-        getICDCodes()
+        // getICDCodes()
+        getCarriers()
         // document.title = "Patient Create - PM CardBase"
         // return () => {
             //     document.title = "PlayMaker CardBase"
             // };
             // eslint-disable-next-line
-        },[]);
+    },[]);
+
+    useEffect(() => {
+        getCarriers()
+        // document.title = "Patient Create - PM CardBase"
+        // return () => {
+            //     document.title = "PlayMaker CardBase"
+            // };
+            // eslint-disable-next-line
+    },[patient.carrierID]);
 
     const navigate = useNavigate()
 
@@ -118,6 +217,7 @@ function PatientCreatePage() {
         event.preventDefault();
         const data = {...patient};
         delete data._id
+        delete data.id
         delete data.__v
         data["representative"] = representative
         data["adjuster"] = adjuster
@@ -136,7 +236,7 @@ function PatientCreatePage() {
         const response = await fetch(patientUrl, fetchConfig);
         if (response.ok) {
             const responseData = await response.json();
-            // const patient_id = responseData._id.toString();
+            const patient_id = responseData._id.toString();
             setPatient({
                 firstName: "",
                 lastName: "",
@@ -154,7 +254,7 @@ function PatientCreatePage() {
                 docLinks: [],
                 notes: ""
             });
-            // if (!stayHere) {navigate(`/patients/${patient_id}`)}
+            if (!stayHere) {navigate(`/patients/${patient_id}`)}
             console.log("Success", responseData)
         } else {
             alert("Error in creating patient");
@@ -263,16 +363,34 @@ function PatientCreatePage() {
                                     name="claimNumber"
                                     value={patient.claimNumber}>
                                 </input>
-                                <h5 className="label">ICD Code Search {icdSearch? `(${filteredCodes.length})`: null}</h5>
+                                <h5 className="label">Select a Carrier</h5>
+                                <select
+                                    className="builder-input"
+                                    type="text"
+                                    placeholder=" Carrier"
+                                    onChange={handleSelectedCarrier}
+                                    name="selectedCarrier"
+                                    value={selectedCarrier.id}>
+                                    <option value="">Carrier</option>
+                                    {carriers.map(function(carrier, index)
+                                        {return( <option value={carrier.id}
+                                            key={index.toString() + carrier.id}
+                                            >{carrier.name}</option>)}
+                                        )}
+                                </select>
+                                <br/>
+                                {/* <h1>ICD-10 Code Search</h1>
+                                <ICD10Autocomplete /> */}
+                                <h5 className="label">ICD Code Search {icdSearch? `(${icdcount})`: null}</h5>
                                 <AutoComplete
-                                    itemList={filteredCodes}
-                                    renderCondition={showACICD && filteredCodes.length > 0}
+                                    itemList={icdcodes}
+                                    renderCondition={showACICD && icdcodes.length > 0}
                                     setNoneRenderFunction={() => setShowACICD(false)}
                                     onChangeFunction={(event) => handleSearchICD(event)}
                                     name={icdSearch}
                                     value={icdSearch}
                                     placeholder={" Diagnosis Code"}
-                                    displayContent={"name"}
+                                    displayContent={(item) => `${item[0]} - ${item[1]}`}
                                     onClickFunction={(item) => handleClickDiagnosis(item)}
                                     size={"360px"}
                                 />
@@ -297,21 +415,6 @@ function PatientCreatePage() {
                                 </textarea>
                                 <br/>
                                 <div className="flex builder-input">
-                                    {/* <div className="flex-full">
-                                        <input
-                                            style={{margin: "2px 5px 0 0", height:"10px"}}
-                                            type="checkbox"
-                                            onChange={handlePatientCheck}
-                                            name="news"
-                                            checked={patient.news}
-                                            >
-                                        </input>
-                                        <label for="news"
-                                            className="bold"
-                                        >
-                                            News Patient
-                                        </label>
-                                    </div> */}
                                     <div className="flex-full margin-left">
                                         <input
                                             style={{margin: "2px 5px 0 0", height:"10px"}}

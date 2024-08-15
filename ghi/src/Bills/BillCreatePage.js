@@ -41,6 +41,8 @@ function BillCreatePage() {
             } else {
                 setNoBill(true)
             }
+        } else {
+            setNoBill(true)
         }
     };
 
