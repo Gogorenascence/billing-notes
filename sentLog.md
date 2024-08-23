@@ -1,3 +1,32 @@
+8/10 - current
+
+eufracio tm - 8/7 - pending
+alberto cruz tm - 8/13 - pending
+Cullen Riddle 7/31 tm - 8/1 pending
+hs cartwr tm sent 8/15 nr
+hs Danny cruz summit - 8/1 pending
+Marlene Gray ccmsi sent 8/8 nr
+hs de la rosa esis 8/7 - pending (8/19)
+juan rangel esis - sent 8/23 - nr
+Tomas Cortinas 8/1 normandy received 8/1 pending
+veronica ubom sorm received 8/6 pending call back in 30
+
+
+Alexis Valera - sent 7/19 - Sed - 7/24 denied - exceeds recommended amount
+
+
+<!-- Alice wienke - denied - resubmitted on adjusters end
+Metropolitan Area EMS Authority (877) 478-5031 Ext. 3414  -->
+
+Carlos Leon - zurich - pending
+2148661475 500 on 7/3 + 334 on 8/3
+check on cleared
+
+Hank Howard - sent 7/24 - Biberk - nr adj resent through site 8/9 - 8/17 - pending
+
+Joshua Usher - Underpaid
+
+
 
 <!-- Thelma B -  Sent 5/24 - GB - No received  -->
 <!-- Deniven B - Sent 5/15 - PMA -->
@@ -17,13 +46,14 @@ Gene Baxter / Sunz Insurance Company / sent 6/28
 
 Jirachai Martin / liberty mutual / 6-17 / pending
 Austin Barnes - gb - 6/24 - pending
-<!-- Carlos Leon - zurich - pending
-2148661475 -->
 
 Hacermabeth Tecson - sent 6/27 - Accident Fund - system down
 
+385
 
-
+edw dan
+jus royc
+jasm flor - 8004677725
 
 maria reyes
 adjust
@@ -34,25 +64,21 @@ claims@nlf-info.com
 attn cindy
 mbr@guard.com
 
-Joel Garza 7/31 sed 8/5 - denied charges not covered
+
 Denny Hainley
 5123459730 adj resent bill to be approved
 
 Danny Cruz rec 8/1/24 summit - pending
-Hank Howard - sent 7/24 - Biberk - nr adj resent through site 8/9
+
+
 Juan Barrios - sent 7/3 - Sedgwick - received 7/4 - pending adj linda 9727154264 pending
-Tomas Cortinas 8/1 normandy received 8/1
 48488040
 De la Rosa esis received 8/7 pending
-Jasmine Flores 8/2 strat - received 8/2
 
 Edward Daniels - Gallagher Bassett  - 7/7 - 7/17 - $449 - (972) 728-3564 receiving 8/3 pending
 
-Marlene Gray ccmsi
 T Barrells cas received 8/6 pending
-veronica ubom sorm received 8/6 pending
-eufracio tm nr
-Cullen Riddle 7/31 tm - 8/1 pending
+
 
 Jose Reyes sed - 202401030139885 - 7/10 - call adj 1476.00 8/9
 Alfredo Gonzalez sed 202307270135177 - 7/10 - call adj 08/08 834.00 8/9
@@ -74,11 +100,6 @@ Hacermabeth - received 7/11 - pending
 Jessica Boucher
 5178974962
 
-
-
-
-
-
 Russell Parum - sent 7/16 - Broadspire - 7/16 - pending
 29 - 8/2 - 493 underpaid
 
@@ -89,24 +110,23 @@ Sandra Rice
 
 Hector Rodela - sent 7/15 - Travelers - resent
 
-Alexis Valera - sent 7/19 - Sed - 7/24 denied - exceeds recommended amount
- thr sp lumbar str
- radicu
 
-Frances Garza - sent 7/19 - 7/22 - 7/22- full-  Gallagher Bassett
-Donald Bunch  Gallagher Bassett - 7/13 - 7/15 - full
+Jasmine Flores 8/2 strat - received 8/2
 Justin Royce zenith - 7/8 - sent 8/8
 Nancy Cardona - sent 7/2 - PMA - Conduent - received 7/4 - pending
 Julieta Esparza - sent 7/9 - tm beryl 7/9 - pending
 2149220600
 9727154202
 
-barrios
 
-KNEE SHOULDE MMI IR
+<!-- Thomas cargill - underpaid - recon 5/29 - 6/14 - paid 6/18 500 -->
+<!-- Heidi McDowell - reissue check - cleared 7/31/24 -->
+<!-- Latonya Shepard - check second date - paid 1000 - cleared -->
+<!-- Frances Garza - sent 7/19 - 7/22 - 7/22- full-  Gallagher Bassett -->
+<!-- Donald Bunch  Gallagher Bassett - 7/13 - 7/15 - full -->
+<!-- Joel Garza 7/31 sed 8/5 - denied charges not covered - recon 8/15 - 834 -->
 <!-- carlos leon differe -->
 <!-- Gerardo Moreno 7/31 gb - 8/1 - pd 1800 -->
-
 <!-- Lettie Lopez / Sedgwick / full -->
 <!-- Maria Reyes / biberk / 6-20 / full 7-11 -->
 <!-- Jason Gentry - sent 7/2 - Sedgwick - received 7/2 - pending -->

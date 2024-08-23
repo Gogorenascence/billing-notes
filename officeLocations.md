@@ -123,3 +123,6 @@ Slaughter Chiropractic, 2021 N Mays St Ste 900, Round Rock, TX 78664
 
 NP Health Clinic 837 N Main St. Spc 118, Lumberton, TX 77657
 1598931636
+
+OFFICE LOCATION: 		Jones and Cowen Physical Therapy 283 E Railroad Rw.
+Giddings, TX 78942

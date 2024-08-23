@@ -19,10 +19,13 @@ Sedgwick
     855-286-9465 7
 fax:
 18592644071
+2149220650
 
 
 ESIS - 800-233-8931 4
 800 9377460 -5
+863 877 1171
+fx: 800 373 5156
 closed 4:30pm
 
 Conduent
@@ -54,7 +57,9 @@ Biberk
 <!-- 888-495-8949 -->
 <!-- 844-229-9289 -7 - last 6 digits of claim # -->
 <!-- 2039892652 -->
-844-472-0966 2
+
+<!-- 844-472-0966 2 -->
+8775473749
 2039892652
 
 email - claims@biberk.com
@@ -82,6 +87,7 @@ IMO injurymanagement.com
 CCMSI
 <!-- 800-252-5059 -->
 844-525-0294 - 0
+ccmsi.com
 fx 9723867918
 closes 1630
 
@@ -101,7 +107,7 @@ closed at 1630
 5173162747
 
 Znat
-800-440-5020
+800-440-5020 -3
 8182518901 1 2 3 need ssn
 
 Sentry Casualty Company
@@ -197,11 +203,11 @@ Zenith
 fax 18003640443
 
 State Office of Risk Management
-Main #: (512) 475-1440
+Main #: (512) 475-1440 - 3
 Fax #: (512) 370-9025
 
-Hello, billing for [Patient]'s DD Exam was sent to [Carrier] by fax. I wanted to get information on that bill's status.
-
+Hello, billing for [Patient]'s DD Exam was sent to [Carrier] by fax. I wanted to get information on -  that bill's status.
+ -
 Claim Number: WC204308
 Date of injury: 10/20/23
 Date of service: 06/12/24

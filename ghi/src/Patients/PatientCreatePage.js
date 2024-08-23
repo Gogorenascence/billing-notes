@@ -2,7 +2,6 @@ import { useState, useEffect, useContext } from "react";
 import { NavLink, useNavigate, useParams } from 'react-router-dom';
 // import { AuthContext } from "../context/AuthContext";
 import AutoComplete from "../Display/AutoComplete";
-import ICD10Autocomplete from "../Codes/ICD10Autocomplete";
 import helper from "../Helper";
 
 
@@ -114,42 +113,15 @@ function PatientCreatePage() {
             name: item[1],
         }]);
         setICDSearch("")
+        setShowACICD(false)
     }
 
     const handleRemoveDiagnosis = (item) => {
-        // const newCode = newDiagnosisCodes.filter(newCode => newCode.ICDcode === item.code)
-        // if (newCode) {
-        //     const codeIndex = newDiagnosisCodes.indexOf(newCode);
-        //     const newCodeList = [...newDiagnosisCodes];
-        //     newCodeList.splice(codeIndex, 1);
-        //     setNewDiagnosisCodes(newCodeList)
-        // }
         const diagnosisIndex = diagnosisCodes.indexOf(item);
         const newDiagnosisList = [...diagnosisCodes];
         newDiagnosisList.splice(diagnosisIndex, 1);
         setDiagnosisCodes(newDiagnosisList);
     }
-
-    // const [newDiagnosisCode, setNewDiagnosisCode] = useState({
-    //     ICDcode: "",
-    //     name: "",
-    // })
-    // const [newDiagnosisCodes, setNewDiagnosisCodes] = useState([])
-    // const handleNewCodeChange = (event) => {
-    //     setNewDiagnosisCode({ ...newDiagnosisCode, [event.target.name]: event.target.value});
-    // }
-
-    // const addNewCode = (item) => {
-    //     setNewDiagnosisCodes([...newDiagnosisCodes, item])
-    //     setDiagnosisCodes([...diagnosisCodes, {
-    //         code: item.ICDcode,
-    //         name: item.name,
-    //     }]);
-    //     setNewDiagnosisCode({
-    //         ICDcode: "",
-    //         name: "",
-    //     })
-    // }
 
     const [carriers, setCarriers] = useState([])
 
@@ -193,7 +165,6 @@ function PatientCreatePage() {
 
     useEffect(() => {
         getPatient()
-        // getICDCodes()
         getCarriers()
         // document.title = "Patient Create - PM CardBase"
         // return () => {

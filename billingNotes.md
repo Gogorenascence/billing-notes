@@ -142,15 +142,30 @@ Claimant was billed for 99456, W5 WP, which according to EDI billing rules has a
 **Please note this bill is from a state oreded DD exam which requires mandatory payment, or be subject of fines and/or penalties.
 
 
-hank howard 1500
-alberto cruz extent
 
-mmi
-dd victor ford
+Claimant was billed for MMI and IR for 1 MSK body area.
+Whose minimums are $449 and $385 respectively.
 
-EH
-cerv sprain
-lumbar s/s
-right knee medial menisc
+Please remit a payment that was unfulfilled for the initial review.
 
-herniated disc cervical lumbar
+Please refer to the attached TDI billing rules.
+
+recon
+bill
+w9
+55 56 71
+69/68
+report
+
+550
+400
+
+
+DD Billing Reconsideration for Edward Daniel
+Claim #: 001662008537WC01
+Claimant was billed for MMI and IR for 1 MSK body area.
+Whose minimums are $449 and $385 respectively.
+
+Please remit a payment that was unfulfilled for the initial review.
+
+Please refer to the attached TDI billing rules.
