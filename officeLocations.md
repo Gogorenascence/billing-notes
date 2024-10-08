@@ -37,7 +37,7 @@ OFFICE LOCATION: 		Affordacare Spine & Rehab, 710 S Gregg St. Ste# 100
 Big Spring, TX 79720
 1336567015
 
-OFFICE LOCATION: 		Beaty Chiropratic Clinic, 2100 N Grandview Ave. Ste A
+OFFICE LOCATION: 		Beaty Chiropractic Clinic, 2100 N Grandview Ave. Ste A
 Odessa, TX 79761
 1619012366
 
@@ -124,5 +124,13 @@ Slaughter Chiropractic, 2021 N Mays St Ste 900, Round Rock, TX 78664
 NP Health Clinic 837 N Main St. Spc 118, Lumberton, TX 77657
 1598931636
 
-OFFICE LOCATION: 		Jones and Cowen Physical Therapy 283 E Railroad Rw.
-Giddings, TX 78942
+OFFICE LOCATION: 		Jones and Cowen Physical Therapy 283 E Railroad Rw. Giddings, TX 78942
+
+Southwest Back Clinic, 4241 Southwest Blvd #106 San Angelo,TX 76904
+1811015670
+
+Brenham Chiropractic Clinic, 100 Fm 109 Brenham, TX 77833
+1013904010
+
+Quinlan Chiropractic, 301 S Denton Tap Rd. Ste 100, Coppell, TX 75019
+1881719672

@@ -37,6 +37,16 @@ owens
 69
 
 
+Hello, billing for Marlene Gray's DD Exam was sent to CCMSI by fax.
+I wanted to get information on that bill's status.
+Claim Number: 23D68K605465
+Date of injury: 03/15/23
+Date of service: 07/17/24
+Billed amount: 1300.00
+TX ID: 82-2170594
+
+The billing and documents for Marlene Gray is also attached.
+
 <!-- 3212352391
 
 ext 236

@@ -3,6 +3,7 @@ Texas Mutual - 1 - 1  2 -2 -1
     TM 8885325246
 
 Gallagher Bassett 800-370-0594 1
+9 to get call back
     833-707-6338
     PO Box 2831
     Clinton, IA 52733
@@ -13,6 +14,8 @@ Travelers - 1-800-252-4633 2 -4 -1 -1 -2
 providerinquiry@travelers.com
 PO Box 660456
 75266-0456
+
+travelers.com/claimuploadcenter/
 
 Sedgwick
     1-866-495-7844 7
@@ -85,11 +88,13 @@ IMO injurymanagement.com
 877-339-1268
 
 CCMSI
-<!-- 800-252-5059 -->
-844-525-0294 - 0
+800-252-5059
+<!-- 844-525-0294 - 0 -->
 ccmsi.com
 fx 9723867918
 closes 1630
+
+
 
 cbcs claims
 833-599-2832
@@ -143,7 +148,7 @@ Fx: (972) 889-3700
 fax@crf.cc <-------
 
 Strategic Comp
-800-467-7725 -- 4 - 2
+800-467-7725 -- 3 - 2
 732-576-6157
 
 closes at 4:30pm
@@ -195,16 +200,25 @@ Normandy Insurance Services
 <!-- 866-688-6442 1 4 -->
 <!-- 4848804018 1 -->
 4844986370 1
-
 fax 4842827680
 billaudit@s1-medical.com
 
 Zenith
+800-440-5020 - 2 or 3 - 1
 fax 18003640443
 
 State Office of Risk Management
 Main #: (512) 475-1440 - 3
 Fax #: (512) 370-9025
+
+Hanover
+Main: 800-628-0250 - 3 1 2
+Fax: 888-481-0545
+
+Medata
+866-665-5009
+
+
 
 Hello, billing for [Patient]'s DD Exam was sent to [Carrier] by fax. I wanted to get information on -  that bill's status.
  -

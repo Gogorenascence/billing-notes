@@ -28,6 +28,7 @@ const billSchema = new mongoose.Schema({
     received: { type: String },
     processed: { type: String },
     paid: { type: Number },
+    reconsideration: { type: Boolean },
     cleared: { type: Boolean },
     docLink: { type: String },
     notes: { type: String },

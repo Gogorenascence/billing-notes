@@ -323,3 +323,17 @@ mmi 69 + 1500
 direct 68
 extent 68
 rtw - 73
+
+
+left knee anterior cruciate ligament sprain S83.512A
+left knee Baker's cyst M71.22
+left knee grade II posterior horn of the medial meniscus M23.204
+C3-C4 disc osteophyte complex M50.30
+C3-C4 stenosis M48.02
+T12-L1 disc extrusion M51.25
+T12-L1 stenosis M48.06
+L4-L5 disc herniation M51.26
+L4-L5 stenosis M48.06
+
+ctl STRAIN
+0% on 07/27/23

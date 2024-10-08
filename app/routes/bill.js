@@ -62,6 +62,7 @@ router.patch('/:id', async (req, res) => {
         "processed",
         "paid",
         "cleared",
+        "reconsideration",
         "docLink",
         "lastChecked",
         "notes"
