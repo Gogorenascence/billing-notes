@@ -169,3 +169,14 @@ Whose minimums are $449 and $385 respectively.
 Please remit a payment that was unfulfilled for the initial review.
 
 Please refer to the attached TDI billing rules.
+
+
+Claimant was billed for 99456 W5 that includes MMI and Impairment which according to EDI billing rules has a minimal payment of $834 for 1 unit.
+Claimant was also billed for 99456 W7 and W8  which according to EDI billing rules has a minimal payment of $642 for 1 unit of each.
+
+The total amounts to $2118; of which only $1412 was received.
+**Please note this bill is from a state ordered DD exam which requires mandatory payment, or be subject to fines and/or penalties.
+
+Please remit a payment $706 that fulfills the initial bill.
+
+See attached for original billing and billing rules for the relevant modifiers.

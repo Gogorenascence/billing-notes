@@ -1,14 +1,215 @@
 jesus r
 2149220628
 
-nawal
+
+
+Attach EOB
+Cover Page
+(913) 341-7600
+9am-3pm
 
 Alex cal
 913-341-7600
 send in for recon
 
+<!-- HS -->
+274553755
+
+Joshua Hayter
+WC949G21997
+9/27 - 1950.00
+sent: 10/03
+carrier: LM
+status: pending
+received: 10/8
+last checked: 10/18
+paid:
+
+Raven Gant
+24DFWEC2730001
+sent:
+carrier: sed
+status: pending
+received: 10/09
+last checked: 10/14
+paid:
+
+Isac Ulloa
+1427001391065
+09/27/2024 - 1200.00
+status: pending
+received: 09/30
+last checked: 10/23
+paid:
+
+<!-- HS -->
+
+<!-- Melvinna Lee
+4A2406TSV590001
+09/26/24 - 950.00
+sent: 10/10
+carrier: sed
+status: paid
+received: 10/11
+last checked: 10/18
+paid: 834 10/16 -->
+
+Alan Reza
+2230663240
+10/15/2024 - 1100.00
+sent: 10/10
+carrier: Zurich
+status: pending
+received: 10/21
+last checked: 10/24
+paid:
+
+Maria Betancourt-Felix
+000696239364WC01
+10/04/24 - 950.00
+sent: 10/10
+carrier: gb/Zurich
+status: pending
+received: 10/22
+last checked: 10/24
+paid:
+
+Cheryl Knox
+005211011039WC01
+09/26/24 - 700.00
+sent: 10/10
+carrier: gb
+status: pending
+received: 10/11
+last checked: 10/24
+paid:
+
+Jose Salinas
+1428001390472
+10/07/2024 - 950.00
+sent: 10/10
+carrier: tm
+status: pending
+received: nr
+last checked: 10/24
+paid:
+
+Brent Foxworth
+1E01E016621120
+10/04/24 - 1400.00
+sent: 10/19
+carrier: ESIS
+status:
+received: nr
+last checked: 10/14
+paid:
 
 
+<!-- jesus rob 1003
+VI0000146318
+09/24/24
+1650.00
+sent: 10/03
+carrier: sed
+status: pending
+received: 10/03 - 10/16
+last checked: 10/24
+paid: 1476.00 10/22 -->
+
+Travis Gilder
+4A2309KJWNR0001
+10/18/24 - 600.00
+sent: 10/10
+carrier: sed
+status: pending
+received: 10/23
+last checked: 10/24
+paid:
+
+Melvin Ross
+4A240741ZYQ0001
+10/11/24 - 125.00
+sent: 10/11
+carrier: sed
+status:
+received: 10/11
+last checked: 10/14
+paid:
+
+Chad Patterson
+949G19347
+10/11/24 - 125.00
+sent: 10/11
+carrier: LM
+status: pending
+received: 10/11
+last checked: 10/18
+paid:
+
+Chad Patterson
+949G19347
+10/11/24 - .00
+sent: 10/11
+carrier: LM
+status: pending
+received: 10/11
+last checked: 10/18
+paid:
+
+rosalva adjuster
+2118
+834
+642
+642
+
+
+
+
+Ariel Watts trav 9/16/24 pending
+last checked 09/26/24
+carrier: tm
+status: pending
+received: 9/16
+last checked: 10/4
+<!-- paid: 1016 -->
+
+
+
+<!-- Jose Flores 9/12 tm
+1425001368230
+08/27/24
+last checked 09/26/24
+carrier: tm
+status: paid
+received: 9/12
+last checked: 10/18
+paid: 10/14 1026.00 -->
+
+<!-- Eufracio Hernandez tm - 8/7 - recon 9/12 nr
+1425001373432
+07/18/24
+carrier: tm
+sent: 9/12
+status: pending
+received: 9/12
+last checked: 9/26
+paid: 10/14 642.00 -->
+
+Jasmine Flores 8/2 strat - received 8/2 recon 8/23 received 8/26 last checked 9/6 sent for review
+
+
+juan rangel esis - sent 8/23 - pending last checked 9/6
+extent needed
+
+
+
+
+<!-- Edward Daniels - Gallagher Bassett  - 7/7 - 7/17 - $449 - (972) 728-3564 receiving 8/3 denied/ 8/26 denied already
+07/18/24
+status: paid
+received: 9/17
+last checked: 10/4
+paid: 385 on 9/26 -->
 
 Adonica Williams 9/16 Medata Hanover pending
 7 - 10 days 10/3
@@ -19,80 +220,72 @@ received: 9/12
 last checked: 10/4
 paid: 2118
 
-27-4553755
 
-rosalva adjuster
-2118
-834
-642
-642
 
-grady briggs
+
+<!-- Sabrina Johnson
+4A2407G977K0001
+09/25/24 - 600.00
+sent: 10/8
+carrier: sed
+status: pending
+received: 10/9
+last checked: 10/18
+paid: 10/15 449.00 -->
+
+<!-- maria espinoza 9/13 travelers
+last checked 09/26/24
+carrier: tm
+status: pending
+received: 9/13
+last checked: 10/14
+paid: 834.00 on 10/12 -->
+
+<!-- Yordy Catano
+4A2406TSV590001
+sent:
+carrier: sed
+status:
+received: 10/4
+last checked: 10/10
+paid: 449 on 10/11 -->
+
+<!-- Kahalli Cormier
+09/12/24 1400
+claim #: 221042636
+carrier: imo/tristar risk
+sent:
+status: paid
+received:
+last checked: 10/14
+paid: 1026 on 10/2 -->
+
+<!-- dennis moore 0930
+009522000417WC01
+sent: 9/30
+carrier: gb
+status: pending
+received: 10/1
+last checked: 10/8
+paid: 834 0n 10/4
+
+james harsb 0930
+002406407559
+sent: 9/30
+carrier: sed
+status: paid
+received: 10/2
+last checked: 10/8
+paid: 834 on 10/7 -->
+
+<!-- grady briggs
 claim #: 9706795
 carrier: lloyd
 sent:
 status: pending
 received: 9/23
-last checked: 10/2
-paid:
-
-Kahalli Cormier
-09/12/24 1400
-claim #: 221042636
-carrier: imo/tristar risk
-sent:
-status: resubmitted
-received:
-last checked: 10/2
-paid:
-
-Ariel Watts trav 9/16/24 pending
-last checked 09/26/24
-carrier: tm
-status: pending
-received: 9/16
-last checked: 10/4
-<!-- paid: 1016 -->
-
-maria espinoza 9/13 travelers
-last checked 09/26/24
-carrier: tm
-status: pending
-received: 9/13
-last checked: 10/4
-paid:
-
-Jose Flores 9/12 tm
-1425001368230
-08/27/24
-last checked 09/26/24
-carrier: tm
-status: pending
-received: 9/12
-last checked: 10/4
-paid:
-
-Eufracio Hernandez tm - 8/7 - recon 9/12 nr
-1425001373432
-07/18/24
-carrier: tm
-sent: 9/12
-status: pending
-received: 9/12
-last checked: 9/26
-paid:
-
-Jasmine Flores 8/2 strat - received 8/2 recon 8/23 received 8/26 last checked 9/6 sent for review
-
-Edward Daniels - Gallagher Bassett  - 7/7 - 7/17 - $449 - (972) 728-3564 receiving 8/3 denied/ 8/26 denied already
-07/18/24
-status: paid
-received: 9/17
-last checked: 10/4
-paid: 385 on 9/26
-
-juan rangel esis - sent 8/23 - pending last checked 9/6
-extent needed
+last checked: 10/8
+paid: 2250 on 10/4 -->
 
 <!-- Justin Royce zenith - 7/8 - sent 8/8 recon sent 8/23 rece  -->
 
@@ -183,8 +376,7 @@ courtney thomas
 Jessica Boucher
 5178974962 -->
 
-Russell Parum - sent 7/16 - Broadspire - 7/16 - pending
-29 - 8/2 - 493 underpaid
+
 
 <!-- Dustin Green accid down - mbr@accidentfund.com - resent - pending  received 7/16 7/29
 Sandra Rice

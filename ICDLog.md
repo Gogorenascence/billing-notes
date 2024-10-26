@@ -335,5 +335,8 @@ T12-L1 stenosis M48.06
 L4-L5 disc herniation M51.26
 L4-L5 stenosis M48.06
 
+S46.011A Strain of muscle(s) and tendon(s) of the rotator cuff of right shoulder, initial encounter
+
+
 ctl STRAIN
 0% on 07/27/23

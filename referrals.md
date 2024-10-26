@@ -73,14 +73,26 @@ Fx: 512-459-7449
 
 
 
+
+
 s johnson - mri
 waco_fax@usradiology.com
 
 
 
 Baylor Scott & White Neurosciences Clinic - Waco
+254.202.0500 2 4
 fx 2547247560
+
+EMG 2547240271
 
 l ext emg ev testing ref
 lumbar rstrain Waco
 resend oldaker lumbar mri
+
+
+chad MRI lumbar
+Touchstone Imaging
+
+ph 9726177731
+fx 2147369234

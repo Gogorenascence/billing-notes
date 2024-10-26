@@ -38,7 +38,7 @@ Conduent
 closes at 4:00pm
 
 The Hartford 1(860) 547-5000
-    TX -1-877-952-9222
+TX -1-877-952-9222
 
 Service Lloyds Insurance Company
 (512) 637-3100 -1 -4
@@ -149,7 +149,7 @@ fax@crf.cc <-------
 
 Strategic Comp
 800-467-7725 -- 3 - 2
-732-576-6157
+fx 732-576-6157
 
 closes at 4:30pm
 
