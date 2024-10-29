@@ -11,6 +11,7 @@ Cover Page
 Alex cal
 913-341-7600
 send in for recon
+Pending
 
 <!-- HS -->
 274553755
@@ -25,36 +26,59 @@ received: 10/8
 last checked: 10/18
 paid:
 
-Raven Gant
+<!-- Raven Gant
 24DFWEC2730001
 sent:
 carrier: sed
 status: pending
 received: 10/09
-last checked: 10/14
-paid:
+last checked: 10/29
+paid: 1476.00 on 10/16 -->
 
 Isac Ulloa
 1427001391065
+tm
 09/27/2024 - 1200.00
 status: pending
 received: 09/30
-last checked: 10/23
+last checked: 10/29
 paid:
 
 <!-- HS -->
 
-<!-- Melvinna Lee
-4A2406TSV590001
-09/26/24 - 950.00
-sent: 10/10
-carrier: sed
-status: paid
-received: 10/11
-last checked: 10/18
-paid: 834 10/16 -->
+
 
 Alan Reza
+2230663240
+10/15/2024 - 1100.00
+sent: 10/10
+carrier: Zurich
+status: pending
+received: 10/21
+last checked: 10/24
+paid:
+
+Brandon Navarro
+2230663240
+10/15/2024 - 1100.00
+sent: 10/10
+carrier: Zurich
+status: pending
+received: 10/21
+last checked: 10/24
+paid:
+
+Hector Rodela
+2230663240
+10/15/2024 - 1100.00
+sent: 10/10
+carrier: Zurich
+status: pending
+received: 10/21
+last checked: 10/24
+paid:
+
+Cynthia  Valle
 2230663240
 10/15/2024 - 1100.00
 sent: 10/10
@@ -91,50 +115,38 @@ sent: 10/10
 carrier: tm
 status: pending
 received: nr
-last checked: 10/24
+last checked: 10/29
 paid:
 
 Brent Foxworth
 1E01E016621120
 10/04/24 - 1400.00
-sent: 10/19
-carrier: ESIS
+sent: 10/29
+carrier: ESIS ph: 8552191964
 status:
 received: nr
-last checked: 10/14
+last checked: 10/29
 paid:
 
-
-<!-- jesus rob 1003
-VI0000146318
-09/24/24
-1650.00
-sent: 10/03
-carrier: sed
-status: pending
-received: 10/03 - 10/16
-last checked: 10/24
-paid: 1476.00 10/22 -->
-
-Travis Gilder
+<!-- Travis Gilder
 4A2309KJWNR0001
 10/18/24 - 600.00
 sent: 10/10
 carrier: sed
 status: pending
 received: 10/23
-last checked: 10/24
-paid:
+last checked: 10/29
+paid: 449.00 on 10/29 -->
 
-Melvin Ross
+<!-- Melvin Ross NS
 4A240741ZYQ0001
 10/11/24 - 125.00
 sent: 10/11
 carrier: sed
 status:
-received: 10/11
-last checked: 10/14
-paid:
+received: 10/14
+last checked: 10/29
+paid: 100.00 on 10/17 -->
 
 Chad Patterson
 949G19347
@@ -146,15 +158,6 @@ received: 10/11
 last checked: 10/18
 paid:
 
-Chad Patterson
-949G19347
-10/11/24 - .00
-sent: 10/11
-carrier: LM
-status: pending
-received: 10/11
-last checked: 10/18
-paid:
 
 rosalva adjuster
 2118
@@ -174,6 +177,37 @@ last checked: 10/4
 <!-- paid: 1016 -->
 
 
+<!-- jesus rob 1003
+VI0000146318
+09/24/24
+1650.00
+sent: 10/03
+carrier: sed
+status: pending
+received: 10/03 - 10/16
+last checked: 10/24
+paid: 1476.00 10/22 -->
+
+<!-- jesus rob 1003
+VI0000146318
+09/24/24
+1650.00
+sent: 10/03
+carrier: sed
+status: pending
+received: 10/03 - 10/16
+last checked: 10/24
+paid: 1476.00 10/22 -->
+
+<!-- Melvinna Lee
+4A2406TSV590001
+09/26/24 - 950.00
+sent: 10/10
+carrier: sed
+status: paid
+received: 10/11
+last checked: 10/18
+paid: 834 10/16 -->
 
 <!-- Jose Flores 9/12 tm
 1425001368230
