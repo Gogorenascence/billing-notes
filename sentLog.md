@@ -23,17 +23,8 @@ sent: 10/03
 carrier: LM
 status: pending
 received: 10/8
-last checked: 10/18
+last checked: 10/30
 paid:
-
-<!-- Raven Gant
-24DFWEC2730001
-sent:
-carrier: sed
-status: pending
-received: 10/09
-last checked: 10/29
-paid: 1476.00 on 10/16 -->
 
 Isac Ulloa
 1427001391065
@@ -46,46 +37,25 @@ paid:
 
 <!-- HS -->
 
-
-
-Alan Reza
-2230663240
-10/15/2024 - 1100.00
-sent: 10/10
-carrier: Zurich
-status: pending
-received: 10/21
-last checked: 10/24
-paid:
-
 Brandon Navarro
-2230663240
-10/15/2024 - 1100.00
-sent: 10/10
-carrier: Zurich
+2024004726
+10/15/2024 - 950.00
+sent: 10/25
+carrier: Insurance Company of the West
+Mitchell International Inc
 status: pending
-received: 10/21
-last checked: 10/24
+received: nr
+last checked: 10/30
 paid:
 
 Hector Rodela
-2230663240
-10/15/2024 - 1100.00
-sent: 10/10
-carrier: Zurich
+F2M0490
+10/15/2024 - 950.00
+sent: 10/24
+carrier: Travelers
 status: pending
-received: 10/21
-last checked: 10/24
-paid:
-
-Cynthia  Valle
-2230663240
-10/15/2024 - 1100.00
-sent: 10/10
-carrier: Zurich
-status: pending
-received: 10/21
-last checked: 10/24
+received: 10/24
+last checked: 10/30
 paid:
 
 Maria Betancourt-Felix
@@ -95,7 +65,7 @@ sent: 10/10
 carrier: gb/Zurich
 status: pending
 received: 10/22
-last checked: 10/24
+last checked: 10/30
 paid:
 
 Cheryl Knox
@@ -105,13 +75,13 @@ sent: 10/10
 carrier: gb
 status: pending
 received: 10/11
-last checked: 10/24
+last checked: 10/30
 paid:
 
 Jose Salinas
 1428001390472
 10/07/2024 - 950.00
-sent: 10/10
+sent: 10/21
 carrier: tm
 status: pending
 received: nr
@@ -127,6 +97,55 @@ status:
 received: nr
 last checked: 10/29
 paid:
+
+Chad Patterson
+949G19347
+10/11/24 - 125.00
+sent: 10/11
+carrier: LM
+status: pending
+received: 10/11
+last checked: 10/30
+paid:
+
+Ariel Watts trav 9/16/24 pending
+last checked 09/26/24
+carrier: tm
+status: pending
+received: 9/16
+last checked: 10/4
+<!-- paid: 1016 -->
+
+<!-- Cynthia Valle
+20240013521
+10/21/2024 - 125.00
+sent: 10/22
+carrier: TASB
+status: pending
+received: 10/24
+last checked: 10/30
+paid: 100.00 0n 10/29
+ref: 18541380 -->
+
+<!-- Juan Barrios
+20240013521
+10/08/2024 - 950.00
+sent: 10/19
+carrier: sed
+status: pending
+received: 10/19
+last checked: 10/30
+paid: 834.00 on 10/29 -->
+
+<!-- Alan Reza
+2230663240
+10/15/2024 - 1100.00
+sent: 10/21
+carrier: Zurich
+status: pending
+received: 10/21
+last checked: 10/30
+paid: 1049.00 on 10/25 -->
 
 <!-- Travis Gilder
 4A2309KJWNR0001
@@ -148,34 +167,14 @@ received: 10/14
 last checked: 10/29
 paid: 100.00 on 10/17 -->
 
-Chad Patterson
-949G19347
-10/11/24 - 125.00
-sent: 10/11
-carrier: LM
+<!-- Raven Gant
+24DFWEC2730001
+sent:
+carrier: sed
 status: pending
-received: 10/11
-last checked: 10/18
-paid:
-
-
-rosalva adjuster
-2118
-834
-642
-642
-
-
-
-
-Ariel Watts trav 9/16/24 pending
-last checked 09/26/24
-carrier: tm
-status: pending
-received: 9/16
-last checked: 10/4
-<!-- paid: 1016 -->
-
+received: 10/09
+last checked: 10/29
+paid: 1476.00 on 10/16 -->
 
 <!-- jesus rob 1003
 VI0000146318
@@ -231,12 +230,8 @@ paid: 10/14 642.00 -->
 
 Jasmine Flores 8/2 strat - received 8/2 recon 8/23 received 8/26 last checked 9/6 sent for review
 
-
 juan rangel esis - sent 8/23 - pending last checked 9/6
 extent needed
-
-
-
 
 <!-- Edward Daniels - Gallagher Bassett  - 7/7 - 7/17 - $449 - (972) 728-3564 receiving 8/3 denied/ 8/26 denied already
 07/18/24
@@ -253,9 +248,6 @@ status: pending
 received: 9/12
 last checked: 10/4
 paid: 2118
-
-
-
 
 <!-- Sabrina Johnson
 4A2407G977K0001
@@ -459,6 +451,12 @@ status: pending
 received: 9/18
 last checked: 10/2
 paid: 10/1 1412 3002738905 -->
+
+<!-- rosalva adjuster
+2118
+834
+642
+642 -->
 
 <!-- Thelma B -  Sent 9/5 - GB - 9/5 - paid on 9/11 834 -->
 <!-- Robinson Castillo - sedgwick / sent 9-5 paid 1540 on 9/11

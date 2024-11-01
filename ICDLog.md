@@ -345,3 +345,6 @@ FASCIITIS.
 
 
  S93.602A
+
+Spinal instability of the Cervical region M53.2X2
+Spinal instability of the Lumbar region M53.2X6

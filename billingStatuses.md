@@ -220,6 +220,10 @@ Fax: 888-481-0545
 Medata
 866-665-5009
 
+Mitchell International Inc
+800-732-0153
+(ICW) fx: 858-586-2444
+(TASB) fx: 732-212-7009
 
 
 Hello, billing for [Patient]'s DD Exam was sent to [Carrier] by fax. I wanted to get information on -  that bill's status.
