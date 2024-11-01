@@ -339,5 +339,9 @@ Disc herniation/protrusion at L5/S1 M51.27
 S46.011A Strain of muscle(s) and tendon(s) of the rotator cuff of right shoulder, initial encounter
 
 
-ctl STRAIN
-0% on 07/27/23
+S29.012A-STRAIN BACK WALL THORAX, S43.402A-LEFT SHOULDER SPRAIN, M50.20-CERVICAL DISC
+DISPLACEMENT, 54.12-CERVICAL RADICULOPATHY, S16.1XXA-CERVCIAL STRAIN, M72.2-LEFT PLANTAR
+FASCIITIS.
+
+
+ S93.602A
