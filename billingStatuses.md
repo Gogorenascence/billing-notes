@@ -47,6 +47,8 @@ Service Lloyds Insurance Company
 
 Claims Administrative Services
 (800) 765-2412
+903-509-8484
+
 Closes at 5pm
 
 Summit Holdings
@@ -86,7 +88,8 @@ Accident Fund National Insurance
 8662065851 down - mbr@accidentfund.com
 closes at 1600
 
-IMO injurymanagement.com
+IMO/Tristar
+injurymanagement.com
 877-339-1268
 
 CCMSI
@@ -183,6 +186,7 @@ FX: 1-800-432-9762
 
 Texas Municipal League Intergovernmental Risk Pool
 tmlirp.org
+bill 550 400
 ph 800-537-6655
 fx 732-813-1345
 
@@ -221,9 +225,14 @@ Medata
 866-665-5009
 
 Mitchell International Inc
-800-732-0153
+800-732-0153 (-2 ICW)
+550 400
 (ICW) fx: 858-586-2444
 (TASB) fx: 732-212-7009
+
+BERKLEY MEDICAL MNGMT SOLUTIONS
+Ph: 8554442667
+
 
 
 Hello, billing for [Patient]'s DD Exam was sent to [Carrier] by fax. I wanted to get information on -  that bill's status.

@@ -23,19 +23,69 @@ sent: 10/03
 carrier: LM
 status: pending
 received: 10/8
-last checked: 10/30
-paid:
+last checked: 11/13
+paid: 834.00
 
-Isac Ulloa
-1427001391065
-tm
-09/27/2024 - 1200.00
+Christopher Alvord
+000000327312
+BERKLEY MEDICAL MNGMT SOLUTIONS
+11/06/2024 - 1200.00
+<!-- status: pending
+received: 09/30
+last checked: 11/13
+paid: 834.00 on 10/29 -->
+
+Broderick Berry
+2201042719
+tristar/imo
+10/30/2024 - 1400.00
 status: pending
 received: 09/30
-last checked: 10/29
-paid:
+last checked: 11/13
+paid: 834.00 on 10/29
+
+Sergio Riojas
+1425001376987
+tm
+10/23/2024 - 1200.00
+status: pending
+received: 10/31
+last checked: 11/18
+<!-- paid: 834.00 on 10/29 -->
 
 <!-- HS -->
+
+Scott York
+4A23027ZLQ0001
+09/18/2024 - 1875.00
+sent: 11/18
+carrier: sed
+<!-- status: paid -->
+<!-- received: 10/30 -->
+<!-- last checked: 11/18 -->
+<!-- paid: 1551.00 on 11/12 -->
+
+Ryan Rhoades
+20230013600
+10/23/24 - 1100.00
+sent: 10/31
+carrier: TASB
+status: Underpaid
+received: 11/1
+last checked: 11/13
+paid: 577.00 on 11/13
+ref: 18621353
+
+Thelma Behee
+001064052243WC01
+10/10/2024 - 700.00
+sent: 10/29
+carrier: gb
+status: pending
+received: 10/30
+last checked: 11/13
+paid:
+ref: 18621923 18659035
 
 Brandon Navarro
 2024004726
@@ -43,10 +93,11 @@ Brandon Navarro
 sent: 10/25
 carrier: Insurance Company of the West
 Mitchell International Inc
-status: pending
-received: nr
-last checked: 10/30
-paid:
+status: Underpaid
+received: 10/30
+last checked: 11/8
+paid: 449.00 on 11/11
+ref: 18621527 18658552
 
 Hector Rodela
 F2M0490
@@ -88,25 +139,7 @@ received: nr
 last checked: 10/29
 paid:
 
-Brent Foxworth
-1E01E016621120
-10/04/24 - 1400.00
-sent: 10/29
-carrier: ESIS ph: 8552191964
-status:
-received: nr
-last checked: 10/29
-paid:
 
-Chad Patterson
-949G19347
-10/11/24 - 125.00
-sent: 10/11
-carrier: LM
-status: pending
-received: 10/11
-last checked: 10/30
-paid:
 
 Ariel Watts trav 9/16/24 pending
 last checked 09/26/24
@@ -115,6 +148,76 @@ status: pending
 received: 9/16
 last checked: 10/4
 <!-- paid: 1016 -->
+
+<!-- Jason Gentry
+4A2308GPGP60001
+11/11/2024 - 125.00
+sent: 11/12
+carrier: sed
+status: paid
+received: 11/13
+last checked: 11/18
+paid: 100.00 on 11/18 -->
+
+<!-- Lucia Sepuvelda
+4A2304MRKBT0001
+10/08/2024 - 1725.00
+sent: 10/28
+carrier: sed
+status: paid
+received: 10/30
+last checked: 11/13
+paid: 1551.00 on 11/12 -->
+
+<!-- Chad Patterson
+949G19347
+10/11/24 - 125.00
+sent: 10/11
+carrier: LM
+status: paid
+received: 10/11
+last checked: 11/08
+paid: 125.00 on 11/01  -->
+
+<!-- Melvin Ross
+4A240741ZYQ0001
+10/18/24 - 600.00
+sent: 10/28
+carrier: sed
+status: paid
+received: 10/30
+last checked: 11/8
+paid: 449.00 on 11/4 -->
+
+<!-- Jason Oldacker
+WC204308
+10/02/2024 - 1025.00
+sent: 10/28
+carrier: TMLIRP
+status: paid
+received:
+last checked: 11/8
+paid: 950.00 on 11/7 -->
+
+<!-- Donald Mayfield
+20230005246
+10/14/24 - 2000.00
+sent: 10/31
+carrier: TASB
+status: paid
+received: 10/31
+last checked: 11/8
+paid: 2000.00 on 11/8 -->
+
+<!-- Brent Foxworth
+1E01E016621120
+10/04/24 - 1400.00
+sent: 10/29
+carrier: ESIS
+status: paid
+received: 10/30
+last checked: 10/29
+paid: 1284.00 on 11/8 -->
 
 <!-- Cynthia Valle
 20240013521
@@ -240,14 +343,14 @@ received: 9/17
 last checked: 10/4
 paid: 385 on 9/26 -->
 
-Adonica Williams 9/16 Medata Hanover pending
+<!-- Adonica Williams 9/16 Medata Hanover pending
 7 - 10 days 10/3
 Ref #: 433797
 carrier: tm
 status: pending
 received: 9/12
 last checked: 10/4
-paid: 2118
+paid: 2118 -->
 
 <!-- Sabrina Johnson
 4A2407G977K0001

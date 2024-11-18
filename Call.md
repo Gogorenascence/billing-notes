@@ -133,10 +133,72 @@ auth num dwc # +dd01
 
 
 
-Compensible and disputed for De La Rosa
+<!-- Compensible and disputed for De La Rosa
 esis or ombudsman
 
 Check the status the deanna and danny
 
 
-834
+834 -->
+
+<!-- Dear [Medical Records Department / Contact Name],
+
+I am writing to request a copy of medical records for a designated doctor exam scheduled for [Patient’s Full Name], Date of Birth: [Patient’s Date of Birth]. This request is being made as part of the patient’s assessment for [Worker’s Compensation / Disability / Legal Requirement, if applicable].
+
+Please include all relevant records, such as:
+
+Consultation notes
+Diagnostic reports (X-rays, MRIs, CT scans, lab results, etc.)
+Treatment and medication history
+Surgery reports (if any)
+Physical therapy or rehabilitation notes
+Any other pertinent documentation related to the patient’s condition.
+Information for Record Release:
+
+Patient Name: [Patient’s Full Name]
+Date of Birth: [Patient’s Date of Birth]
+Requestor’s Name: [Your Name and Position, if applicable]
+Contact Information: [Your Contact Information]
+Delivery Method: [Specify whether you prefer fax, email, or physical copies]
+If there are any forms, authorizations, or fees required to process this request, please inform me so that I can provide them promptly. I appreciate your assistance and ask that you expedite the release of these records so the exam can proceed on schedule.
+
+Please contact me at [Your Phone Number] or via email at [Your Email Address] with any questions or for additional information.
+
+Thank you for your prompt attention to this matter. -->
+
+
+<!-- Subject: Request for Medical Records for Designated Doctor Exam – Elvia Garcia
+
+Dear Elsa Gaitan,
+
+I am writing to request a copy of medical records for a designated doctor exam scheduled for Elvia Garcia.
+
+DOB: 01/01/1985
+Claim number: 241130311
+
+If there are any forms, authorizations, or fees required to process this request, please inform me so that I can provide them promptly. I appreciate your assistance and ask that you expedite the release of these records so the exam can proceed on schedule.
+
+The records can also be sent to j5healthcenters@gmail.com or faxed to (817) 977-0333.
+Please contact me at 346-269-8890 or via email at nantahkl@gmail.com with any questions or for additional information.
+
+Thank you,
+Kornebari Nantah
+J5 Chiropractic and Health Centers -->
+
+
+Subject: Request for Medical Records for Designated Doctor Exam – Elvia Garcia
+
+Dear Elsa Gaitan,
+
+I am writing to request a copy of the medical records for a designated doctor exam scheduled for Elvia Garcia.
+
+Date of Birth: 01/01/1985
+Claim Number: 241130311
+
+If there are any forms, authorizations, or fees required to process this request, please let me know so I can provide them promptly. I would appreciate your assistance in expediting the release of these records to ensure the exam can proceed as scheduled.
+
+Please send the records to j5healthcenters@gmail.com or fax them to (817) 977-0333. For any questions or additional information, feel free to contact me at 346-269-8890 or via email at nantahkl@gmail.com.
+
+Thank you,
+Kornebari Nantah
+J5 Chiropractic and Health Centers

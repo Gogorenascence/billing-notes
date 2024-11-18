@@ -344,7 +344,9 @@ DISPLACEMENT, 54.12-CERVICAL RADICULOPATHY, S16.1XXA-CERVCIAL STRAIN, M72.2-LEFT
 FASCIITIS.
 
 
- S93.602A
+S93.602A
 
-Spinal instability of the Cervical region M53.2X2
-Spinal instability of the Lumbar region M53.2X6
+M53.2X2 Spinal instability of the Cervical region
+M53.2X6 Spinal instability of the Lumbar region
+
+S62.624A Displaced fracture of middle phalanx of right ring finger, initial encounter for closed fracture
