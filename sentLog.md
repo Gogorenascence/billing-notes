@@ -16,20 +16,21 @@ Pending
 <!-- HS -->
 274553755
 
-Joshua Hayter
+<!-- Joshua Hayter
 WC949G21997
 9/27 - 1950.00
 sent: 10/03
 carrier: LM
-status: pending
+status: paid
 received: 10/8
 last checked: 11/13
-paid: 834.00
+paid: 1488.16 - 11/19  -->
 
 Christopher Alvord
 000000327312
 BERKLEY MEDICAL MNGMT SOLUTIONS
 11/06/2024 - 1200.00
+Not on file
 <!-- status: pending
 received: 09/30
 last checked: 11/13
@@ -70,11 +71,28 @@ Ryan Rhoades
 10/23/24 - 1100.00
 sent: 10/31
 carrier: TASB
-status: Underpaid
+status: Underpaid (1026)
 received: 11/1
 last checked: 11/13
 paid: 577.00 on 11/13
 ref: 18621353
+Maria Romero
+151 211 1111
+
+Brandon Navarro
+2024004726
+10/15/2024 - 950.00
+sent: 10/25
+carrier: Insurance Company of the West
+Mitchell International Inc
+status: Underpaid (834)
+received: 10/30
+last checked: 11/8
+paid: 449.00 on 11/11
+ref: 18621527 18658552 18706671
+
+Escalated
+
 
 Thelma Behee
 001064052243WC01
@@ -86,18 +104,6 @@ received: 10/30
 last checked: 11/13
 paid:
 ref: 18621923 18659035
-
-Brandon Navarro
-2024004726
-10/15/2024 - 950.00
-sent: 10/25
-carrier: Insurance Company of the West
-Mitchell International Inc
-status: Underpaid
-received: 10/30
-last checked: 11/8
-paid: 449.00 on 11/11
-ref: 18621527 18658552
 
 Hector Rodela
 F2M0490

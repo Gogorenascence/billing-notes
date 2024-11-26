@@ -24,7 +24,6 @@ fax:
 18592644071
 2149220650
 
-
 ESIS - 800-233-8931 4
 800 9377460 -5
 863 877 1171
@@ -190,9 +189,7 @@ bill 550 400
 ph 800-537-6655
 fx 732-813-1345
 
-Fax
-Sedgwick
-18592644071
+
 
 Sunz Insurance Company
 (941) 306-3077
@@ -225,15 +222,20 @@ Medata
 866-665-5009
 
 Mitchell International Inc
+-TASB
+-ICW
+-Berkley Medical MNGMT Solutions
 800-732-0153 (-2 ICW)
 550 400
 (ICW) fx: 858-586-2444
 (TASB) fx: 732-212-7009
 
+
 BERKLEY MEDICAL MNGMT SOLUTIONS
-Ph: 8554442667
+Ph: 8554442667 -4
 
-
+Acadia Insurance
+1-800-773-4300
 
 Hello, billing for [Patient]'s DD Exam was sent to [Carrier] by fax. I wanted to get information on -  that bill's status.
  -
