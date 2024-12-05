@@ -15,7 +15,7 @@ Use whole part
 J. CLAYTON D.C. (12053)
 
 M50.20 Other cervical disc displacement, unspecified cervical region
-S13.4XXA Cervical  Sprain, initial encounter
+S13.4XXA Cervical Sprain, initial encounter
 S16.1XXA Cervical Strain, initial encounter
 M54.2 Cervicalgia
 
@@ -350,3 +350,5 @@ M53.2X2 Spinal instability of the Cervical region
 M53.2X6 Spinal instability of the Lumbar region
 
 S62.624A Displaced fracture of middle phalanx of right ring finger, initial encounter for closed fracture
+
+S43.401A unspecified sprain of the right shoulder joint during an initial encounter

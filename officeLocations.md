@@ -136,3 +136,5 @@ Quinlan Chiropractic, 301 S Denton Tap Rd. Ste 100, Coppell, TX 75019
 1881719672
 
 Kucera Chiropractic, 891 Seydler St., East Bernard, TX 77435
+
+Shannon Southwest Clinic 4450 Sunset Dr, San Angelo, TX 76901

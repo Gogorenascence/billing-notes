@@ -180,3 +180,21 @@ The total amounts to $2118; of which only $1412 was received.
 Please remit a payment $706 that fulfills the initial bill.
 
 See attached for original billing and billing rules for the relevant modifiers.
+
+
+Recon
+
+DD Billing Reconsideration for Maria Betancourt-Felix
+Claim #: 000696239364WC01
+Claimant was billed for MMI and IR for 1 MSK body area.
+Whose combined minimum is $834.00 for 1 unit. **
+
+Please remit a payment that was unfulfilled for the initial review.
+
+Please refer to the attached TDI billing rules.
+
+Dispute Resolution
+15124901044
+
+For FCEs
+Attn Bill Review and [Adjuster]

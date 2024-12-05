@@ -45,9 +45,8 @@ Service Lloyds Insurance Company
 (512) 637-3100 -1 -4
 
 Claims Administrative Services
-(800) 765-2412
+<!-- (800) 765-2412 -->
 903-509-8484
-
 Closes at 5pm
 
 Summit Holdings

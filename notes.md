@@ -134,3 +134,31 @@ General Pass: Records84$
 jclayton84: Reports8410$
 
 11/19 at 3pm
+
+
+shannon clinic
+
+
+compensible for
+sosa eoi 68 mmi
+
+thoracic sprain
+lumbar sp
+l ankle sp
+r shoulder sp
+l knee sp
+l hip sp
+r wrist/hand sp
+r elbow sp
+r lower leg st
+
+jose ep mmi
+
+right wrist fracture
+left hand contusion
+left thigh contusion
+
+elvia
+
+11/7 - current no behee
+york
