@@ -1,3 +1,4 @@
+Jopri 800-630-3060
 
 Texas Mutual - 1 - 1  2 -2 -1
     TM 8885325246
@@ -47,6 +48,7 @@ Service Lloyds Insurance Company
 Claims Administrative Services
 <!-- (800) 765-2412 -->
 903-509-8484
+cas_provider_relations@cas-services.com
 Closes at 5pm
 
 Summit Holdings
@@ -79,7 +81,7 @@ Liberty Mutual
 fx 8889258391
 
 Helmsmann
-800-320-7582
+800-320-7582 - closes at 4pm
 8443252467
 
 Accident Fund National Insurance
@@ -89,6 +91,7 @@ closes at 1600
 IMO/Tristar
 injurymanagement.com
 877-339-1268
+888-55TRISTAR (888.558.7478)
 
 CCMSI
 800-252-5059
@@ -126,7 +129,7 @@ Coventry
 800-937-6824
 
 AS&G Claims Administration
-800-580-2334
+800-580-2334 -2
 
 Randstad(Conduit)
 8888534735 - 6

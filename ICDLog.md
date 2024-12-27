@@ -196,6 +196,7 @@ S60.222A Contusion of Left hand, initial encounter
 S30.0XXA Contusion of lower back and pelvis, initial encounter
 S70.01XA Contusion of Right hip, initial encounter
 S70.02XA Contusion of Left hip, initial encounter
+S30.0XXA Contusion of lower back and pelvis, initial encounter
 S70.11XA Contusion of Right thigh, initial encounter
 S70.12XA Contusion of Left thigh, initial encounter
 S80.01XA Contusion of Right knee, initial encounter
@@ -352,3 +353,5 @@ M53.2X6 Spinal instability of the Lumbar region
 S62.624A Displaced fracture of middle phalanx of right ring finger, initial encounter for closed fracture
 
 S43.401A unspecified sprain of the right shoulder joint during an initial encounter
+
+S22.42XA Multiple fractures of ribs, left side, initial encounter for closed fracture

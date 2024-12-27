@@ -16,6 +16,21 @@ Pending
 <!-- HS -->
 274553755
 
+Andrea Ferrell
+AS & G
+ASGX560X3822X1
+ASGX560-3822-1
+12/05/24 1200.00
+1200.00 on 12/20/24
+
+John Boyd
+Broadspire/Indemnity
+190426095-001
+DOB: 07/09/69
+DOI: 08/30/24
+12/05/24 1950.00
+???
+
 Christopher Alvord
 000000327312
 BERKLEY MEDICAL MNGMT SOLUTIONS
@@ -36,14 +51,36 @@ last checked: 11/18
 <!-- paid: 834.00 on 10/29 -->
 
 <!-- HS -->
+Taccara Lowery
+014975000301WC01
+11/13/2024 - 775.00
+sent: 12/05
+carrier: gb
+status: pending
+received: 12/06
+last checked: 12/19
+<!-- paid: 1551.00 on 11/12 -->
+
+Gilberto Sosa
+1425001337819
+11/15/2024 - 2000.00
+sent: 12/02
+carrier: tm
+status: pending
+received: 12/02
+last checked: 12/16
+In system
+<!-- paid: 1551.00 on 11/12 -->
+
 Julieta Esparza
 1428001294766
 11/12/2024 - 1725.00
 sent: 12/02
 carrier: tm
-status: not received
-<!-- received: 11/28 -->
-last checked: 12/05
+status: pending
+received: 12/02
+last checked: 12/12
+In system
 <!-- paid: 1551.00 on 11/12 -->
 
 Jose Espinoza
@@ -51,9 +88,32 @@ Jose Espinoza
 11/15/2024 - 1100.00
 sent: 11/29
 carrier: tm
-status: not received
-<!-- received: 11/22 -->
-last checked: 12/05
+status: pending
+received: 12/02
+last checked: 12/12
+In system
+<!-- paid: 1551.00 on 11/12 -->
+
+Mark Barton
+1428001294766
+11/12/2024 - 950.00
+sent: 12/05
+carrier: tm
+status: not pending
+<!-- received: 11/28 -->
+last checked: 12/12
+In system
+paid: 834.00 on 11/12
+
+Leticia Hernandez
+241131230
+11/16/2024 - 950.00
+sent: 12/3
+carrier: TriStar
+status: pending
+received: 11/26
+last checked: 12/09
+<!-- cas_provider_relations@cas-services.com -->
 <!-- paid: 1551.00 on 11/12 -->
 
 Elvia Garcia
@@ -61,9 +121,10 @@ CMCA24130311
 11/15/2024 - 950.00
 sent: 11/18
 carrier: cas
-<!-- status: pending -->
-<!-- received: 11/22 -->
-last checked: 12/03 - message left
+status: pending
+received: 11/26
+last checked: 12/06
+cas_provider_relations@cas-services.com
 <!-- paid: 1551.00 on 11/12 -->
 
 Edgar Sanchez
@@ -71,31 +132,12 @@ Edgar Sanchez
 11/20/2024 - 950.00
 sent: 12/02
 carrier: ESIS
-status: not received
-received: 11/28
-last checked: 12/03
-<!-- paid: 1551.00 on 11/12 -->
-
-Juan Rangel
-1E01E015851934
-11/16/2024 - 700.00
-sent: 11/29
-carrier: ESIS
 status: pending
-received: 12/04
-last checked: 12/05
+received: 12/12
+last checked: 12/19
 <!-- paid: 1551.00 on 11/12 -->
+lp024381
 
-Brent Foxworth
-1E01E016621120
-11/22/2024 - 950.00
-sent: 11/25
-carrier: ESIS
-status: pending
-received: 11/28
-last checked: 12/05
-<!-- paid: 1551.00 on 11/12 -->
-kr017772
 
 Chad Patterson
 949G19347
@@ -103,10 +145,10 @@ Chad Patterson
 DOI: 02/21/24
 sent: 11/26
 carrier: LM
-status: pending
+status: paid
 received: 11/26
-last checked: 12/05
-<!-- paid: 125.00 on 11/01  -->
+last checked: 12/19
+paid: 2000.00 on 12/17
 
 Scott York
 4A23027ZL5Q0001
@@ -115,8 +157,23 @@ sent: 11/18
 carrier: sed
 status: pending
 received: 11/22
-last checked: 12/03
+last checked: 12/19
+<!-- Allowed: 1668.00 by 12/19 -->
+512-427-2369
+Meyoshia Ferguson
+
+Orthesia Allen
+4A23087HNSX0001
+11/13/2024 - 775.00
+sent: 12/05
+carrier: sed
+status: denied
+received: 12/09
+last checked: 12/12
+denied 12/10 - absense of preauth
 <!-- paid: 1551.00 on 11/12 -->
+Norma Sepeda
+501-716-9488
 
 Hank Howard - Resolution
 
@@ -166,6 +223,46 @@ Jasmine Flores 8/2 strat - received 8/2 recon 8/23 received 8/26 last checked 9/
 juan rangel esis - sent 8/23 - pending last checked 9/6
 extent needed
 
+<!-- Juan Rangel
+1E01E015851934
+11/16/2024 - 700.00
+sent: 11/29
+carrier: ESIS
+status: paid
+received: 12/04
+last checked: 12/19
+paid: 700.00 on 12/18
+eb021046 -->
+
+<!-- Gerardo Moreno
+030272000047WC01
+11/15/2024 - 775.00
+sent: 12/12
+carrier: gb
+status: paid
+received: 12/12
+last checked: 12/19
+paid: 775.00 on 12/16 -->
+
+<!-- Terry Zimmerman
+WC202457
+11/21/2024 - 1100.00
+sent: 12/06
+carrier: tmlirp
+status: paid
+received: 12/13
+last checked: 12/16
+paid: 1026.00 on 12/13 -->
+
+<!-- Brent Foxworth
+1E01E016621120
+11/22/2024 - 950.00
+sent: 11/25
+carrier: ESIS
+status: paid
+received: 11/28
+last checked: 12/16
+paid: 749.00 on 12/5 -->
 
 <!-- Broderick Berry
 2201042719

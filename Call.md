@@ -202,3 +202,53 @@ Please send the records to j5healthcenters@gmail.com or fax them to (817) 977-03
 Thank you,
 Kornebari Nantah
 J5 Chiropractic and Health Centers
+
+
+Hello, billing for Edgar Sanchez's DD Exam was sent to ESIS by fax on 12/02/24.
+I wanted to confirm that the billing was received.
+
+Claim Number: 1E01E015533704
+Date of injury: 01/12/2024
+Date of service: 11/20/2024
+Billed amount: $950.00
+TX ID: 82-2170594
+
+The billing and documents for Edgar Sanchez is also attached.
+
+
+<!-- Referral; no need for authorization -->
+Regarding Orthesia Allen:
+Claim #: 4A23087HNSX0001
+DOI: 08/06/23
+
+This is a referral for an FCE from designated doctor Andre Hwang, DC.
+The exam was performed without an need preauthorization following this code:
+
+Texas Administrative Code- Rule 126.7 (K)
+The designated doctor shall perform additional testing or refer an employee to other healthcare providers when necessary to determine the issue in question. Any additional testing required for the evaluation is not subject to preauthorization requirements in accordance with the labor code 413.014 or insurance code, chapter 1305.
+
+Attached is the original billing and report for the patient Orthesia Allen.
+
+Thank you,
+Kornebari Nantah
+J5 Chiropractic and Health Centers
+
+
+
+
+
+Dear Cynthia Zavala,
+
+I am writing to request a copy of the operative report for Larry Johnson's right partial medial meniscectomy. The date is estimated to be between 04/22/24 and 05/29/24.
+
+Date of Birth: 06/02/1978
+Date of Injury: 02/27/2024
+Claim Number: 011260160249WC01
+
+If there are any forms, authorizations, or fees required to process this request, please let me know so I can provide them promptly. I would appreciate your assistance in expediting the release of these records to ensure the exam can proceed as scheduled.
+
+Please send the records to j5healthcenters@gmail.com or fax them to (817) 977-0333. For any questions or additional information, feel free to contact me at 346-269-8890 or via email at nantahkl@gmail.com.
+
+Thank you,
+Kornebari Nantah
+J5 Chiropractic and Health Centers
