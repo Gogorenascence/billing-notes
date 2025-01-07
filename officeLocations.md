@@ -108,6 +108,7 @@ Truitt Chiropractic, 100 W Henderson St STE H Cleburne, TX 76033
 1043397367
 
 Optimus Physical Therapy, 4311 Andrews Hwy, Midland, TX 79703
+1366733172
 
 Corsicana Chiropractic, 2300 W 2nd Ave Corsicana, TX 75110
 1427520386
@@ -138,3 +139,6 @@ Quinlan Chiropractic, 301 S Denton Tap Rd. Ste 100, Coppell, TX 75019
 Kucera Chiropractic, 891 Seydler St., East Bernard, TX 77435
 
 Shannon Southwest Clinic 4450 Sunset Dr, San Angelo, TX 76901
+
+OFFICE LOCATION:        		Whitesboro Family Clinic, 304 Charlie St., Whitesboro, TX 76273
+1710593413

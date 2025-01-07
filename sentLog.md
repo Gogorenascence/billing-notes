@@ -31,6 +31,7 @@ DOI: 08/30/24
 12/05/24 1950.00
 ???
 
+
 Christopher Alvord
 000000327312
 BERKLEY MEDICAL MNGMT SOLUTIONS
@@ -50,7 +51,40 @@ received: 10/31
 last checked: 11/18
 <!-- paid: 834.00 on 10/29 -->
 
+
+andrea ferrell - as&g claims.... dr smith voice
+leticia hernandez - tristar
+broadspire no bill - get fax and resend
+
 <!-- HS -->
+
+Maria Reyes - berkshire hathaway
+DOB: 07/20/68
+DOI: 01/22/24
+DOS: 12/16/24 - 1725.00
+r 1/2
+pending
+
+Teresa Walvoord - Zurich
+2840352647
+DOI 10/11/23
+DOS 12/12/24
+950.00
+Paid: 950.00 on 1/1/25
+
+Larry johnson - Gallagher Bassett
+011260160249WC01
+12/12/24 - 1300.00
+received: 12/30
+pending
+1/2
+
+jacqueline mccowan - gallagher bassett
+040310000134WC01
+12/03/24 - 950.00
+received: 12/19
+pending
+
 Taccara Lowery
 014975000301WC01
 11/13/2024 - 775.00
@@ -68,8 +102,19 @@ sent: 12/02
 carrier: tm
 status: pending
 received: 12/02
-last checked: 12/16
+last checked: 1/2
 In system
+<!-- paid: 1551.00 on 11/12 -->
+
+Austin Orange
+1426001405500
+12/03/2024 - 700.00
+<!-- sent: 12/02 -->
+carrier: tm
+<!-- status: pending -->
+<!-- received: 12/02 -->
+last checked: 1/2
+<!-- In system -->
 <!-- paid: 1551.00 on 11/12 -->
 
 Julieta Esparza
@@ -78,8 +123,8 @@ Julieta Esparza
 sent: 12/02
 carrier: tm
 status: pending
-received: 12/02
-last checked: 12/12
+received: 1/2
+last checked: 12/27
 In system
 <!-- paid: 1551.00 on 11/12 -->
 
@@ -90,9 +135,19 @@ sent: 11/29
 carrier: tm
 status: pending
 received: 12/02
-last checked: 12/12
+last checked: 1/2
 In system
 <!-- paid: 1551.00 on 11/12 -->
+
+Jose Salinas
+1428001390472
+12/11/2024 - 950.00
+<!-- sent: 10/21 -->
+carrier: tm
+status: nr
+received:
+last checked: 1/2
+paid:
 
 Mark Barton
 1428001294766
@@ -101,31 +156,9 @@ sent: 12/05
 carrier: tm
 status: not pending
 <!-- received: 11/28 -->
-last checked: 12/12
+last checked: 12/27
 In system
 paid: 834.00 on 11/12
-
-Leticia Hernandez
-241131230
-11/16/2024 - 950.00
-sent: 12/3
-carrier: TriStar
-status: pending
-received: 11/26
-last checked: 12/09
-<!-- cas_provider_relations@cas-services.com -->
-<!-- paid: 1551.00 on 11/12 -->
-
-Elvia Garcia
-CMCA24130311
-11/15/2024 - 950.00
-sent: 11/18
-carrier: cas
-status: pending
-received: 11/26
-last checked: 12/06
-cas_provider_relations@cas-services.com
-<!-- paid: 1551.00 on 11/12 -->
 
 Edgar Sanchez
 1E01E015533704
@@ -138,8 +171,7 @@ last checked: 12/19
 <!-- paid: 1551.00 on 11/12 -->
 lp024381
 
-
-Chad Patterson
+<!-- Chad Patterson
 949G19347
 10/24/24 - 2000.00
 DOI: 02/21/24
@@ -148,19 +180,24 @@ carrier: LM
 status: paid
 received: 11/26
 last checked: 12/19
-paid: 2000.00 on 12/17
+paid: 2000.00 on 12/17 -->
 
 Scott York
 4A23027ZL5Q0001
+DOI: 02/06/23
 09/18/2024 - 1875.00
 sent: 11/18
 carrier: sed
-status: pending
+status: pending approval
 received: 11/22
-last checked: 12/19
-<!-- Allowed: 1668.00 by 12/19 -->
+last checked: 1/2
+Paid: 1668.00 by 1/3
 512-427-2369
 Meyoshia Ferguson
+
+Supervisor
+Nancy Spaniola
+512-427-2465
 
 Orthesia Allen
 4A23087HNSX0001
@@ -222,6 +259,31 @@ Jasmine Flores 8/2 strat - received 8/2 recon 8/23 received 8/26 last checked 9/
 
 juan rangel esis - sent 8/23 - pending last checked 9/6
 extent needed
+
+
+<!-- Moreno -->
+
+<!-- Leticia Hernandez
+241131230
+11/16/2024 - 950.00
+sent: 12/3
+carrier: TriStar
+status: pending
+received: 11/26
+last checked: 12/09
+paid: 1551.00 on 11/12
+cas_provider_relations@cas-services.com  -->
+
+<!-- Elvia Garcia
+CMCA24130311
+11/15/2024 - 950.00
+sent: 11/18
+carrier: cas
+status: pending
+received: 11/26
+last checked: 12/06
+cas_provider_relations@cas-services.com
+paid: 1551.00 on 11/12 -->
 
 <!-- Juan Rangel
 1E01E015851934

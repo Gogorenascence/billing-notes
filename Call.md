@@ -1,6 +1,6 @@
 
 Kornebari Nantah in a call
-
+J5 Chiropractic and Health Centers Fax: (817) 977-0333
 
 
 As submitted earlier (please see previous emails), I will resend records and billing to you.  We will wait until this Friday June 7th for a response, and will file a complaint to Texas Department of Insurance to resolve the matter if no response is made by then.  Please note that this bill and exam is from a state ordered designated doctor exam which is mandatory payment or the risk of fines and penalties may occur.  Thanks.
@@ -30,6 +30,20 @@ Billed amount: 600.00
 TX ID: 82-2170594
 
 Thank you
+
+Hello, billing for John Boyd's DD Exam was sent to Broadspire by fax. I wanted to get information on that bill's status.
+
+Claim Number: 190426095001
+Date of injury: 08/30/24
+Date of service: 12/05/24
+Billed amount: 1950.00
+TX ID: 27-4553755
+
+A copy of the billing is also attached to this email.
+
+Thank you,
+Kornebari Nantah
+Healthcare Solutions
 
 owens
 6/12
@@ -252,3 +266,6 @@ Please send the records to j5healthcenters@gmail.com or fax them to (817) 977-03
 Thank you,
 Kornebari Nantah
 J5 Chiropractic and Health Centers
+
+
+John Rios 469-288-0832 docs 153/342
