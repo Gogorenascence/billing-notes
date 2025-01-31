@@ -269,3 +269,14 @@ J5 Chiropractic and Health Centers
 
 
 John Rios 469-288-0832 docs 153/342
+
+
+
+Details for your doctor exam tomorrow:
+
+Time:  10:00 AM
+Location:  Spine & Health Institute, 7400 Blanco Rd Ste 125 San Antonio, TX 78216
+
+For any questions or additional information, feel free to contact Jamon Clayton at (682) 472-1132 or via email at j5healthcenters@gmail.com.
+
+You can also contact me at 346-269-8890 or via email at nantahkl@gmail.com.

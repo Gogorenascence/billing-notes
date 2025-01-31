@@ -142,3 +142,6 @@ Shannon Southwest Clinic 4450 Sunset Dr, San Angelo, TX 76901
 
 OFFICE LOCATION:        		Whitesboro Family Clinic, 304 Charlie St., Whitesboro, TX 76273
 1710593413
+
+Family Care Chiropractic, 316 S Goliad St., Ste. 111, Rockwall, TX 75032
+1881711042

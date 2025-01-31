@@ -17,6 +17,8 @@ PO Box 660456
 75266-0456
 
 travelers.com/claimuploadcenter/
+https://www.travelers.com/claims/check-your-claim-status/status-form
+
 
 Sedgwick
     1-866-495-7844 7
@@ -44,6 +46,8 @@ TX -1-877-952-9222
 
 Service Lloyds Insurance Company
 (512) 637-3100 -1 -4
+512-231-8248
+ref: 19231259
 
 Claims Administrative Services
 <!-- (800) 765-2412 -->
@@ -144,7 +148,8 @@ Nationwide
 8004213535 4 - 2
 
 genex
-8888640574 -1
+8888640574 -2
+8884643639
 closes at 4pm
 
 Creative Risk Funding
@@ -172,6 +177,7 @@ closes at 5pm
 Broadspire
 1-866-830-2383 - 1 - 3
 provider24@choosebroadspire.com
+
 name
 DOS
 SSN
@@ -239,6 +245,17 @@ Ph: 8554442667 -4
 
 Acadia Insurance
 1-800-773-4300
+
+National Interstate Insurance Company
+(800) 929-0870 - 1
+800 929-1500 ext 1814
+
+New Hampshire Insurance Company
+877-399-6442 - 1 - 1 - 2
+
+Athens Administrators
+ph: 866-482-3535
+fx: 925-889-2410
 
 Hello, billing for [Patient]'s DD Exam was sent to [Carrier] by fax. I wanted to get information on -  that bill's status.
  -

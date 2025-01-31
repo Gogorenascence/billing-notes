@@ -212,6 +212,7 @@ S09.90XA Unspecified injury of head, initial encounter
 
 S51.811A Laceration without foreign body of right forearm, initial encounter
 S51.812A Laceration without foreign body of left forearm, initial encounter
+S61.011A Laceration without foreign body of right thumb without damage to nail, initial encounter
 
 R22.42 Localized swelling, mass and lump, left lower limb
 
@@ -355,3 +356,6 @@ S62.624A Displaced fracture of middle phalanx of right ring finger, initial enco
 S43.401A unspecified sprain of the right shoulder joint during an initial encounter
 
 S22.42XA Multiple fractures of ribs, left side, initial encounter for closed fracture
+
+S82.291A Other fracture of shaft of right tibia, initial encounter for closed fracture
+S83.512A  Sprain of anterior cruciate ligament of left knee, initial encounter
