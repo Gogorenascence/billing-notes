@@ -280,3 +280,20 @@ Location:  Spine & Health Institute, 7400 Blanco Rd Ste 125 San Antonio, TX 7821
 For any questions or additional information, feel free to contact Jamon Clayton at (682) 472-1132 or via email at j5healthcenters@gmail.com.
 
 You can also contact me at 346-269-8890 or via email at nantahkl@gmail.com.
+
+
+
+Supervisor
+Nancy Spaniola
+512-427-2465
+
+
+Sending a reminder for your designated doctor exam for your worker’s compensation.
+
+Doctor: Dr. Jamon Clayton
+Location: Spine & Health Institute, 7400 Blanco Rd Ste 125, San Antonio, TX 78216
+Time: 02/07/2025 at 2pm
+
+For any questions or additional information, feel free to contact Jamon Clayton at (682) 472-1132 or via email at j5healthcenters@gmail.com.
+
+You can also contact me at 346-269-8890 or via email at nantahkl@gmail.com.

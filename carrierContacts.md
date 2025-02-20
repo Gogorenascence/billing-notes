@@ -1,7 +1,8 @@
 Jopri 800-630-3060
 
-Texas Mutual - 1 - 1  2 -2 -1
+Texas Mutual - 1 - 1  2 -2 -1 -3 -6
     TM 8885325246
+
 
 Gallagher Bassett 800-370-0594 1
 9 to get call back
@@ -161,7 +162,6 @@ fax@crf.cc <-------
 Strategic Comp
 800-467-7725 -- 3 - 2
 fx 732-576-6157
-
 closes at 4:30pm
 
 cbcs claims
@@ -216,7 +216,7 @@ fax 4842827680
 billaudit@s1-medical.com
 
 Zenith
-800-440-5020 - 2 or 3 - 1
+800-440-5020 - 3 - 4
 fax 18003640443
 
 State Office of Risk Management
@@ -247,14 +247,19 @@ Acadia Insurance
 1-800-773-4300
 
 National Interstate Insurance Company
-(800) 929-0870 - 1
+(800) 929-0870 - ext 1821 - 1
 800 929-1500 ext 1814
+Fx: 330-659-8909
+
+Careworks
+877-659-0952
+fx: 724-749-4135
 
 New Hampshire Insurance Company
 877-399-6442 - 1 - 1 - 2
 
 Athens Administrators
-ph: 866-482-3535
+ph: 866-482-3535 - 1 - 4 - 1 - 2
 fx: 925-889-2410
 
 Hello, billing for [Patient]'s DD Exam was sent to [Carrier] by fax. I wanted to get information on -  that bill's status.

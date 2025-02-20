@@ -16,151 +16,165 @@ Pending
 <!-- HS -->
 274553755
 
-John Boyd
-Broadspire/Indemnity
-190426095-001
-DOB: 07/09/69
-DOI: 08/30/24
-12/05/24 1950.00
+Eddie Hamilton
+1E01E012790799
+DOB: 02/05/72
+DOI: 08/06/22
+DOS: 01/29/25 - 1200.00
+<!-- sent: 02/05/25 -->
+carrier: ESIS
 status: pending
-received: 10/31
-last checked: 11/18
-???
+received: 2/6
+last checked: 2/18
 
-
-Christopher Alvord
-000000327312
-BERKLEY MEDICAL MNGMT SOLUTIONS
-11/06/2024 - 1200.00
-Not on file
-<!-- status: pending
-received: 09/30
-last checked: 11/13
-paid: 834.00 on 10/29 -->
-
-<!-- Sergio Riojas
-1425001376987
-tm
-10/23/2024 - 1200.00
+Victor Rodriguez
+1427001425004
+02/04/25 - 1500.00
+DOI: 10/07/24
+<!-- sent: 02/05/25 -->
+carrier: TM
 status: pending
-received: 10/31
-last checked: 1/17
-paid: 834.00 on 10/31 -->
+received: 2/6
+last checked: 2/18
 
-<!-- andrea ferrell - as&g claims.... dr smith voice
-leticia hernandez - tristar
-broadspire no bill - get fax and resend -->
-
-Raymond Pipkin
-4A231030QBX001 sed/genex
-sent 01/16/25
-DOS 01/16/25 - 2350.00
-r 01/24/25
-pending
-
-grady briggs
-01/15/25 - 1200.00
-claim #: 9706795
-carrier: lloyd
-sent:
+Braulio Gutierrez
+4A2402HXSQL
+DOB: 05/20/67
+DOI: 02/16/24
+DOS: 02/04/25 - 1950.00
+<!-- sent: 02/05/25 -->
+carrier: Sedgwick
 status: pending
-received: nr
-last checked: 1/27
-<!-- paid: 2250 on 10/4 -->
-
-Liz Tome Garcia
-WC949-G21389 - LM
-01/10/25 - 1950.00
-status: pending
-received: 1/15
-last checked: 1/27
-<!-- paid: 2250 on 10/4 -->
+received: 2/6
+last checked: 2/18
 
 <!-- HS End -->
+822170594
+
+Joshua Murfin
+990765 - 635032394
+DOB: 03/31/85
+DOI: 07/23/23
+DOS: 02/04/25 - 125.00
+sent: 02/05/25
+carrier: The Zenith
+status: pending
+received: 2/6
+last checked: 2/18
+
+Michelle Roemer
+WC3976915
+DOB: 11/02/71
+DOI: 05/12/23
+DOS: 01/08/25 - 2350.00
+sent: 01/30/25
+carrier: State Office of Risk Management
+status: pending
+received: 2/10
+last checked: 2/18
 
 Jimmy Boling
 1432645
 DOB: 06/02/68
 DOI: 07/09/23
 DOS: 01/07/25 - 950.00
-sent: 01/23/25
+sent: 01/23/25 - resent 1/31/25 - resent 2/12/25
 carrier: National Interstate Insurance Company
-status:
-received:
-last checked: 1/23
-
-Krystian Bickle
-sent: 1/28/25
-
-Jackie Martin
-Travelers - F5S6455
-DOB: 11/07/64
-DOI: 07/22/24
-DOS: 12/17/24 - 600.00
-Status: pending 600.00 available today
-Received: 1/13
-last checked: 1/27
-Sent: 1/2/25
-
-Kendrell Mills
-1428001466847
-01/06/2025 - 2000.00
-sent: 01/21/2025
-carrier: tm
 status: nr
-received:
-last checked: 1/27
+received: nr
+last checked: 2/18
+Careworks  8776590952
+60 sent
+
+Gilberto Sosa
+1425001337819
+11/15/2024 - 2000.00
+sent: 12/02
+resent: 1/30
+carrier: tm
+status: paid 1860.00 on 1/14 no check received
+received: 12/16
+last checked: 2/11
+45 days for review
+1/30 for stop pay
+<!-- paid: 1860.00 on 1/15 -->
+Resend pending
 
 John Rios
-TM - 1421001360414
+1421001360414
+01/28/2025 950.00
 DOI: 07/11/2023
-DOS: 01/07/2025
+Carrier: TM
 status: pending
-received: 1/7
-last checked: 1/27
-<!-- paid: 1551.00 on 11/12 -->
+received: 2/6
+sent 2/6
+last checked: 2/14
 
-Jose Salinas
-1428001390472
-12/11/2024 - 950.00
-<!-- sent: 10/21 -->
-carrier: tm
-status: nr
-received: 12/31
-last checked: 1/27
-paid:
+Juana Martinez
+A00639941
+DOB: 09/21/85
+DOI: 07/18/24
+DOS: 01/29/25 - 1300.00
+sent: 2/12
+carrier: Strategic Comp
+status: na
+received:
+last checked: 2/14
 
-Supervisor
-Nancy Spaniola
-512-427-2465
+Alonso Ochoa
+WC949G33581
+DOB: 07/03/02
+DOI: 06/18/24
+DOS: 01/29/25 - 1100.00
+sent: 2/12
+carrier: Liberty Mutual
+status: pending
+received: 2/12
+last checked: 2/14
 
-Marisa Giglio
-4A2405DHMB90001
-DOS: 01/08/25 - 950.00
-sent: 01/23/2025
-carrier: Sedgwick
-status: nr
-received: 1/24
-last checked: 1/27
-
-Hannah Zipser
-002408401951
-DOS: 01/08/25 - 600.00
-sent: 01/22/2025
-carrier: Sedgwick
-status:
-received: 1/22
-last checked: 1/27
-
-Curt Collins
-002307411408
-12/30/2024 - 1100.00
-sent: 1/16
+Sabrina Johnson
+4A2407G977K0001
+DOB: 08/20/73
+DOI: 07/13/24
+DOS: 01/24/25 - 1300.00
+sent: 2/5
 carrier: sed
 status: pending
-received: 1/20
-last checked: 1/24
-<!-- paid: 1551.00 on 11/12 -->
+received: 2/11
+last checked: 2/18
+resent 2/11
+
+Gerardo Moreno
+030272000047WC01
+2/3/25 - 1875.00
+sent: 2/13
+carrier: gb
+<!-- status: paid -->
+received: 2/13
+last checked: 2/18
+
+Rose Paul
+003619029892WC01
+DOS: 1/29/25 - 2500.00
+DOB: 11/21/66
+sent: 2/13
+carrier: gb
+<!-- status: paid -->
+received: 2/14
+last checked: 2/18
+
+James Juarez
+4A2312K0HJS0001
+DOB: 10/28/1971
+DOI: 12/16/2023
+DOS: 01/22/25 - 775.00
+sent: 2/7
+carrier: sed
+status: Denied no pre-cert auth 2/10
+received:
+last checked: 2/11
+60
+99456
 
 Hank Howard - Resolution
 
@@ -224,15 +238,169 @@ received: 1/13
 last checked: 1/21
 8772282758
 
-<!-- Austin Orange
+
+<!--
+
+
+ Kendrell Mills
+1428001366847
+01/06/2025 - 2000.00
+sent: 01/21/2025
+carrier: tm
+status: paid 1793.00 on 2/14
+received: 1/22
+last checked: 2/14
+
+ Ella Payne
+20240000789
+DOB: 05/22/57
+DOI: 01/16/24
+DOS: 01/17/25 - 1800.00
+sent: 02/03/25
+carrier: TASB Risk Management Fund
+status: paid 1704.00 on 2/10
+received: 2/4
+last checked: 2/11
+
+ Raymond Pipkin
+4A231030QBX001 sed/genex
+sent 01/16/25
+DOS 01/16/25 - 2350.00
+DOB 10/16/63
+r 01/24/25
+1726.00 paid on 1/30
+last checked: 2/11
+
+ grady briggs
+01/15/25 - 1200.00
+claim #: 9706795
+carrier: lloyd
+sent: paid 1200.00 on 2/4
+status: pending
+received: 1/29
+last checked: 1/31
+
+ Liz Tome Garcia
+WC949-G21389 - LM
+01/10/25 - 1950.00
+doi 3/25/24
+status: paid 1950.00 on 2/6
+received: 1/15
+last checked: 2/7
+
+ John Boyd
+Broadspire/Indemnity
+190426095-001
+DOB: 07/09/69
+DOI: 08/30/24
+12/05/24 1950.00
+status: pending
+received: 10/31
+last checked: 11/18
+???
+
+
+ Christopher Alvord
+000000327312
+BERKLEY MEDICAL MNGMT SOLUTIONS
+11/06/2024 - 1200.00
+Not on file
+ status: pending
+received: 09/30
+last checked: 11/13
+paid: 834.00 on 10/29
+
+ Sergio Riojas
+1425001376987
+tm
+10/23/2024 - 1200.00
+status: pending
+received: 10/31
+last checked: 1/17
+paid: 834.00 on 10/31
+
+ andrea ferrell - as&g claims.... dr smith voice
+leticia hernandez - tristar
+broadspire no bill - get fax and resend
+
+ Krystian Bickle
+travelers - F4L9846
+sent: 1/28/25
+DOB: 11/28/83
+DOI: 07/22/24
+DOS: 01/22/25 - 125.00
+Status: paid 104.00 on 1/31
+Received: 1/25
+last checked: 2/7
+
+ Curt Collins
+002307411408
+12/30/2024 - 1100.00
+DOB: 3/17/1987
+sent: 1/16
+carrier: sed
+status: paid 1026.00 on 2/7
+received: 1/20
+last checked: 1/31
+8664357654 7169479
+kendyl.gilreath@sedgwick.com
+
+ John Rios
+TM - 1421001360414
+01/07/2025
+DOI: 07/11/2023
+status: paid 100.00 on 1/31
+received: 1/7
+last checked: 2/3
+
+ Hannah Zipser
+002408401951
+DOS: 01/08/25 - 600.00
+DOB: 6/19/1996
+sent: 01/22/2025
+carrier: Sedgwick
+status: paid 465.00 on 1/31
+received: 1/29
+last checked: 1/31
+
+ Marisa Giglio
+4A2405DHMB90001
+DOS: 01/08/25 - 950.00
+DOB: 6/7/1994
+doi 5/11/24
+sent: 01/23/2025
+carrier: Sedgwick
+status: paid 863.00 on 1/29
+received: 1/24
+last checked: 1/31
+
+ Jackie Martin
+Travelers - F5S6455
+DOB: 11/07/64
+DOI: 07/22/24
+DOS: 12/17/24 - 600.00
+Status: paid 600.00 on 1/24
+Received: 1/13
+last checked: 1/31
+Sent: 1/2/25
+
+ Jose Salinas
+1428001390472
+12/11/2024 - 700.00
+carrier: tm
+status: paid - 642.00 on 1/28
+received: 12/31
+last checked: 1/31
+
+ Austin Orange
 1426001405500
 12/03/2024 - 700.00
 carrier: tm
 received: 12/20
 last checked: 1/21
-paid: 642.00 on 1/20 -->
+paid: 642.00 on 1/20
 
-<!-- Orthesia Allen
+ Orthesia Allen
 4A23087HNSX0001
 11/13/2024 - 775.00
 sent: 12/05
@@ -243,9 +411,9 @@ last checked: 1/21
 denied 12/10 - absense of preauth
 paid: ~680.00
 Norma Sepeda
-501-716-9488 -->
+501-716-9488
 
-<!--
+
 Edgar Sanchez
 1E01E015533704
 11/20/2024 - 950.00
@@ -254,48 +422,35 @@ carrier: ESIS
 status: pending
 received: 12/12
 last checked: 1/21
-paid: 950.00 on 1/15/25 -->
+paid: 950.00 on 1/15/25
 
-<!--
+
 Francisco Formoso
 F5S6333
 12/18/2024 - 950.00
 sent: 01/07/2025
 carrier: Travelers
 last checked: 1/17
-paid: 834.00 on 1/10 -->
+paid: 834.00 on 1/10
 
-<!--
-Gilberto Sosa
-1425001337819
-11/15/2024 - 2000.00
-sent: 12/02
-carrier: tm
-status: pending
-received: 12/16
-last checked: 1/17
 
-45 days for review
-1/30 for stop pay
 
-paid: 1860.00 on 1/15 -->
-
-<!-- Mark Barton
+ Mark Barton
 1428001294766
 11/12/2024 - 950.00
 sent: 12/05
 carrier: tm
 last checked: 12/27
-paid: 1540.00 on 12/31 -->
+paid: 1540.00 on 12/31
 
-<!-- Andrea Ferrell
+ Andrea Ferrell
 AS & G
 ASGX560X3822X1
 ASGX560-3822-1
 12/05/24 1200.00
-1200.00 on 12/20/24 -->
+1200.00 on 12/20/24
 
-<!-- Maria Reyes - berkshire hathaway
+ Maria Reyes - berkshire hathaway
 V9WC465653001
 DOB: 07/20/68
 DOI: 01/22/24
@@ -304,25 +459,25 @@ received: 1/2
 last checked: 1/13
 pending
 underpaid
-paid 1155 on 1/6 -->
+paid 1155 on 1/6
 
-<!-- Larry johnson
+ Larry johnson
 GB - 011260160249WC01
 12/12/24 - 1300.00
 received: 12/30
 1/2
-Paid 1091.00 on 12/30 -->
+Paid 1091.00 on 12/30
 
-<!-- Erik Carruyo
+ Erik Carruyo
 GB - 019039000016WC01
 DOB: 08/29/84
 DOI: 04/24/24
 DOS: 12/18/24 - 950.00
 Sent: 1/2/25
 Received: 1/3
-Paid: 950.00 on 1/7 -->
+Paid: 950.00 on 1/7
 
-<!-- Taccara Lowery
+ Taccara Lowery
 GB - 014975000301WC01
 11/13/2024 - 775.00
 sent: 12/05
@@ -330,9 +485,9 @@ carrier: gb
 status: pending
 received: 12/06
 last checked: 12/19
-paid: 1551.00 on 11/12 -->
+paid: 1551.00 on 11/12
 
-<!-- Scott York
+ Scott York
 4A23027ZL5Q0001
 DOI: 02/06/23
 09/18/2024 - 1875.00
@@ -342,22 +497,22 @@ received: 11/22
 last checked: 1/2
 Paid: 1668.00 by 1/3
 512-427-2369
-Meyoshia Ferguson -->
+Meyoshia Ferguson
 
-<!-- Jacqueline McCowan
+ Jacqueline McCowan
 GB - 040310000134WC01
 12/03/24 - 950.00
 received: 12/19
-Paid on 950.00 on 1/1 -->
+Paid on 950.00 on 1/1
 
-<!-- Teresa Walvoord - Zurich
+ Teresa Walvoord - Zurich
 2840352647
 DOI 10/11/23
 DOS 12/12/24
 950.00
-Paid: 950.00 on 1/1/25 -->
+Paid: 950.00 on 1/1/25
 
-<!-- Chad Patterson
+ Chad Patterson
 949G19347
 10/24/24 - 2000.00
 DOI: 02/21/24
@@ -366,9 +521,9 @@ carrier: LM
 status: paid
 received: 11/26
 last checked: 12/19
-paid: 2000.00 on 12/17 -->
+paid: 2000.00 on 12/17
 
-<!-- Julieta Esparza
+ Julieta Esparza
 1428001294766
 11/12/2024 - 1725.00
 sent: 12/02
@@ -376,10 +531,10 @@ carrier: tm
 status: pending
 received: 1/2
 last checked: 12/27
-In system -->
-<!-- paid: 1575.00 on 11/12 -->
+In system
+ paid: 1575.00 on 11/12
 
-<!-- Jose Espinoza
+ Jose Espinoza
 1423001395282
 11/15/2024 - 1100.00
 sent: 11/29
@@ -387,12 +542,12 @@ carrier: tm
 status: pending
 received: 12/02
 last checked: 1/2
-In system -->
-<!-- paid: 1026.00 on 11/12 -->
+In system
+ paid: 1026.00 on 11/12
 
-<!-- Moreno -->
+ Moreno
 
-<!-- Leticia Hernandez
+ Leticia Hernandez
 241131230
 11/16/2024 - 950.00
 sent: 12/3
@@ -401,9 +556,9 @@ status: pending
 received: 11/26
 last checked: 12/09
 paid: 1551.00 on 11/12
-cas_provider_relations@cas-services.com  -->
+cas_provider_relations@cas-services.com
 
-<!-- Elvia Garcia
+ Elvia Garcia
 CMCA24130311
 11/15/2024 - 950.00
 sent: 11/18
@@ -412,9 +567,9 @@ status: pending
 received: 11/26
 last checked: 12/06
 cas_provider_relations@cas-services.com
-paid: 1551.00 on 11/12 -->
+paid: 1551.00 on 11/12
 
-<!-- Juan Rangel
+ Juan Rangel
 1E01E015851934
 11/16/2024 - 700.00
 sent: 11/29
@@ -423,9 +578,9 @@ status: paid
 received: 12/04
 last checked: 12/19
 paid: 700.00 on 12/18
-eb021046 -->
+eb021046
 
-<!-- Gerardo Moreno
+ Gerardo Moreno
 030272000047WC01
 11/15/2024 - 775.00
 sent: 12/12
@@ -433,9 +588,9 @@ carrier: gb
 status: paid
 received: 12/12
 last checked: 12/19
-paid: 775.00 on 12/16 -->
+paid: 775.00 on 12/16
 
-<!-- Terry Zimmerman
+ Terry Zimmerman
 WC202457
 11/21/2024 - 1100.00
 sent: 12/06
@@ -443,9 +598,9 @@ carrier: tmlirp
 status: paid
 received: 12/13
 last checked: 12/16
-paid: 1026.00 on 12/13 -->
+paid: 1026.00 on 12/13
 
-<!-- Brent Foxworth
+ Brent Foxworth
 1E01E016621120
 11/22/2024 - 950.00
 sent: 11/25
@@ -453,18 +608,18 @@ carrier: ESIS
 status: paid
 received: 11/28
 last checked: 12/16
-paid: 749.00 on 12/5 -->
+paid: 749.00 on 12/5
 
-<!-- Broderick Berry
+ Broderick Berry
 2201042719
 tristar/imo
 10/30/2024 - 1400.00
 status: underpaid
 received: 09/30
 last checked: 11/13
-paid: 577.00  -->
+paid: 577.00
 
-<!-- Donald Bunch
+ Donald Bunch
 030183000003WC01
 11/14/2024 - 1650.00
 sent: 11/25
@@ -472,9 +627,9 @@ carrier: gb
 status: paid
 received: 11/25
 last checked: 12/03
-paid: 1650.00 on 11/26 -->
+paid: 1650.00 on 11/26
 
-<!-- Alice Wienke
+ Alice Wienke
 WC183268
 10/30/24 - 950.00
 sent: 11/14
@@ -482,9 +637,9 @@ carrier: tmlirp
 status: pending
 received:
 last checked: 12/03
-paid: 834.00 on 12/02 -->
+paid: 834.00 on 12/02
 
-<!-- Melvinna Lee
+ Melvinna Lee
 4A23125N6T40001
 10/31/24 - 700.00
 sent: 11/19
@@ -492,9 +647,9 @@ carrier: sed
 status: paid
 received: 11/24
 last checked: 12/03
-paid: 642.00 11/26 -->
+paid: 642.00 11/26
 
-<!-- Alfredo Gudino
+ Alfredo Gudino
 1E01E01440164X
 10/30/24 - 950.00
 sent: 10/31
@@ -502,9 +657,9 @@ carrier: ESIS
 status: paid
 received: 11/20
 last checked: 12/03
-paid: 950.00 on 11/26 -->
+paid: 950.00 on 11/26
 
-<!-- Ryan Rhoades
+ Ryan Rhoades
 20230013600
 10/23/24 - 1100.00
 sent: 10/31
@@ -515,9 +670,9 @@ last checked: 11/13
 paid: 577.00 on 11/13
 ref: 18621353
 Maria Romero
-151 211 1111 -->
+151 211 1111
 
-<!-- Brandon Navarro
+ Brandon Navarro
 2024004726
 10/15/2024 - 950.00
 sent: 10/25
@@ -529,9 +684,9 @@ last checked: 11/8
 paid: 449.00 on 11/11
 ref: 18621527 18658552 18706671 18738486
 fx: 858-586-2444
-Mark as a recon - letter - bill - original eob -->
+Mark as a recon - letter - bill - original eob
 
-<!-- Thelma Behee
+ Thelma Behee
 001064052243WC01
 10/10/2024 - 700.00
 sent: 10/29
@@ -540,9 +695,9 @@ status: pending
 received: 10/30
 last checked: 11/13
 paid:
-ref: 18621923 18659035 -->
+ref: 18621923 18659035
 
-<!-- Hector Rodela
+ Hector Rodela
 F2M0490
 10/15/2024 - 950.00
 sent: 10/24
@@ -550,9 +705,9 @@ carrier: Travelers
 status: pending
 received: 10/24
 last checked: 10/30
-paid: -->
+paid:
 
-<!-- Cheryl Knox
+ Cheryl Knox
 005211011039WC01
 09/26/24 - 700.00
 sent: 10/10
@@ -560,9 +715,9 @@ carrier: gb
 status: pending
 received: 10/11
 last checked: 10/30
-paid: -->
+paid:
 
-<!-- Jose Salinas
+ Jose Salinas
 1428001390472
 10/07/2024 - 950.00
 sent: 10/21
@@ -570,19 +725,19 @@ carrier: tm
 status: pending
 received: nr
 last checked: 10/29
-paid: -->
+paid:
 
 
 
-<!-- Ariel Watts trav 9/16/24 pending
+ Ariel Watts trav 9/16/24 pending
 last checked 09/26/24
 carrier: tm
 status: pending
 received: 9/16
 last checked: 10/4
-paid: 1016 -->
+paid: 1016
 
-<!-- Joshua Hayter
+ Joshua Hayter
 WC949G21997
 9/27 - 1950.00
 sent: 10/03
@@ -590,9 +745,9 @@ carrier: LM
 status: paid
 received: 10/8
 last checked: 11/13
-paid: 1488.16 - 11/19  -->
+paid: 1488.16 - 11/19
 
-<!-- Jason Gentry
+ Jason Gentry
 4A2308GPGP60001
 11/11/2024 - 125.00
 sent: 11/12
@@ -600,9 +755,9 @@ carrier: sed
 status: paid
 received: 11/13
 last checked: 11/18
-paid: 100.00 on 11/18 -->
+paid: 100.00 on 11/18
 
-<!-- Lucia Sepuvelda
+ Lucia Sepuvelda
 4A2304MRKBT0001
 10/08/2024 - 1725.00
 sent: 10/28
@@ -610,9 +765,9 @@ carrier: sed
 status: paid
 received: 10/30
 last checked: 11/13
-paid: 1551.00 on 11/12 -->
+paid: 1551.00 on 11/12
 
-<!-- Chad Patterson
+ Chad Patterson
 949G19347
 10/11/24 - 125.00
 sent: 10/11
@@ -620,9 +775,9 @@ carrier: LM
 status: paid
 received: 10/11
 last checked: 11/08
-paid: 125.00 on 11/01  -->
+paid: 125.00 on 11/01
 
-<!-- Melvin Ross
+ Melvin Ross
 4A240741ZYQ0001
 10/18/24 - 600.00
 sent: 10/28
@@ -630,9 +785,9 @@ carrier: sed
 status: paid
 received: 10/30
 last checked: 11/8
-paid: 449.00 on 11/4 -->
+paid: 449.00 on 11/4
 
-<!-- Jason Oldacker
+ Jason Oldacker
 WC204308
 10/02/2024 - 1025.00
 sent: 10/28
@@ -640,9 +795,9 @@ carrier: TMLIRP
 status: paid
 received:
 last checked: 11/8
-paid: 950.00 on 11/7 -->
+paid: 950.00 on 11/7
 
-<!-- Donald Mayfield
+ Donald Mayfield
 20230005246
 10/14/24 - 2000.00
 sent: 10/31
@@ -650,9 +805,9 @@ carrier: TASB
 status: paid
 received: 10/31
 last checked: 11/8
-paid: 2000.00 on 11/8 -->
+paid: 2000.00 on 11/8
 
-<!-- Brent Foxworth
+ Brent Foxworth
 1E01E016621120
 10/04/24 - 1400.00
 sent: 10/29
@@ -660,9 +815,9 @@ carrier: ESIS
 status: paid
 received: 10/30
 last checked: 10/29
-paid: 1284.00 on 11/8 -->
+paid: 1284.00 on 11/8
 
-<!-- Cynthia Valle
+ Cynthia Valle
 20240013521
 10/21/2024 - 125.00
 sent: 10/22
@@ -671,9 +826,9 @@ status: pending
 received: 10/24
 last checked: 10/30
 paid: 100.00 0n 10/29
-ref: 18541380 -->
+ref: 18541380
 
-<!-- Juan Barrios
+ Juan Barrios
 20240013521
 10/08/2024 - 950.00
 sent: 10/19
@@ -681,9 +836,9 @@ carrier: sed
 status: pending
 received: 10/19
 last checked: 10/30
-paid: 834.00 on 10/29 -->
+paid: 834.00 on 10/29
 
-<!-- Alan Reza
+ Alan Reza
 2230663240
 10/15/2024 - 1100.00
 sent: 10/21
@@ -691,9 +846,9 @@ carrier: Zurich
 status: pending
 received: 10/21
 last checked: 10/30
-paid: 1049.00 on 10/25 -->
+paid: 1049.00 on 10/25
 
-<!-- Travis Gilder
+ Travis Gilder
 4A2309KJWNR0001
 10/18/24 - 600.00
 sent: 10/10
@@ -701,9 +856,9 @@ carrier: sed
 status: pending
 received: 10/23
 last checked: 10/29
-paid: 449.00 on 10/29 -->
+paid: 449.00 on 10/29
 
-<!-- Melvin Ross NS
+ Melvin Ross NS
 4A240741ZYQ0001
 10/11/24 - 125.00
 sent: 10/11
@@ -711,18 +866,18 @@ carrier: sed
 status:
 received: 10/14
 last checked: 10/29
-paid: 100.00 on 10/17 -->
+paid: 100.00 on 10/17
 
-<!-- Raven Gant
+ Raven Gant
 24DFWEC2730001
 sent:
 carrier: sed
 status: pending
 received: 10/09
 last checked: 10/29
-paid: 1476.00 on 10/16 -->
+paid: 1476.00 on 10/16
 
-<!-- jesus rob 1003
+ jesus rob 1003
 VI0000146318
 09/24/24
 1650.00
@@ -731,9 +886,9 @@ carrier: sed
 status: pending
 received: 10/03 - 10/16
 last checked: 10/24
-paid: 1476.00 10/22 -->
+paid: 1476.00 10/22
 
-<!-- jesus rob 1003
+ jesus rob 1003
 VI0000146318
 09/24/24
 1650.00
@@ -742,9 +897,9 @@ carrier: sed
 status: pending
 received: 10/03 - 10/16
 last checked: 10/24
-paid: 1476.00 10/22 -->
+paid: 1476.00 10/22
 
-<!-- Melvinna Lee
+ Melvinna Lee
 4A2406TSV590001
 09/26/24 - 950.00
 sent: 10/10
@@ -752,9 +907,9 @@ carrier: sed
 status: paid
 received: 10/11
 last checked: 10/18
-paid: 834 10/16 -->
+paid: 834 10/16
 
-<!-- Jose Flores 9/12 tm
+ Jose Flores 9/12 tm
 1425001368230
 08/27/24
 last checked 09/26/24
@@ -762,9 +917,9 @@ carrier: tm
 status: paid
 received: 9/12
 last checked: 10/18
-paid: 10/14 1026.00 -->
+paid: 10/14 1026.00
 
-<!-- Eufracio Hernandez tm - 8/7 - recon 9/12 nr
+ Eufracio Hernandez tm - 8/7 - recon 9/12 nr
 1425001373432
 07/18/24
 carrier: tm
@@ -772,27 +927,26 @@ sent: 9/12
 status: pending
 received: 9/12
 last checked: 9/26
-paid: 10/14 642.00 -->
+paid: 10/14 642.00
 
 
-
-<!-- Edward Daniels - Gallagher Bassett  - 7/7 - 7/17 - $449 - (972) 728-3564 receiving 8/3 denied/ 8/26 denied already
+ Edward Daniels - Gallagher Bassett  - 7/7 - 7/17 - $449 - (972) 728-3564 receiving 8/3 denied/ 8/26 denied already
 07/18/24
 status: paid
 received: 9/17
 last checked: 10/4
-paid: 385 on 9/26 -->
+paid: 385 on 9/26
 
-<!-- Adonica Williams 9/16 Medata Hanover pending
+ Adonica Williams 9/16 Medata Hanover pending
 7 - 10 days 10/3
 Ref #: 433797
 carrier: tm
 status: pending
 received: 9/12
 last checked: 10/4
-paid: 2118 -->
+paid: 2118
 
-<!-- Sabrina Johnson
+ Sabrina Johnson
 4A2407G977K0001
 09/25/24 - 600.00
 sent: 10/8
@@ -800,26 +954,26 @@ carrier: sed
 status: pending
 received: 10/9
 last checked: 10/18
-paid: 10/15 449.00 -->
+paid: 10/15 449.00
 
-<!-- maria espinoza 9/13 travelers
+ maria espinoza 9/13 travelers
 last checked 09/26/24
 carrier: tm
 status: pending
 received: 9/13
 last checked: 10/14
-paid: 834.00 on 10/12 -->
+paid: 834.00 on 10/12
 
-<!-- Yordy Catano
+ Yordy Catano
 4A2406TSV590001
 sent:
 carrier: sed
 status:
 received: 10/4
 last checked: 10/10
-paid: 449 on 10/11 -->
+paid: 449 on 10/11
 
-<!-- Kahalli Cormier
+ Kahalli Cormier
 09/12/24 1400
 claim #: 221042636
 carrier: imo/tristar risk
@@ -827,9 +981,9 @@ sent:
 status: paid
 received:
 last checked: 10/14
-paid: 1026 on 10/2 -->
+paid: 1026 on 10/2
 
-<!-- dennis moore 0930
+ dennis moore 0930
 009522000417WC01
 sent: 9/30
 carrier: gb
@@ -845,25 +999,26 @@ carrier: sed
 status: paid
 received: 10/2
 last checked: 10/8
-paid: 834 on 10/7 -->
+paid: 834 on 10/7
 
-<!-- grady briggs
+ grady briggs
 claim #: 9706795
 carrier: lloyd
 sent:
 status: pending
 received: 9/23
 last checked: 10/8
-paid: 2250 on 10/4 -->
+paid: 2250 on 10/4
 
-<!-- Justin Royce zenith - 7/8 - sent 8/8 recon sent 8/23 rece  -->
+-->
+Justin Royce zenith - 7/8 - sent 8/8 recon sent 8/23 rece
 
-<!--
+
 alberto cruz tm - 8/13 - pending
-1421001385245 -->
+1421001385245
 
 <!-- Cullen Riddle 7/31 tm - 8/1 pending
-1427001347064 -->
+1427001347064
 
 <!-- Tomas Cortinas 8/1 normandy received 8/1 pending -->
 

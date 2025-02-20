@@ -145,3 +145,5 @@ OFFICE LOCATION:        		Whitesboro Family Clinic, 304 Charlie St., Whitesboro,
 
 Family Care Chiropractic, 316 S Goliad St., Ste. 111, Rockwall, TX 75032
 1881711042
+
+Quinlan Chiropractic 301 S Denton Tap Rd. Ste 100 Coppell, TX 75019 1881719672

@@ -130,3 +130,103 @@ angela ramirez mmi/ir rtw
 g. sosa check lost - reissue check
 
 bickle - records/compensible
+
+
+ask for kendrell
+resend sosa's check
+
+
+Ariel Watts
+Gerardo Moreno
+
+Ella
+3/20/24
+
+68 disability
+no
+
+
+MRI r shoulder
+x-ray of the lower back 2 views (AP and lateral)
+
+dd assignment #
+right sho sprain
+lumbar sprain
+
+Jimmy Boling
+5123431385
+
+s johnson 1500 nm w6
+
+juarez telecommunications installer
+fce report mdguidelines
+
+no show j murfin
+lumb sp
+
+12 14 16
+750 rtw disa
+950 ext
+send murfin
+
+call for friday
+
+j juar
+4A2312K0HJS0001
+1/22
+dd02
+lumb str
+cervic str
+
+curt collins
+
+billing
+weds back
+
+james juarez send
+to adjusted with referral, bill and report
+
+resend
+boling
+roemer
+
+vital care urgent care 30min
+$50 renting affordacare closed
+2/11 at 2:30pm
+
+bhughes@vitalcaretx.com
+
+
+juana nm rtw 1500
+<!-- martin -->
+<!-- rose mmi 3 lvs rtw 69 73 1500 -->
+<!-- ochoa mmi 2 lvs 69 1500 -->
+
+boling get fax
+careworks
+
+moreno use 2nd exam add records
+extent and mmi from 1st
+add maria reyes mult ir
+
+moreno 1500
+paul
+
+alvord
+mmi 1 1200
+eoi 950
+mi 150
+S39.012A Lumbar Strain, initial encounter
+
+s john
+j rios nr
+k mills tm pending
+m gigl sed paid 863.00 on 1/29
+
+before
+60
+boling
+juarez
+
+fce billing
+bickle 69
