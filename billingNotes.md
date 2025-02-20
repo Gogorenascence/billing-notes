@@ -1,6 +1,3 @@
-Test
-
-
 465
 398
 863 total for W5
