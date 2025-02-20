@@ -23,8 +23,8 @@ DOI: 08/06/22
 DOS: 01/29/25 - 1200.00
 <!-- sent: 02/05/25 -->
 carrier: ESIS
-status: pending
-received: 2/6
+status: nr
+received: nr
 last checked: 2/18
 
 Victor Rodriguez
@@ -33,19 +33,19 @@ Victor Rodriguez
 DOI: 10/07/24
 <!-- sent: 02/05/25 -->
 carrier: TM
-status: pending
-received: 2/6
+status: nr
+received: nr
 last checked: 2/18
 
 Braulio Gutierrez
-4A2402HXSQL
+4A2402HXSQL0001
 DOB: 05/20/67
 DOI: 02/16/24
 DOS: 02/04/25 - 1950.00
 <!-- sent: 02/05/25 -->
 carrier: Sedgwick
-status: pending
-received: 2/6
+status: paid 1527.00 on 2/12
+received: 2/10
 last checked: 2/18
 
 <!-- HS End -->
@@ -61,6 +61,16 @@ carrier: The Zenith
 status: pending
 received: 2/6
 last checked: 2/18
+
+Krystian Bickle
+travelers - F4L9846
+sent: 02/07/25
+DOB: 11/28/83
+DOI: 05/01/24
+DOS: 02/07/25 - 950.00
+<!-- Status: paid 104.00 on 1/31 -->
+<!-- Received: 1/25 -->
+<!-- last checked: 2/7 -->
 
 Michelle Roemer
 WC3976915
@@ -109,6 +119,16 @@ status: pending
 received: 2/6
 sent 2/6
 last checked: 2/14
+
+Paul Reed
+1425001401341
+02/07/2025 600.00
+DOI: 06/05/2024
+Carrier: TM
+<!-- status: pending -->
+<!-- received: 2/6 -->
+sent 2/20
+<!-- last checked: 2/14 -->
 
 Juana Martinez
 A00639941
