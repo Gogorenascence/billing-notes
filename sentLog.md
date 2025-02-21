@@ -23,9 +23,9 @@ DOI: 08/06/22
 DOS: 01/29/25 - 1200.00
 <!-- sent: 02/05/25 -->
 carrier: ESIS
-status: nr
-received: nr
-last checked: 2/18
+status: pending
+received: 2/19
+last checked: 2/21
 
 Victor Rodriguez
 1427001425004
@@ -33,20 +33,19 @@ Victor Rodriguez
 DOI: 10/07/24
 <!-- sent: 02/05/25 -->
 carrier: TM
-status: nr
-received: nr
-last checked: 2/18
+status: pending
+received: 2/13
+last checked: 2/21
 
-Braulio Gutierrez
+<!-- Braulio Gutierrez
 4A2402HXSQL0001
 DOB: 05/20/67
 DOI: 02/16/24
 DOS: 02/04/25 - 1950.00
-<!-- sent: 02/05/25 -->
 carrier: Sedgwick
 status: paid 1527.00 on 2/12
 received: 2/10
-last checked: 2/18
+last checked: 2/18 -->
 
 <!-- HS End -->
 822170594
@@ -60,41 +59,17 @@ sent: 02/05/25
 carrier: The Zenith
 status: pending
 received: 2/6
-last checked: 2/18
+last checked: 2/18 voicemail
 
 Krystian Bickle
 travelers - F4L9846
-sent: 02/07/25
+sent: 02/20/25
 DOB: 11/28/83
 DOI: 05/01/24
 DOS: 02/07/25 - 950.00
 <!-- Status: paid 104.00 on 1/31 -->
 <!-- Received: 1/25 -->
 <!-- last checked: 2/7 -->
-
-Michelle Roemer
-WC3976915
-DOB: 11/02/71
-DOI: 05/12/23
-DOS: 01/08/25 - 2350.00
-sent: 01/30/25
-carrier: State Office of Risk Management
-status: pending
-received: 2/10
-last checked: 2/18
-
-Jimmy Boling
-1432645
-DOB: 06/02/68
-DOI: 07/09/23
-DOS: 01/07/25 - 950.00
-sent: 01/23/25 - resent 1/31/25 - resent 2/12/25
-carrier: National Interstate Insurance Company
-status: nr
-received: nr
-last checked: 2/18
-Careworks  8776590952
-60 sent
 
 Gilberto Sosa
 1425001337819
@@ -104,11 +79,11 @@ resent: 1/30
 carrier: tm
 status: paid 1860.00 on 1/14 no check received
 received: 12/16
-last checked: 2/11
 45 days for review
 1/30 for stop pay
 <!-- paid: 1860.00 on 1/15 -->
 Resend pending
+last checked: 2/21
 
 John Rios
 1421001360414
@@ -118,7 +93,7 @@ Carrier: TM
 status: pending
 received: 2/6
 sent 2/6
-last checked: 2/14
+last checked: 2/21
 
 Paul Reed
 1425001401341
@@ -139,7 +114,7 @@ sent: 2/12
 carrier: Strategic Comp
 status: na
 received:
-last checked: 2/14
+last checked: 2/18 hold
 
 Alonso Ochoa
 WC949G33581
@@ -150,7 +125,7 @@ sent: 2/12
 carrier: Liberty Mutual
 status: pending
 received: 2/12
-last checked: 2/14
+last checked: 2/21
 
 Sabrina Johnson
 4A2407G977K0001
@@ -160,18 +135,18 @@ DOS: 01/24/25 - 1300.00
 sent: 2/5
 carrier: sed
 status: pending
-received: 2/11
-last checked: 2/18
+received: 2/19
 resent 2/11
+last checked: 2/21
 
 Gerardo Moreno
 030272000047WC01
 2/3/25 - 1875.00
 sent: 2/13
 carrier: gb
-<!-- status: paid -->
+status: pending
 received: 2/13
-last checked: 2/18
+last checked: 2/21
 
 Rose Paul
 003619029892WC01
@@ -179,9 +154,17 @@ DOS: 1/29/25 - 2500.00
 DOB: 11/21/66
 sent: 2/13
 carrier: gb
-<!-- status: paid -->
-received: 2/14
-last checked: 2/18
+status: denied - entitlement to benefit
+received: 2/21
+
+adj 972-931-6277
+last checked: 2/21
+
+
+
+
+
+Hank Howard - Resolution
 
 James Juarez
 4A2312K0HJS0001
@@ -196,7 +179,18 @@ last checked: 2/11
 60
 99456
 
-Hank Howard - Resolution
+Jimmy Boling
+1432645
+DOB: 06/02/68
+DOI: 07/09/23
+DOS: 01/07/25 - 950.00
+sent: 01/23/25 - resent 1/31/25 - resent 2/12/25
+carrier: National Interstate Insurance Company
+status: nr
+received: nr
+last checked: 2/21
+Careworks  8776590952
+60 sent
 
 Russell Param - Resolution
 
@@ -260,7 +254,19 @@ last checked: 1/21
 
 
 <!--
+Michelle Roemer
+WC3976915
+DOB: 11/02/71
+DOI: 05/12/23
+DOS: 01/08/25 - 2350.00
+sent: 01/30/25
+carrier: State Office of Risk Management
+status: paid 2191.00
+received: 2/10
+last checked: 2/18
 
+Angela Ramirez
+1527.00
 
  Kendrell Mills
 1428001366847
@@ -280,6 +286,7 @@ sent: 02/03/25
 carrier: TASB Risk Management Fund
 status: paid 1704.00 on 2/10
 received: 2/4
+
 last checked: 2/11
 
  Raymond Pipkin
