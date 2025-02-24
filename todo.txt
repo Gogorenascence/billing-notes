@@ -1,3 +1,4 @@
+[
 <!-- email to john rios -->
 <!-- billin and no show note for john rios -->
 <!-- billing for francisco formoso, see email, 1 level mmi - 950 -->
@@ -49,8 +50,8 @@ john rios 60
 
 john boyd 60
 
-hel
-cd4 cell/helper t-cell positive - hiv
+hel,
+cd4 cell/helper t-cell positive - hiv,
 
 <!--
 maria reyes
@@ -212,16 +213,16 @@ add maria reyes mult ir
 moreno 1500
 paul
 
-alvord
+<!-- alvord
 mmi 1 1200
 eoi 950
 mi 150
-S39.012A Lumbar Strain, initial encounter
+S39.012A Lumbar Strain, initial encounter -->
 
-s john
+<!-- s john
 j rios nr
 k mills tm pending
-m gigl sed paid 863.00 on 1/29
+m gigl sed paid 863.00 on 1/29 -->
 
 before
 60
@@ -232,10 +233,18 @@ fce billing
 
 
 bickle 69
-dos 2/7/25
+dos 2/7/25,
 
-mayfield
+<!-- mayfield
 1500, 69, 68 report
 45.00 fee
 20 records retrieval
-25 affidavit completion
+25 affidavit completion -->
+
+Ella payne bill check sent
+]
+
+[
+    chaney 69 73 nm,
+    carter 69 68 nm
+]

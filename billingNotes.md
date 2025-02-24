@@ -30,20 +30,23 @@ FCE
 10 units
 750.00
 ====================
-For 99456:
+Modifiers For 99456 (Designated Doctor Exam):
 
-At MMI W5
-Extent of Injury W6
-Disability W7
-Return to work W8
-Not at MMI NM
-Special exam MI
-No show 52
+At MMI: W5
+Extent of Injury: W6
+Disability: W7
+Return to work: W8
+Not at MMI: NM
+Special exam: MI
+No show: 52
 
-For 97750:
-FC
+1 unit $700
+No matter the number
 
-1 unit $600
+Modifiers For 97750 (FCE):
+Only FC
+
+10 units for $775
 No matter the number
 =====================
 Upper extremities - 1 unit
@@ -217,3 +220,5 @@ Attn Bill Review and [Adjuster]
 mdguidelines
 jmn1009@yahoo.com
 Guidelines84$
+
+60 sent for all Denials the following

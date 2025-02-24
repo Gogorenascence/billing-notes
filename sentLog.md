@@ -37,16 +37,6 @@ status: pending
 received: 2/13
 last checked: 2/21
 
-<!-- Braulio Gutierrez
-4A2402HXSQL0001
-DOB: 05/20/67
-DOI: 02/16/24
-DOS: 02/04/25 - 1950.00
-carrier: Sedgwick
-status: paid 1527.00 on 2/12
-received: 2/10
-last checked: 2/18 -->
-
 <!-- HS End -->
 822170594
 
@@ -162,7 +152,7 @@ last checked: 2/21
 
 
 
-
+<!-- Resolutions -->
 
 Hank Howard - Resolution
 
@@ -254,6 +244,16 @@ last checked: 1/21
 
 
 <!--
+Braulio Gutierrez HS
+4A2402HXSQL0001
+DOB: 05/20/67
+DOI: 02/16/24
+DOS: 02/04/25 - 1950.00
+carrier: Sedgwick
+status: paid 1527.00 on 2/12
+received: 2/10
+last checked: 2/18
+
 Michelle Roemer
 WC3976915
 DOB: 11/02/71
@@ -325,7 +325,6 @@ status: pending
 received: 10/31
 last checked: 11/18
 ???
-
 
  Christopher Alvord
 000000327312
@@ -440,7 +439,6 @@ paid: ~680.00
 Norma Sepeda
 501-716-9488
 
-
 Edgar Sanchez
 1E01E015533704
 11/20/2024 - 950.00
@@ -451,7 +449,6 @@ received: 12/12
 last checked: 1/21
 paid: 950.00 on 1/15/25
 
-
 Francisco Formoso
 F5S6333
 12/18/2024 - 950.00
@@ -459,8 +456,6 @@ sent: 01/07/2025
 carrier: Travelers
 last checked: 1/17
 paid: 834.00 on 1/10
-
-
 
  Mark Barton
 1428001294766
