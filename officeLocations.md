@@ -33,9 +33,9 @@ OFFICE LOCATION: 		New Dimensions Rehabilitation, 508 S Spring Ave.
 Tyler, TX 75702
 1891859294
 
-OFFICE LOCATION: 		Affordacare Spine & Rehab, 710 S Gregg St. Ste# 100
+<!-- OFFICE LOCATION: 		Affordacare Spine & Rehab, 710 S Gregg St. Ste# 100
 Big Spring, TX 79720
-1336567015
+1336567015 -->
 
 OFFICE LOCATION: 		Beaty Chiropractic Clinic, 2100 N Grandview Ave. Ste A
 Odessa, TX 79761
@@ -85,6 +85,7 @@ OFFICE LOCATION:        Greenville Spine & Joint, 2806 Mitchell St. Greenville, 
 <!-- OFFICE LOCATION: 		Marshall Physical Therapy Clinic, 908 Bomar St Marshall, TX 75670 -->
 
 <!-- OFFICE LOCATION: 		Marshall Physical Therapy Clinic, 805 Lindsey St Marshall, TX 75670 -->
+
 OFFICE LOCATION: 		Marshall Physical Therapy Clinic, 1006 E End Blvd N, Marshall, TX 75670
 1083990808
 
@@ -147,3 +148,5 @@ Family Care Chiropractic, 316 S Goliad St., Ste. 111, Rockwall, TX 75032
 1881711042
 
 Quinlan Chiropractic 301 S Denton Tap Rd. Ste 100 Coppell, TX 75019 1881719672
+
+Back in Motion Chiropractic 1113 Scurry St, Big Spring, TX 79720 1952500217

@@ -1,3 +1,9 @@
+Gilberto Sosa - 2/28
+Ella Payne
+Bickle No Show
+Karen Gracey
+
+
 jesus r
 2149220628
 
@@ -14,7 +20,7 @@ send in for recon
 Pending
 
 <!-- HS -->
-274553755
+Tax ID: 274553755
 
 Eddie Hamilton
 1E01E012790799
@@ -25,7 +31,7 @@ DOS: 01/29/25 - 1200.00
 carrier: ESIS
 status: pending
 received: 2/19
-last checked: 2/21
+last checked: 2/25
 
 Victor Rodriguez
 1427001425004
@@ -35,10 +41,45 @@ DOI: 10/07/24
 carrier: TM
 status: pending
 received: 2/13
-last checked: 2/21
+last checked: 2/25
+
+David Conrad
+230000305
+DOB: 11/20/58
+DOI: 11/09/23
+DOS: 02/04/25 - 1200.00
+<!-- sent: 02/05/25 -->
+carrier: CAS
+<!-- status: pending -->
+<!-- received: 2/19 -->
+last checked: 2/25
+
+Christopher Alvord
+000000327312
+Berkley Medical MNGMT Solutions
+05/14/1977
+12/05/2023
+02/05/2025 - 2300.00
+<!-- status: pending -->
+<!-- received: 09/30 -->
+<!-- last checked: 11/13 -->
+
+Felicia Lewis
+<!-- 230000305 -->
+3C202500067344 - genex
+DOB: 11/20/58
+DOI: 11/09/23
+DOS: 02/04/25 - 1200.00
+<!-- sent: 02/05/25 -->
+carrier: Genex/Metropolitan Transit Authority of Harris County
+Adjust. 7136156444
+status: nr
+<!-- received: 2/19 -->
+<!-- last checked: 2/21 -->
+
 
 <!-- HS End -->
-822170594
+Tax ID: 822170594
 
 Joshua Murfin
 990765 - 635032394
@@ -49,7 +90,7 @@ sent: 02/05/25
 carrier: The Zenith
 status: pending
 received: 2/6
-last checked: 2/18 voicemail
+last checked: 2/24 voicemail
 
 Krystian Bickle
 travelers - F4L9846
@@ -58,8 +99,18 @@ DOB: 11/28/83
 DOI: 05/01/24
 DOS: 02/07/25 - 950.00
 <!-- Status: paid 104.00 on 1/31 -->
-<!-- Received: 1/25 -->
-<!-- last checked: 2/7 -->
+Received: 2/25/25
+last checked: 2/25
+
+Ariel Watts
+travelers - F0J4169
+sent: 02/27/25
+DOB: 10/04/96
+DOI: 05/08/23
+DOS: 02/14/25 - 950.00
+<!-- Status: paid 104.00 on 1/31 -->
+Received: 2/25/25
+<!-- last checked: 2/27 -->
 
 Gilberto Sosa
 1425001337819
@@ -73,7 +124,7 @@ received: 12/16
 1/30 for stop pay
 <!-- paid: 1860.00 on 1/15 -->
 Resend pending
-last checked: 2/21
+last checked: 2/24
 
 John Rios
 1421001360414
@@ -93,7 +144,7 @@ Carrier: TM
 <!-- status: pending -->
 <!-- received: 2/6 -->
 sent 2/20
-<!-- last checked: 2/14 -->
+last checked: 2/25
 
 Juana Martinez
 A00639941
@@ -127,7 +178,7 @@ carrier: sed
 status: pending
 received: 2/19
 resent 2/11
-last checked: 2/21
+last checked: 2/24
 
 Gerardo Moreno
 030272000047WC01
@@ -136,25 +187,11 @@ sent: 2/13
 carrier: gb
 status: pending
 received: 2/13
-last checked: 2/21
-
-Rose Paul
-003619029892WC01
-DOS: 1/29/25 - 2500.00
-DOB: 11/21/66
-sent: 2/13
-carrier: gb
-status: denied - entitlement to benefit
-received: 2/21
-
-adj 972-931-6277
-last checked: 2/21
-
-
+last checked: 2/25
 
 <!-- Resolutions -->
 
-Hank Howard - Resolution
+<!-- Hank Howard - Resolution -->
 
 James Juarez
 4A2312K0HJS0001
@@ -182,9 +219,9 @@ last checked: 2/21
 Careworks  8776590952
 60 sent
 
-Russell Param - Resolution
+<!-- Russell Param - Resolution -->
 
-Brandon Navarro - recon
+<!-- Brandon Navarro - recon
 2024004726
 10/15/2024 - 950.00
 sent: 10/25
@@ -195,9 +232,9 @@ received: 10/30
 last checked: 11/8
 paid: 449.00 on 11/11
 ref: 18621527 18658552 18706671 18738486
-fx: 858-586-2444
+fx: 858-586-2444 -->
 
-Ryan Rhoades - recon
+<!-- Ryan Rhoades - recon
 20230013600
 10/23/24 - 1100.00
 sent: 10/31
@@ -207,9 +244,9 @@ received: 11/1
 last checked: 11/13
 paid: 577.00 on 11/13
 ref: 18621353
-Maria Romero
+Maria Romero -->
 
-Maria Betancourt-Felix
+<!-- Maria Betancourt-Felix
 000696239364WC01
 10/04/24 - 950.00
 sent: 10/10
@@ -221,14 +258,9 @@ last checked: 10/30
 paid:
 Phyllis Poole - 972-931-6277
 9727281107
-phyllis_poole1@gbtpa.com
+phyllis_poole1@gbtpa.com -->
 
-Jasmine Flores 8/2 strat - received 8/2 recon 8/23 received 8/26 last checked 9/6 sent for review
-
-juan rangel esis - sent 8/23 - pending last checked 9/6
-extent needed
-
-Resolution
+<!-- Resolution
 Karen Gracey
 F1R0116
 DOB: 12/06/57
@@ -240,7 +272,29 @@ status: denied on on 1/22
 procedure code when appropriate base code
 received: 1/13
 last checked: 1/21
-8772282758
+8772282758 -->
+
+Rose Paul
+003619029892WC01
+DOS: 1/29/25 - 2500.00
+DOB: 11/21/66
+sent: 2/13
+carrier: gb
+status: denied - entitlement to benefit
+claim closed 2/2/24
+received: 2/21
+60
+
+adj 972-931-6277
+last checked: 2/21
+
+<!-- Resolutions End -->
+
+Jasmine Flores 8/2 strat - received 8/2 recon 8/23 received 8/26 last checked 9/6 sent for review
+
+juan rangel esis - sent 8/23 - pending last checked 9/6
+extent needed
+
 
 
 <!--

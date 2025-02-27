@@ -147,9 +147,11 @@ Nationwide
 <!-- 1-888-490-1549 -->
 8004213535 4 - 2
 
-genex
+Genex
 8888640574 -2
 8884643639
+
+Fx: 7136528687
 closes at 4pm
 
 Creative Risk Funding
