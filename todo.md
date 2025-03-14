@@ -275,3 +275,78 @@ Gracey 60
 
 Resend Felicia
 Rose Paul 60
+
+
+
+Proposals
+
+Teachers: injury prevention in the classroom
+
+police officers: ergonomic wear - to prevent knee and lower extremity injuries
+
+
+Obesity trends in the work place and worker's compensation
+
+
+Proper use of work hardening, work conditioning and chronic pain programs regarding RTW
+fraud and approval process
+
+employer verification
+
+All claimant BMI over 30
+Teacher shields - block projectiles
+
+
+
+
+
+Manuel Gonzalez report
+John Rios
+Lauren Gonzalez
+Martin Chaney
+Juana Martinez dd billing
+
+records
+dylan m
+addie tarin
+
+
+Send billing for:
+skip moreno
+Ella Payne
+All ESIS
+Christopher Strickland
+under Gerardo Moreno
+
+Resend:
+
+
+Check billing for:
+john boyd 60
+
+
+
+edwin pavan 69 1500 NM
+rojas 1500 1 lv 550 400
+letter of clarification
+
+
+chad 2-24 mmi rtw
+marez 2-24 mmi
+
+2.5
+
+skip
+
+j rios
+bickle
+moreno
+all esis pending
+
+
+check
+mon-weds
+
+prior
+
+call for anything not received

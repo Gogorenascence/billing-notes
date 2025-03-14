@@ -1,37 +1,5 @@
-Gilberto Sosa - 2/28
-Ella Payne
-Bickle No Show
-Karen Gracey
-
-
-jesus r
-2149220628
-
-
-
-Attach EOB
-Cover Page
-(913) 341-7600
-9am-3pm
-
-Alex cal
-913-341-7600
-send in for recon
-Pending
-
 <!-- HS -->
 Tax ID: 274553755
-
-Eddie Hamilton
-1E01E012790799
-DOB: 02/05/72
-DOI: 08/06/22
-DOS: 01/29/25 - 1200.00
-<!-- sent: 02/05/25 -->
-carrier: ESIS
-status: pending
-received: 2/19
-last checked: 2/25
 
 Victor Rodriguez
 1427001425004
@@ -41,7 +9,17 @@ DOI: 10/07/24
 carrier: TM
 status: pending
 received: 2/13
-last checked: 2/25
+last checked: 3/12
+
+Alfonso Pinnila
+1427001368070
+03/06/25 - 2700.00
+DOI: 08/28/23
+<!-- sent: 02/05/25 -->
+carrier: TM
+<!-- status: pending -->
+<!-- received: 2/13 -->
+last checked: 3/12
 
 David Conrad
 230000305
@@ -50,101 +28,86 @@ DOI: 11/09/23
 DOS: 02/04/25 - 1200.00
 <!-- sent: 02/05/25 -->
 carrier: CAS
-<!-- status: pending -->
+status: pending
 <!-- received: 2/19 -->
 last checked: 2/25
 
-Christopher Alvord
-000000327312
-Berkley Medical MNGMT Solutions
-05/14/1977
-12/05/2023
-02/05/2025 - 2300.00
-<!-- status: pending -->
-<!-- received: 09/30 -->
-<!-- last checked: 11/13 -->
+Jamisha Wilson
+C467008693000101670
+4A2402T58JC0001
+DOB: 06/27/1994
+DOI: 12/08/23
+DOS: 02/19/25 - 1200.00
+carrier: sed
+status: pending
+received: 2/28
+last checked: 3/12
 
-Felicia Lewis
-<!-- 230000305 -->
-3C202500067344 - genex
-DOB: 11/20/58
-DOI: 11/09/23
-DOS: 02/04/25 - 1200.00
-<!-- sent: 02/05/25 -->
-carrier: Genex/Metropolitan Transit Authority of Harris County
-Adjust. 7136156444
-status: nr
-<!-- received: 2/19 -->
-<!-- last checked: 2/21 -->
+Harold Tisdale
+35986691
+DOB: 08/31/1963
+DOI: 12/05/22
+DOS: 02/13/25 - 2150.00
+<!-- sent: 2/25 -->
+carrier: Weslaco/Amtrust
+status: pending
+received: 3/5
+last checked: 3/12
 
+Hunter Thurman
+017465000140WC01
+DOB: 02/10/1994
+DOI: 01/04/24
+DOS: 01/23/25 - 1950.00
+resent: 3/7
+carrier: gb
+status: pending
+received: 2/28
+last checked: 3/12
 
 <!-- HS End -->
+
 Tax ID: 822170594
 
-Joshua Murfin
-990765 - 635032394
-DOB: 03/31/85
-DOI: 07/23/23
-DOS: 02/04/25 - 125.00
-sent: 02/05/25
-carrier: The Zenith
-status: pending
-received: 2/6
-last checked: 2/24 voicemail
-
-Krystian Bickle
-travelers - F4L9846
-sent: 02/20/25
-DOB: 11/28/83
-DOI: 05/01/24
-DOS: 02/07/25 - 950.00
-<!-- Status: paid 104.00 on 1/31 -->
-Received: 2/25/25
-last checked: 2/25
+Lauren Gonzales
+travelers - F4W2509
+sent: 03/3/25
+DOB: 10/08/01
+DOI: 06/10/24
+DOS: 02/21/25 - 950.00
+Status: denied 3/7 wrong initial base code
+Received: 3/3/25
+last checked: 3/12
 
 Ariel Watts
 travelers - F0J4169
 sent: 02/27/25
 DOB: 10/04/96
-DOI: 05/08/23
-DOS: 02/14/25 - 950.00
-<!-- Status: paid 104.00 on 1/31 -->
-Received: 2/25/25
-<!-- last checked: 2/27 -->
+DOI: 05/08/2023
+DOS: 02/14/25 - 2075.00
+Status: pending
+Received: 3/3/25
+last checked: 3/12
 
-Gilberto Sosa
-1425001337819
-11/15/2024 - 2000.00
-sent: 12/02
-resent: 1/30
-carrier: tm
-status: paid 1860.00 on 1/14 no check received
-received: 12/16
-45 days for review
-1/30 for stop pay
-<!-- paid: 1860.00 on 1/15 -->
-Resend pending
-last checked: 2/24
-
-John Rios
-1421001360414
-01/28/2025 950.00
-DOI: 07/11/2023
-Carrier: TM
-status: pending
-received: 2/6
-sent 2/6
-last checked: 2/21
+Jackie Martin
+travelers - F5S6455
+sent: 03/13/25
+<!-- DOB: 10/04/96
+DOI: 05/08/2023
+DOS: 02/14/25 - 2075.00
+Status: pending
+Received: 3/3/25
+last checked: 3/12 -->
 
 Paul Reed
 1425001401341
 02/07/2025 600.00
 DOI: 06/05/2024
 Carrier: TM
-<!-- status: pending -->
-<!-- received: 2/6 -->
+status: pending
+received: 2/20
 sent 2/20
-last checked: 2/25
+last checked: 3/14
 
 Juana Martinez
 A00639941
@@ -153,41 +116,97 @@ DOI: 07/18/24
 DOS: 01/29/25 - 1300.00
 sent: 2/12
 carrier: Strategic Comp
-status: na
-received:
-last checked: 2/18 hold
-
-Alonso Ochoa
-WC949G33581
-DOB: 07/03/02
-DOI: 06/18/24
-DOS: 01/29/25 - 1100.00
-sent: 2/12
-carrier: Liberty Mutual
+resent: 3/3/25
 status: pending
 received: 2/12
-last checked: 2/21
+last checked: 3/7
 
-Sabrina Johnson
-4A2407G977K0001
-DOB: 08/20/73
-DOI: 07/13/24
-DOS: 01/24/25 - 1300.00
-sent: 2/5
-carrier: sed
+Juana Martinez FCE
+A00639941
+DOB: 09/21/85
+DOI: 07/18/24
+DOS: 01/29/25 - 775.00
+sent: 3/3/25
+carrier: Strategic Comp
 status: pending
-received: 2/19
-resent 2/11
-last checked: 2/24
+received: 3/4
+last checked: 3/7
 
-Gerardo Moreno
-030272000047WC01
-2/3/25 - 1875.00
-sent: 2/13
-carrier: gb
+Rahman Mohammad
+1E01E017025502
+DOB: 06/05/03
+DOI: 10/21/24
+DOS: 02/21/25 - 950.00
+sent: 2/27
+carrier: ESIS
 status: pending
-received: 2/13
-last checked: 2/25
+received: 3/5
+last checked: 3/12
+
+Martin Chaney
+241158188
+DOB: 11/04/83
+DOI: 09/27/2024
+DOS: 01/29/25 - 1300.00
+sent: 3/3
+carrier: Tristar
+status: pending
+<!-- received: 2/19 -->
+Email sent: 3/13
+
+Ella Payne
+20240000789
+DOB: 05/22/57
+DOI: 01/16/24
+DOS: 01/17/25 - 1800.00
+sent: 02/03/25
+carrier: TASB Risk Management Fund
+status: paid 1704.00 on 2/10; check not received
+received: 2/4
+last checked: 3/3
+
+<!-- Maricela Rojas
+20240001360
+DOB: 01/16/1975
+DOI: 01/24/2024
+DOS: 02/21/25 - 950.00
+sent: 3/5
+carrier: TASB Risk Management Fund
+status: paid 865.00 on 3/14
+received: 3/7
+last checked: 3/14 -->
+
+<!-- Edwin Pavan
+Z01855449
+DOB: 12/22/1981
+DOI: 08/23/2024
+DOS: 02/21/25 - 600.00
+sent: 3/5
+carrier: EMCASCO
+status: paid 465.00 on 3/13
+received: 3/5
+last checked: 3/14 -->
+
+Manuel Marez
+34294
+DOB: 11/05/1975
+DOI: 03/20/2023
+DOS: 02/24/25 - 950.00
+sent: 3/6
+carrier: Creative Risk Funding
+status: pending
+received: 3/5
+Last checked: 3/12
+
+Chad Patterson
+949G19347
+02/24/25 - 1650.00
+DOI: 02/21/24
+sent: 3/6
+carrier: LM
+status: pending
+received: 3/6
+last checked: 3/12
 
 <!-- Resolutions -->
 
@@ -218,6 +237,7 @@ received: nr
 last checked: 2/21
 Careworks  8776590952
 60 sent
+
 
 <!-- Russell Param - Resolution -->
 
@@ -298,6 +318,157 @@ extent needed
 
 
 <!--
+
+David Carter
+1E01E016960888
+DOB: 01/06/61
+DOI: 09/24/24
+DOS: 02/11/25 - 1300.00
+sent: 2/24
+carrier: ESIS
+status: paid 1211.50 on 3/11
+received: 2/19
+last checked: 3/6
+
+Joshua Murfin
+990765 - 635032394
+DOB: 03/31/85
+DOI: 07/23/23
+DOS: 02/04/25 - 125.00
+sent: 02/05/25
+carrier: The Zenith
+status: paid 104.00 on 3/4/25
+received: 2/6
+last checked: 3/12
+
+Christopher Strickland hs
+4A24092VMFR0001
+DOB: 06/01/1979
+DOI: 09/02/24
+DOS: 02/21/25 - 1600.00
+carrier: sed
+status: paid 1261.00 on 3/12
+received: 3/5
+last checked: 3/12
+
+Alonso Ochoa
+WC949G33581
+DOB: 07/03/02
+DOI: 06/18/24
+DOS: 01/29/25 - 1100.00
+sent: 2/12
+carrier: Liberty Mutual
+status: paid 1100.00 on 3/5
+received: 2/12
+last checked: 3/12
+
+Marcus williams
+4A2410G2TNY0001
+DOB: 11/12/1987
+DOI: 10/15/2024
+DOS: 02/18/25 - 1100.00
+sent: 2/25
+carrier: sed
+status: paid 1062.00 3/6
+received: 2/26
+last checked: 3/7
+
+Eddie Hamilton hs
+1E01E012790799
+DOB: 02/05/72
+DOI: 08/06/22
+DOS: 01/29/25 - 1200.00
+carrier: ESIS
+status: paid 1200
+last checked: 3/7
+
+Gerardo Moreno
+030272000047WC01
+2/3/25 - 1875.00
+sent: 2/13
+carrier: gb
+status: paid 1732.00 on 2/27
+received: 2/13
+cleared: 3/1
+last checked: 3/3
+
+John Rios
+1421001360414
+01/28/2025 950.00
+DOI: 07/11/2023
+Carrier: TM
+status: paid
+received: 2/6
+sent 2/6
+last checked: 3/3
+
+John Rios
+TM - 1421001360414
+01/07/2025
+DOI: 07/11/2023
+status: paid 100.00 on 1/31
+received: 1/7
+last checked: 3/3
+friday 104.00
+
+Krystian Bickle
+travelers - F4L9846
+sent: 02/20/25
+DOB: 11/28/83
+DOI: 05/01/24
+DOS: 02/07/25 - 950.00
+Status: paid 863.00 on 2/28/25 r 3/3
+Received: 2/20/25
+last checked: 3/4
+
+Felicia Lewis hs
+230000305
+WC202500067344 - genex
+DOB: 01/30/68
+DOI: 10/28/24
+DOS: 02/06/25 - 1200.00
+carrier: Genex/Metropolitan Transit Authority of Harris County
+Adjust. 7136156444
+status: paid
+received: 2/19
+last checked: 3/3
+
+Christopher Alvord hs
+80WC000000327312
+Berkley Medical MNGMT Solutions
+Called 833-827-3449
+05/14/1977
+12/05/2023
+02/05/2025 - 2300.00
+status: Paid 2300.00 on 2/22
+received: 02/17
+last checked: 02/28
+
+Sabrina Johnson
+4A2407G977K0001
+DOB: 08/20/73
+DOI: 07/13/24
+DOS: 01/24/25 - 1300.00
+sent: 2/5
+carrier: sed
+status: paid 1121.00 on 2/25
+received: 2/19
+resent 2/11
+last checked: 2/28
+
+Gilberto Sosa
+1425001337819
+11/15/2024 - 2000.00
+sent: 12/02
+resent: 1/30
+carrier: tm
+status: paid 1860.00 on 1/14
+received: 12/16
+45 days for review
+1/30 for stop pay
+Resend pending
+last checked: 2/24
+
 Braulio Gutierrez HS
 4A2402HXSQL0001
 DOB: 05/20/67
@@ -330,18 +501,6 @@ carrier: tm
 status: paid 1793.00 on 2/14
 received: 1/22
 last checked: 2/14
-
- Ella Payne
-20240000789
-DOB: 05/22/57
-DOI: 01/16/24
-DOS: 01/17/25 - 1800.00
-sent: 02/03/25
-carrier: TASB Risk Management Fund
-status: paid 1704.00 on 2/10
-received: 2/4
-
-last checked: 2/11
 
  Raymond Pipkin
 4A231030QBX001 sed/genex
@@ -424,14 +583,6 @@ received: 1/20
 last checked: 1/31
 8664357654 7169479
 kendyl.gilreath@sedgwick.com
-
- John Rios
-TM - 1421001360414
-01/07/2025
-DOI: 07/11/2023
-status: paid 100.00 on 1/31
-received: 1/7
-last checked: 2/3
 
  Hannah Zipser
 002408401951

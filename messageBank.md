@@ -8,8 +8,6 @@ As submitted earlier (please see previous emails), I will resend records and bil
 Give a 48 hour window.
 
 
-miguel bledsoe
-adjuster
 
 you were scheduled for a dd exam
 if they don't come in, that will close the work comp case
@@ -61,84 +59,16 @@ TX ID: 82-2170594
 
 The billing and documents for Marlene Gray is also attached.
 
-<!-- 3212352391
-
-ext 236
-8592644061
-
-follow up of emails
-Lucia S
-
- 2/6/22
- mmi/ir ex in
-
-9724439062
-
-
-lat shep
-1500
-69
-mmi ir
-2/13
-wp
 
 
 
 
 
 
-
-1500
-w9
-refer
-fce repo
-
-
-l campos
-north central surgical center
- (214) 265-2810
-
-closes at 4:30
-
-
-jr 5012512920 -->
-
-
-
-<!-- Latonya Shepard 1st visit
-214-866-1136
-
-
-
-Lucia S 1st visit
-denied
-
-972-372-6126 Amanda Deets
-972-372-6173
-
-ltony 2/6 >>> next week
-407-660-0339
-
-4/9/24
-paid in full
-
-
-lucia
-
-
-bled bill and fce adjust
-6244 vm
 
 Valley
 80 miles from the mexican border -->
 
-first page
-first date
-mri
-surgery
-last date
-exam
-last page
 
 carrier address
 adj name
@@ -249,8 +179,6 @@ J5 Chiropractic and Health Centers
 
 
 
-
-
 Dear Cynthia Zavala,
 
 I am writing to request a copy of the operative report for Larry Johnson's right partial medial meniscectomy. The date is estimated to be between 04/22/24 and 05/29/24.
@@ -282,7 +210,6 @@ For any questions or additional information, feel free to contact Jamon Clayton 
 You can also contact me at 346-269-8890 or via email at nantahkl@gmail.com.
 
 
-
 Supervisor
 Nancy Spaniola
 512-427-2465
@@ -297,3 +224,21 @@ Time: 02/07/2025 at 2pm
 For any questions or additional information, feel free to contact Jamon Clayton at (682) 472-1132 or via email at j5healthcenters@gmail.com.
 
 You can also contact me at 346-269-8890 or via email at nantahkl@gmail.com.
+
+
+
+Hello,
+I'd like to request for a stop pay for Ella Payne's current bill and for a new check to be reissued.
+
+Claim #: 20240000789
+Date of Birth: 05/22/57
+Date of Injury: 01/16/24
+Date of Service: 01/17/25
+Billed Amount: $1800.00
+Tax ID: 822170594
+
+Also, if I could get the amount that was on the original check or an EOB, that would be appreciated.
+
+Thank you,
+Kornebari Nantah
+J5 Chiropractic and Health Centers

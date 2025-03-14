@@ -12,14 +12,14 @@ Gallagher Bassett 800-370-0594 1
     7176971266 -2
     closes at 5
 
+    Fx: 9729316256
+
 Travelers - 1-800-252-4633 2 -4 -1 -1 -2
 providerinquiry@travelers.com
 PO Box 660456
 75266-0456
 
-travelers.com/claimuploadcenter/
-https://www.travelers.com/claims/check-your-claim-status/status-form
-
+https://www.travelers.com/claimuploadcenter/
 
 Sedgwick
     1-866-495-7844 7
@@ -28,9 +28,11 @@ fax:
 18592644071
 2149220650
 
-ESIS - 800-233-8931 4
-800 9377460 -5
-863 877 1171
+ESIS
+<!-- 800-233-8931 4 -->
+<!-- 800 937-7460 -5 -->
+<!-- 863 877 1171 -->
+855-219-1964
 
 fx: 800 373 5156
 fx: 8554965410
@@ -48,7 +50,6 @@ TX -1-877-952-9222
 Service Lloyds Insurance Company
 (512) 637-3100 -1 -4
 512-231-8248
-ref: 19231259
 
 Claims Administrative Services
 <!-- (800) 765-2412 -->
@@ -75,7 +76,7 @@ Biberk
 2039892652
 
 email - claims@biberk.com
-biberk.com/policyholders/upload-medical-bills
+https://www.biberk.com/policyholders/upload-medical-bills
 claim # in subject
 
 
@@ -93,7 +94,11 @@ Accident Fund National Insurance
 closes at 1600
 
 IMO/Tristar
-injurymanagement.com
+https://www.injurymanagement.com/bill-status/
+
+Message:
+Hello, billing for [Patient Name]'s DD Exam was sent by fax. I wanted to get information on that bill's status.
+
 877-339-1268
 888-55TRISTAR (888.558.7478)
 
@@ -149,7 +154,7 @@ Nationwide
 
 Genex
 8888640574 -2
-8884643639
+8884643639 -1
 
 Fx: 7136528687
 closes at 4pm
@@ -234,16 +239,22 @@ Medata
 
 Mitchell International Inc
 -TASB
+-Service Lloyd
 -ICW
 -Berkley Medical MNGMT Solutions
+-EMCASCO
 800-732-0153 (-2 ICW)
 550 400
 (ICW) fx: 858-586-2444
 (TASB) fx: 732-212-7009
 
+Weslaco/Amtrust
+ph: 866-380-9811
+fx: 678-258-8395
 
 BERKLEY MEDICAL MNGMT SOLUTIONS
 Ph: 8554442667 -4
+833-827-3449
 
 Acadia Insurance
 1-800-773-4300
