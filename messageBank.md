@@ -242,3 +242,74 @@ Also, if I could get the amount that was on the original check or an EOB, that w
 Thank you,
 Kornebari Nantah
 J5 Chiropractic and Health Centers
+
+
+[Your Name]
+[Your Address]
+[City, State, ZIP Code]
+[Your Phone Number]
+[Your Email Address]
+[Date]
+
+[Adjuster's Name]
+[Insurance Company Name]
+[Company Address]
+[City, State, ZIP Code]
+
+Subject: Response Required – Medical Fee Appeal Notification
+
+Dear [Adjuster's Name],
+
+I am writing to request a response regarding [Claim Number or Patient Name] and the outstanding medical fee dispute. I need to discuss this matter with you within the next 24 hours before proceeding with an appeal to the Texas Department of Insurance (TDI).
+
+You can reach me at this email or (346) 269-8890, or you can reach Jamon Clayton, DC at j5healthcenters@gmail.com or (682) 472-1132.
+I appreciate your attention to this matter.
+
+Sincerely,
+Kornebari Nantah
+J5 Chiropractic and Health Centers
+
+
+Dear Devin Ozowski,
+
+I am writing to request a response regarding Lauren Gonzales:
+
+Claim #: F4W2509
+Date of Birth: 10/08/01
+Date of Injury: 06/10/24
+Date of Service: 02/21/25
+Billed Amount: $950.00
+
+I need to discuss this matter with you within the next 24 hours before proceeding with an appeal to the Texas Department of Insurance (TDI).
+
+You can reach me at this email or (346) 269-8890, or you can reach Jamon Clayton, DC at j5healthcenters@gmail.com or (682) 472-1132.
+I appreciate your attention to this matter.
+
+Sincerely,
+Kornebari Nantah
+J5 Chiropractic and Health Centers
+
+
+
+
+Jose Salinas - Notification of DD Exam Rescheduling
+
+Re: Jose Salinas
+Claim #: 1428001390472
+Date of Injury: 03/08/24
+DWC #: 24217985
+
+This letter serves as notification that the designated doctor appointment for Jose Salinas, originally scheduled for 03/18/25 at 10:00am, has been rescheduled due to the designated doctor's unavailability. The new appointment details are as follows:
+
+New Appointment Date: 04/01/25
+New Appointment Time: 10:00am
+Location: Pinnacle Health, 427 E Duranta Ave Ste# 104 Alamo, TX 78516
+You can reach me at this email or (346) 269-8890, or you can reach Jamon Clayton, DC at j5healthcenters@gmail.com or (682) 472-1132.
+I appreciate your attention to this matter.
+
+We appreciate your cooperation and apologize for any inconvenience this may cause.
+
+Sincerely,
+
+Kornebari Nantah
+J5 Chiropractic and Health Centers

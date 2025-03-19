@@ -1,15 +1,6 @@
 <!-- HS -->
 Tax ID: 274553755
 
-Victor Rodriguez
-1427001425004
-02/04/25 - 1500.00
-DOI: 10/07/24
-<!-- sent: 02/05/25 -->
-carrier: TM
-status: pending
-received: 2/13
-last checked: 3/12
 
 Alfonso Pinnila
 1427001368070
@@ -17,20 +8,9 @@ Alfonso Pinnila
 DOI: 08/28/23
 <!-- sent: 02/05/25 -->
 carrier: TM
-<!-- status: pending -->
-<!-- received: 2/13 -->
-last checked: 3/12
-
-David Conrad
-230000305
-DOB: 11/20/58
-DOI: 11/09/23
-DOS: 02/04/25 - 1200.00
-<!-- sent: 02/05/25 -->
-carrier: CAS
 status: pending
-<!-- received: 2/19 -->
-last checked: 2/25
+received: 3/10
+last checked: 3/17
 
 Jamisha Wilson
 C467008693000101670
@@ -39,8 +19,18 @@ DOB: 06/27/1994
 DOI: 12/08/23
 DOS: 02/19/25 - 1200.00
 carrier: sed
-status: pending
+status: pending - dupe denied
 received: 2/28
+last checked: 3/17
+
+Ashley Rankin
+4A2203FTU980001
+DOB: 10/07/1982
+DOI: 11/16/23
+DOS: 03/05/25 - 1200.00
+carrier: sed
+status: pending
+received: nr
 last checked: 3/12
 
 Harold Tisdale
@@ -50,7 +40,7 @@ DOI: 12/05/22
 DOS: 02/13/25 - 2150.00
 <!-- sent: 2/25 -->
 carrier: Weslaco/Amtrust
-status: pending
+status: pending - full
 received: 3/5
 last checked: 3/12
 
@@ -63,7 +53,15 @@ resent: 3/7
 carrier: gb
 status: pending
 received: 2/28
-last checked: 3/12
+last checked: 3/17
+
+Kristopher Scott
+Broadspire
+Claim Number: 190261370001
+Date of injury: 01/15/24
+Date of service: 02/26/25
+Billed amount: 1550.00
+TX ID: 27-4553755
 
 <!-- HS End -->
 
@@ -77,7 +75,8 @@ DOI: 06/10/24
 DOS: 02/21/25 - 950.00
 Status: denied 3/7 wrong initial base code
 Received: 3/3/25
-last checked: 3/12
+last checked: 3/17
+Reconsideration sent: 3/18
 
 Ariel Watts
 travelers - F0J4169
@@ -92,22 +91,22 @@ last checked: 3/12
 Jackie Martin
 travelers - F5S6455
 sent: 03/13/25
-<!-- DOB: 10/04/96
-DOI: 05/08/2023
-DOS: 02/14/25 - 2075.00
+DOB: 11/07/64
+DOI: 07/22/2024
+DOS: 02/26/25 - 2100.00
 Status: pending
-Received: 3/3/25
-last checked: 3/12 -->
+Received: 3/13
+last checked: 3/17
 
 Paul Reed
 1425001401341
 02/07/2025 600.00
 DOI: 06/05/2024
 Carrier: TM
-status: pending
+status: paid 465.00 on 3/18
 received: 2/20
 sent 2/20
-last checked: 3/14
+last checked: 3/18
 
 Juana Martinez
 A00639941
@@ -130,6 +129,9 @@ sent: 3/3/25
 carrier: Strategic Comp
 status: pending
 received: 3/4
+
+w9@strategiccomp.com
+acantrell@strategiccomp.com
 last checked: 3/7
 
 Rahman Mohammad
@@ -139,9 +141,20 @@ DOI: 10/21/24
 DOS: 02/21/25 - 950.00
 sent: 2/27
 carrier: ESIS
-status: pending
+status: processed 950.00 on 3/18
 received: 3/5
-last checked: 3/12
+last checked: 3/14
+
+Daniel Guzman
+1E01E016710902
+DOB: 04/22/87
+DOI: 08/05/24
+DOS: 03/11/25 - 125.00
+sent: 3/11
+carrier: ESIS
+<!-- status: pending approval -->
+received: 3/13
+last checked: 3/17
 
 Martin Chaney
 241158188
@@ -153,39 +166,6 @@ carrier: Tristar
 status: pending
 <!-- received: 2/19 -->
 Email sent: 3/13
-
-Ella Payne
-20240000789
-DOB: 05/22/57
-DOI: 01/16/24
-DOS: 01/17/25 - 1800.00
-sent: 02/03/25
-carrier: TASB Risk Management Fund
-status: paid 1704.00 on 2/10; check not received
-received: 2/4
-last checked: 3/3
-
-<!-- Maricela Rojas
-20240001360
-DOB: 01/16/1975
-DOI: 01/24/2024
-DOS: 02/21/25 - 950.00
-sent: 3/5
-carrier: TASB Risk Management Fund
-status: paid 865.00 on 3/14
-received: 3/7
-last checked: 3/14 -->
-
-<!-- Edwin Pavan
-Z01855449
-DOB: 12/22/1981
-DOI: 08/23/2024
-DOS: 02/21/25 - 600.00
-sent: 3/5
-carrier: EMCASCO
-status: paid 465.00 on 3/13
-received: 3/5
-last checked: 3/14 -->
 
 Manuel Marez
 34294
@@ -207,6 +187,18 @@ carrier: LM
 status: pending
 received: 3/6
 last checked: 3/12
+
+Manuel Gonzalez
+014145000115WC01
+DOB: 03/06/64
+DOI: 08/17/23
+DOS: 03/04/25 - 1650.00
+sent: 3/17
+carrier: gb
+<!-- status: pending -->
+<!-- received: 2/28 -->
+<!-- last checked: 3/12 -->
+
 
 <!-- Resolutions -->
 
@@ -318,6 +310,58 @@ extent needed
 
 
 <!--
+
+Maricela Rojas
+20240001360
+DOB: 01/16/1975
+DOI: 01/24/2024
+DOS: 02/21/25 - 950.00
+sent: 3/5
+carrier: TASB Risk Management Fund
+status: paid 865.00 on 3/14
+received: 3/7
+last checked: 3/14
+
+Edwin Pavan
+Z01855449
+DOB: 12/22/1981
+DOI: 08/23/2024
+DOS: 02/21/25 - 600.00
+sent: 3/5
+carrier: EMCASCO
+status: paid 465.00 on 3/13
+received: 3/5
+last checked: 3/14
+
+Ella Payne
+20240000789
+DOB: 05/22/57
+DOI: 01/16/24
+DOS: 01/17/25 - 1800.00
+sent: 02/03/25
+carrier: TASB Risk Management Fund
+status: paid 1704.00 on 2/10; check not received
+received: 2/4
+last checked: 3/3
+
+Victor Rodriguez
+1427001425004
+02/04/25 - 1500.00
+DOI: 10/07/24
+carrier: TM
+status: paid 1328.00 on 3/11
+received: 2/13
+last checked: 3/17
+
+
+David Conrad
+230000305
+DOB: 11/20/58
+DOI: 11/09/23
+DOS: 02/04/25 - 1200.00
+carrier: CAS
+status: paid 1200.00 on 3/14
+last checked: 3/14
 
 David Carter
 1E01E016960888

@@ -350,3 +350,43 @@ mon-weds
 prior
 
 call for anything not received
+
+Jackie Martin
+68
+73
+1500
+
+m burke
+3/5 forward
+
+daniel guzman no show - knee contusion and sprain waited 30 minutes
+dylan first and last page error
+j martin extent
+
+69 1500
+dylan nm w8
+Manuel w5
+
+check billing
+
+martin
+
+
+Contact adjuster for Lauren Gonzales
+24 hour notice before making an appeal for medical fee with TDI
+
+ella payne stop pay
+
+lauren gonzales 60
+juana
+
+melvin ross mri
+
+
+manuel g 1 lv mmi
+1500
+w8
+
+hs bills
+
+thelma beehee
