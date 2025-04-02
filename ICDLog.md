@@ -359,3 +359,6 @@ S22.42XA Multiple fractures of ribs, left side, initial encounter for closed fra
 
 S82.291A Other fracture of shaft of right tibia, initial encounter for closed fracture
 S83.512A  Sprain of anterior cruciate ligament of left knee, initial encounter
+
+
+S46.911D, M75.51, M75.121, 46.011D, S43.81XA

@@ -150,3 +150,5 @@ Family Care Chiropractic, 316 S Goliad St., Ste. 111, Rockwall, TX 75032
 Quinlan Chiropractic 301 S Denton Tap Rd. Ste 100 Coppell, TX 75019 1881719672
 
 Back in Motion Chiropractic 1113 Scurry St, Big Spring, TX 79720 1952500217
+
+Advanced Spine, Sports & Rehab, 4206 Richmond Pl, Texarkana, TX 75503

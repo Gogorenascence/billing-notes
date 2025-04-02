@@ -98,8 +98,16 @@ Touchstone Imaging
 ph 9726177731
 fx 2147369234
 
+ red
+
 Gerardo Moreno
 Advanced Radiology Associates - Edinburg
 ph (956) 994-1752
 fx (956) 994-8745
 12/2 13:00
+
+Melvin Ross
+3/31 10am
+Touchstone Imaging - Red Oak
+ph 9726177731
+fx 2147369234
