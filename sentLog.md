@@ -1,61 +1,38 @@
 <!-- HS -->
 Tax ID: 274553755
 
+Melissa Adair
+1319WC240301063
+Date of Birth: 02/19/70
+Date of Injury: 04/06/24
+Date of Service: 02/26/25 - 1400.00
+Carrier: CorVel
+<!-- Status: pending -->
+<!-- received: 2/12 -->
+last checked: 4/4
+Call Jessica for adjustor name, ph email
 
-Alfonso Pinnila
-1427001368070
-03/06/25 - 2700.00
-Date of Injury: 08/28/23
-<!-- sent: 02/05/25 -->
-Carrier: TM
-Status: pending
-Received: 3/10
-last checked: 3/28
 
-Craig Biehle
-4A240990NF20001
-C4665A0680000101665
-Date of Birth: 11/07/1960
-Date of Injury: 09/09/24
-Date of Service: 03/21/25 - 1200.00
-Carrier: sed
-Status: imaging
-Received: 3/24
-last checked: 3/28
+Michelle L. Ethridge | EC Supervisor
+CorVel Corporation | Dallas, Texas
+T 972-628-2846 |  F 866-782-8959
+9723831711
 
-Kristopher Scott
-Broadspire
-Claim Number: 190261370001
-Date of injury: 01/15/24
-Date of service: 02/26/25
-Billed amount: 1550.00
-TX ID: 27-4553755
-Received
+
+Christina Daniel
+4A2408QKDPW0001
+Date of Birth: 04/16/70
+Date of Injury: 08/18/24
+Date of Service: 03/27/25 - 1200.00
+Carrier: Sedgwick
+Resent: 4/8
+<!-- Status: pending -->
+received: 4/10
+last checked: 4/10
 
 <!-- HS End -->
 
 Tax ID: 822170594
-
-Lauren Gonzales
-travelers - F4W2509
-sent: 03/3/25
-Date of Birth: 10/08/01
-Date of Injury: 06/10/24
-Date of Service: 02/21/25 - 950.00
-Status: denied 3/7 wrong initial base code
-Received: 3/3/25
-Reconsideration sent: 3/18  received on 3/21
-last checked: 3/28
-
-Jackie Martin
-travelers - F5S6455
-sent: 03/13/25
-Date of Birth: 11/07/64
-Date of Injury: 07/22/2024
-Date of Service: 02/26/25 - 2100.00
-Status: pending - 1992.00 on 3/28 last step
-Received: 3/13
-last checked: 3/28
 
 Juana Martinez
 A00639941
@@ -82,6 +59,7 @@ received: 3/28
 w9@strategiccomp.com
 acantrell@strategiccomp.com
 7702253538
+adjust: 678-221-0800
 last checked: 3/19
 
 Martin Chaney
@@ -90,55 +68,50 @@ Date of Birth: 11/04/83
 Date of Injury: 09/27/2024
 Date of Service: 01/29/25 - 1300.00
 sent: 3/3
+resent: 4/7
 Carrier: Tristar
 Status: pending
 <!-- received: 2/19 -->
 Email sent: 3/26
-last checked: 3/24
-
-Manuel Marez
-34294
-Date of Birth: 11/05/1975
-Date of Injury: 03/20/2023
-Date of Service: 02/24/25 - 950.00
-sent: 3/6
-Carrier: Creative Risk Funding
-Status: pending
-received: 3/5
-Last checked: 3/24
-
-Addie Renee Tarin
-040461000021WC01
-Date of Birth: 10/19/86
-Date of Injury: 10/29/24
-Date of Service: 03/10/25 - 1100.00
-sent: 3/18
-Carrier: gb
-Status: pending
-received: 3/19
-last checked: 3/28
+last checked: 4/3
 
 Dylan Martinez
-CELP 24000837
-Date of Birth: 05/13/1996
-Date of Injury: 08/09/24
-Date of Service: 03/11/25 - 1300.00
-sent: 3/20
-Carrier: CAS
-Status: pending
-received: 3/20
-last checked: 3/24
+CAS
+Claim Number:  CELP 24000837
+Date of injury:  08/09/2024
+Date of service: 03/11/25
+Billed amount: $1300.00
+TX ID: 82-2170594
+last checked: 4/1
 
-Maria Burke
-4A2409QFZRQ0001
-Date of Birth: 10/25/1960
-Date of Injury: 09/20/24
-Date of Service: 03/11/25 - 950.00
-sent: 3/20
-Carrier: sed
+Wacey Forga
+20240007933
+Date of Birth: 11/05/1986
+Date of Injury: 04/24/24
+Date of Service: 03/26/25 - 950.00
+sent: 3/31
+Carrier: TASB
 Status: pending
-received: 3/25
-last checked: 3/28
+received: 4/1
+last checked: 4/8
+
+Thelma Behee
+001064052243WC01
+Date of Birth: 08/13/1962
+Date of Injury: 01/08/24
+Date of Service: 03/21/25 - 1725.00
+sent: 4/2
+Carrier: gb
+Status: pending
+received: 4/3
+paid:
+last checked: 4/8
+
+Juan Lopez
+Gray Insurance Co.
+202300093800001
+Adj 713-671-2534
+4/4
 
 <!-- Resolutions -->
 
@@ -154,20 +127,8 @@ Carrier: sed
 Status: Denied no pre-cert auth 2/10
 received:
 last checked: 2/11
-60
+60 nr
 99456
-
-Jimmy Boling
-1432645
-Date of Birth: 06/02/68
-Date of Injury: 07/09/23
-Date of Service: 01/07/25 - 950.00
-sent: 01/23/25 - resent 1/31/25 - resent 2/12/25
-Carrier: Careworks/National Interstate Insurance Company
-Status: nr
-received: nr
-last checked: 3/28
-60 sent
 
 Rose Paul
 003619029892WC01
@@ -176,8 +137,9 @@ Date of Birth: 11/21/66
 sent: 2/13
 Carrier: gb
 Status: denied - entitlement to benefit
+Pending
 claim closed 2/2/24
-received: 2/21
+received: 2/21 - 3/5
 60
 
 adj 972-931-6277
@@ -188,6 +150,112 @@ last checked: 2/21
 
 <!--
 
+Maria Burke
+4A2409QFZRQ0001
+Date of Birth: 10/25/1960
+Date of Injury: 09/20/24
+Date of Service: 03/11/25 - 950.00
+sent: 3/20
+Carrier: sed
+Status: paid 465.00 on 4/7
+received: 3/25
+last checked: 4/8
+
+Eddie Collins hs
+23T12K566436
+Date of Birth: 01/19/1958
+Date of Injury: 02/03/23
+Date of Service: 03/05/2025 - 1200.00
+Carrier: CCMSI
+Status: paid 1200.00
+last checked: 4/4
+
+Kristopher Scott hs
+Broadspire
+Claim Number: 190261370001
+Date of injury: 01/15/24
+Date of service: 02/26/25
+Billed amount: 1550.00
+TX ID: 27-4553755
+Received
+Paid
+last checked: 4/1
+
+Jimmy Boling
+1432645
+Date of Birth: 06/02/68
+Date of Injury: 07/09/23
+Date of Service: 01/07/25 - 950.00
+sent: 01/23/25 - resent 1/31/25 - resent 2/12/25
+Carrier: Careworks/National Interstate Insurance Company
+Status: paid 863.00 on 4/7
+received: 4/1
+last checked: 4/8
+60 sent
+
+Addie Renee Tarin
+040461000021WC01
+Date of Birth: 10/19/86
+Date of Injury: 10/29/24
+Date of Service: 03/10/25 - 1100.00
+sent: 3/18
+Carrier: gb
+Status: paid 1062.00 on 4/2
+received: 3/19
+last checked: 4/3
+
+Alfonso Pinnila
+1427001368070
+03/06/25 - 2700.00
+Date of Injury: 08/28/23
+Carrier: TM
+Status: paid 2191.00
+Received: 3/10
+last checked: 4/3
+
+Lauren Gonzales
+travelers - F4W2509
+sent: 03/3/25
+Date of Birth: 10/08/01
+Date of Injury: 06/10/24
+Date of Service: 02/21/25 - 950.00
+Status: denied 3/7 wrong initial base code
+paid 863.00 on 3/26
+Received: 3/3/25
+Reconsideration sent: 3/18  received on 3/21
+last checked: 4/3
+
+Craig Biehle hs
+4A240990NF20001
+C4665A0680000101665
+Date of Birth: 11/07/1960
+Date of Injury: 09/09/24
+Date of Service: 03/21/25 - 1200.00
+Carrier: sed
+Status: paid 863.00 on 4/2
+Received: 3/27
+last checked: 4/3
+
+Manuel Marez
+34294
+Date of Birth: 11/05/1975
+Date of Injury: 03/20/2023
+Date of Service: 02/24/25 - 950.00
+sent: 3/6
+Carrier: Creative Risk Funding
+Status: paid 863.00
+received: 3/5
+Last checked: 3/24
+
+Jackie Martin
+travelers - F5S6455
+sent: 03/13/25
+Date of Birth: 11/07/64
+Date of Injury: 07/22/2024
+Date of Service: 02/26/25 - 2100.00
+Status: paid 1992.00 on 3/28
+Received: 3/13
+last checked: 4/1
 
 Chad Patterson
 949G19347
@@ -386,6 +454,8 @@ Status: denied on on 1/22
 procedure code when appropriate base code
 received: 1/13
 last checked: 1/21
+
+850.00 on 2/7
 8772282758
 
 

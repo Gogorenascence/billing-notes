@@ -313,3 +313,6 @@ Sincerely,
 
 Kornebari Nantah
 J5 Chiropractic and Health Centers
+
+DD Report and DWC-069
+Attached is a copy of your designated doctor exam's report and DWC-069.

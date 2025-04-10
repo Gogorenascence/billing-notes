@@ -402,3 +402,178 @@ l gonzales adjuster
 <!-- m. williams 3/13 -->
 <!-- rojas  -->
 <!-- watts -->
+
+m. williams 3/13
+
+9723726237
+
+Sonaree Vann
+9723726137
+
+
+
+dylan
+<!-- medical history -->
+<!-- surgical history -->
+<!-- hgt and wgt -->
+<!-- 69 -->
+<!-- 73 -->
+<!-- b with restrictions -->
+<!-- lifting 200 and reported lower back pain -->
+<!-- 4 hrs twisting -->
+<!-- 4 hrs stooping -->
+<!-- 4 hrs bending -->
+<!-- lifting 25 lbs for 4 hrs -->
+<!-- 10/18 3/11/25 -->
+<!-- lumb s/s -->
+<!-- nm 6/11/25 -->
+sign
+<!-- 10:30 - 11:00 am -->
+69/73/report
+
+add to txcomp
+
+murfin
+next monday 12 -
+or
+next tuesday 15:30 -
+
+Garza
+next tuesday 11:30 - 13:30
+
+mdr
+How far can I go back to dispute an unpaid dd exam ordered by TDI
+
+arlington 11th 10:00
+falls 16th 10:00
+
+berry chiro
+
+call jessica
+get other no show file
+
+j lopez
+daniel hanson
+5124352230
+
+shelby
+richard pedro
+
+juana
+martin
+
+carenow work hardening/condition pt
+ask for MRI
+
+Chaney
+8324953779
+check exam if recommended
+8333902800
+
+69 salinas
+lopez
+
+
+
+Care now
+Boling nr
+Juana
+
+j lopez
+no extent
+add from bottom
+add shoulder exam
+
+salinas
+add second visit
+request for additional records
+
+lg
+jm
+mb sed
+cb hs
+ap
+art gb
+jbm
+
+dm
+mc
+mm
+
+
+<!-- Rt handed, heavy machine operator -->
+<!-- Hurt lt shoulder when pulling himself forward when climbing ladder -->
+<!-- Lt shoulder ; Flex 160, ext 47, abd 158, ext rot 72, int rot 88, all norm on rt -->
+<!-- Muscle strength 4+/5 w lt shoulder abduction, ext rot and flex -->
+<!-- Grip strength decreased on lt -->
+Med hx none
+Surg hx, prev rt shoulder arthroscopic surgery
+Pn level 0/10
+Palp pan at anterior rt shouder jt and rt deltoid
+Well healed surgical scars at rt and lt shoulder jt
+No swelling/edema
+Currently not working, was previously working 60+ hours per week
+
+
+
+ross
+<!-- 69  -->
+<!-- mri  -->
+<!-- 1500 -->
+
+behee
+S46.912D
+w5 w6 mi
+<!-- 1500 -->
+
+lopez
+S46.012A
+S46.212A
+<!-- 69  -->
+<!-- 1500  -->
+<!-- shoulder ir -->
+<!-- kg dispute -->
+<!-- sunset c or angelo 21/22/23 10am - 3pm -->
+<!-- Sunset 4/22 - 10am $50 outpocket -->
+
+
+rose paul
+boling
+
+
+lopez
+patient allowed to work - tell adjustor
+mmi/ir on the way
+
+
+juana
+thelma
+
+perez
+3032187809
+
+ross
+nm
+sp
+
+one pt
+backstrong 23rd 12 - 16 14 preferred
+
+man gon submitting for the difference of the 398
+sent j salinas billing
+email
+
+
+4/28 1300
+gray
+
+call to reschedule
+murfin and ariana garza
+
+or
+
+set up a no show report on 32
+and not available for a reschedule
+please re-designate
+
+call Hillcrest Chiropractic Clinic reaves

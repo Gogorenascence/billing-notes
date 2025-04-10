@@ -19,9 +19,13 @@ OFFICE LOCATION: 		Occmed Med Clinic, 6014 45th St Unit A
 Lubbock, TX 79407
 1174653851
 
-OFFICE LOCATION: 		Healthcare Solutions, 10540 S Post Oak Rd Ste 200
+<!-- OFFICE LOCATION: 		Healthcare Solutions, 10540 S Post Oak Rd Ste 200
 Houston, TX 77035
+1992097737 -->
+
+OFFICE LOCATION: 		Healthcare Solutions, 4366 Holmes Rd Houston, TX 77051
 1992097737
+
 
 OFFICE LOCATION: 		Clifford Chiropractic, 4222 Trinity Mills Rd Ste 106
 Dallas, TX 75287
@@ -37,6 +41,8 @@ Tyler, TX 75702
 Big Spring, TX 79720
 1336567015 -->
 
+Back in Motion Chiropractic, 1113 Scurry St. Big Spring, TX 79720
+
 OFFICE LOCATION: 		Beaty Chiropractic Clinic, 2100 N Grandview Ave. Ste A
 Odessa, TX 79761
 1619012366
@@ -49,6 +55,7 @@ OFFICE LOCATION: 		Jamon Clayton, DC, 1706 Cary St. Weslaco, TX 78599
 
 OFFICE LOCATION: 		Physical Therapy and Rehab Concepts, 915 Highway 80 San Mar Plaza Shopping Center San Marcos, TX 78666
 1235353350
+(512) 353-4575
 
 OFFICE LOCATION: 		Spine & Health Institute, 7400 Blanco Rd Ste 125 San Antonio, TX 78216
 1841419942
@@ -94,6 +101,7 @@ Functional Performance 1204 N 7th St Harlingen, TX 78550
 
 Hillcrest Chiropractic Clinic, 6701 Sanger Ave Ste 104 Waco, TX 76710
 1104106335
+(254) 754-4000
 
 
 Family Chiropractic, 1920 Acton Hwy Granbury, TX 76049
@@ -102,8 +110,10 @@ Family Chiropractic, 1920 Acton Hwy Granbury, TX 76049
 Pain Relief Rehab, 363 W. Main Street, Lewisville, TX 75067
 1386019735
 
-Southwest Back Clinic, 4241 Southwest
-Blvd Ste 106, San Angelo, TX 76904-5687
+<!-- Southwest Back Clinic, 4241 Southwest
+Blvd Ste 106, San Angelo, TX 76904-5687 -->
+
+Sunset Chiropractic, 4116 Sunset Dr, San Angelo, TX 76904
 
 Truitt Chiropractic, 100 W Henderson St STE H Cleburne, TX 76033
 1043397367
@@ -151,4 +161,7 @@ Quinlan Chiropractic 301 S Denton Tap Rd. Ste 100 Coppell, TX 75019 1881719672
 
 Back in Motion Chiropractic 1113 Scurry St, Big Spring, TX 79720 1952500217
 
-Advanced Spine, Sports & Rehab, 4206 Richmond Pl, Texarkana, TX 75503
+TXK Chiropractic, 4206 Richmond Pl, Texarkana, TX 75503
+
+Backstrong Chiropractic, 1930 Country Place Pkwy Ste 110, Pearland, TX 77584-2138
+(713) 340-0304
