@@ -165,3 +165,6 @@ TXK Chiropractic, 4206 Richmond Pl, Texarkana, TX 75503
 
 Backstrong Chiropractic, 1930 Country Place Pkwy Ste 110, Pearland, TX 77584-2138
 (713) 340-0304
+
+Sunset Chiropractic, 4116 Sunset Dr., San Angelo, TX 76904
+1477747806

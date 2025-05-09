@@ -7,60 +7,58 @@ Date of Birth: 02/19/70
 Date of Injury: 04/06/24
 Date of Service: 02/26/25 - 1400.00
 Carrier: CorVel
-<!-- Status: pending -->
-<!-- received: 2/12 -->
-last checked: 4/4
-Call Jessica for adjustor name, ph email
-
+Status: pending
+received: 4/15
+last checked: 4/18
 
 Michelle L. Ethridge | EC Supervisor
 CorVel Corporation | Dallas, Texas
 T 972-628-2846 |  F 866-782-8959
 9723831711
 
+Melanie Lambright
+1425001363730
+04/03/25 - 1200.00
+Carrier: tm
+Status: pending
+received: 4/9
+last checked: 4/25
 
-Christina Daniel
-4A2408QKDPW0001
-Date of Birth: 04/16/70
-Date of Injury: 08/18/24
-Date of Service: 03/27/25 - 1200.00
-Carrier: Sedgwick
-Resent: 4/8
+Demetria Toliver HS
+20240021916
+Date of Birth: 02/15/73
+Date of Injury: 12/02/24
+Date of Service: 04/10/25 - 1200.00
+Carrier: TASB
+Resent: 4/25
 <!-- Status: pending -->
-received: 4/10
-last checked: 4/10
+<!-- received: 4/10 -->
+last checked: 4/25
 
+Cynthia Gregurek
+24000060
+Date of Birth: 10/26/59
+Date of Injury: 09/04/24
+Date of Service: 04/16/25 - 1200.00
+Carrier: CAS
+Status: pending
+received: 4/22
+last checked: 4/25
+
+Thomas Zielonka
+001123009815WC01
+Date of Birth: 12/01/75
+Date of Injury: 08/06/24
+Date of Service: 04/16/25 - 1200.00
+Carrier: GB
+Status: pending
+received: 4/24
+last checked: 4/25
+
+adj Terri Marshall 9729316277
 <!-- HS End -->
 
 Tax ID: 822170594
-
-Juana Martinez
-A00639941
-Date of Birth: 09/21/85
-Date of Injury: 07/18/24
-Date of Service: 01/29/25 - 1300.00
-sent: 2/12
-Carrier: Strategic Comp
-resent: 3/3/25
-Status: pending
-received: 2/12
-last checked: 3/28
-
-Juana Martinez FCE
-A00639941
-Date of Birth: 09/21/85
-Date of Injury: 07/18/24
-Date of Service: 01/29/25 - 775.00
-sent: 3/3/25
-Carrier: Strategic Comp
-Status: pending
-received: 3/28
-
-w9@strategiccomp.com
-acantrell@strategiccomp.com
-7702253538
-adjust: 678-221-0800
-last checked: 3/19
 
 Martin Chaney
 241158188
@@ -68,32 +66,37 @@ Date of Birth: 11/04/83
 Date of Injury: 09/27/2024
 Date of Service: 01/29/25 - 1300.00
 sent: 3/3
-resent: 4/7
+resent: 4/22
 Carrier: Tristar
 Status: pending
 <!-- received: 2/19 -->
-Email sent: 3/26
-last checked: 4/3
+Email sent: 4/24
+last checked: 4/22
+
+9723872594
+
+Leticia Ramirez
+241181529
+Date of Birth: 11/01/62
+Date of Injury: 12/10/24
+Date of Service: 04/11/25 - 125.00
+sent: 4/14/25
+Carrier: Tristar
+Status: pending
+received: 4/14/25
+Email sent: 4/24
+last checked: 4/18
 
 Dylan Martinez
 CAS
-Claim Number:  CELP 24000837
-Date of injury:  08/09/2024
+Claim Number: CELP 24000837
+Date of injury: 08/09/2024
 Date of service: 03/11/25
 Billed amount: $1300.00
 TX ID: 82-2170594
-last checked: 4/1
-
-Wacey Forga
-20240007933
-Date of Birth: 11/05/1986
-Date of Injury: 04/24/24
-Date of Service: 03/26/25 - 950.00
-sent: 3/31
-Carrier: TASB
-Status: pending
-received: 4/1
-last checked: 4/8
+Status: Pending
+Received: 4/23
+last checked: 4/25
 
 Thelma Behee
 001064052243WC01
@@ -104,51 +107,47 @@ sent: 4/2
 Carrier: gb
 Status: pending
 received: 4/3
-paid:
-last checked: 4/8
+last checked: 4/25
 
-Juan Lopez
-Gray Insurance Co.
-202300093800001
-Adj 713-671-2534
-4/4
+Benito Perez
+011260171081WC01
+Date of Birth: 12/10/78
+Date of Injury: 09/11/24
+Date of Service: 04/11/25 - 1400.00
+Carrier: GB
+Status: pending
+received: 4/23
+last checked: 4/25
+
+Sarah Magallon
+4A2412DX1F90001
+Date of Birth: 07/11/00
+Date of Injury: 12/13/24
+Date of Service: 04/10/25 - 950.00
+Carrier: Sedgwick
+Status: paid 863.00 on 4/23
+received: 4/16
+last checked: 4/25
+
+John Mireles
+4A2501DTYXQ0001
+Date of Birth: 06/28/61
+Date of Injury: 01/11/25
+Date of Service: 04/11/25 - 600.00
+Carrier: Sedgwick
+Status: pending
+received: 4/22
+last checked: 4/25
+
+Jose Salinas
+1428001390472
+04/01/2025 - 700.00
+Carrier: tm
+Status: pending
+received: 4/10
+last checked: 4/25
 
 <!-- Resolutions -->
-
-<!-- Hank Howard - Resolution -->
-
-James Juarez
-4A2312K0HJS0001
-Date of Birth: 10/28/1971
-Date of Injury: 12/16/2023
-Date of Service: 01/22/25 - 775.00
-sent: 2/7
-Carrier: sed
-Status: Denied no pre-cert auth 2/10
-received:
-last checked: 2/11
-60 nr
-99456
-
-Rose Paul
-003619029892WC01
-Date of Service: 1/29/25 - 2500.00
-Date of Birth: 11/21/66
-sent: 2/13
-Carrier: gb
-Status: denied - entitlement to benefit
-Pending
-claim closed 2/2/24
-received: 2/21 - 3/5
-60
-
-adj 972-931-6277
-last checked: 2/21
-
-<!-- Resolutions End -->
-
-
-<!--
 
 Maria Burke
 4A2409QFZRQ0001
@@ -160,6 +159,120 @@ Carrier: sed
 Status: paid 465.00 on 4/7
 received: 3/25
 last checked: 4/8
+Recon sent: 4/16/25
+
+DD Billing Reconsideration for Maria Burke
+Claim #: 4A2409QFZRQ0001
+
+Claimant was billed for a Maximum Medical Improvement exam and an Impairment Rating which according to EDI billing rules has a combined minimal payment of $863.00 for 1 unit.
+Claimant payout was $465.00.
+
+<!-- Hank Howard - Resolution -->
+
+<!-- Resolutions End -->
+
+
+<!--
+
+Melvin Ross
+4A240741ZYQ0001
+03/14/25 - 675.00
+sent: 4/8
+Carrier: sed
+Status: denied 4/14 recon paid 465.00 on 4/17
+received: 4/10
+last checked: 4/22
+
+James Juarez 60
+4A2312K0HJS0001
+Date of Birth: 10/28/1971
+Date of Injury: 12/16/2023
+Date of Service: 01/22/25 - 775.00
+sent: 2/7
+Resent: 4/8
+Carrier: sed
+Status: Denied no pre-cert auth 2/10/
+60 paid 530.30 on 4/16
+last checked: 4/22
+99456
+
+Juan Lopez
+Gray Insurance Co.
+202300093800001
+Adj 713-671-2534
+Claim Number: 202300093800001
+Date of injury: 09/12/23
+Date of service: 04/01/25
+Billed amount: 950.00
+last checked: 4/18
+paid $950.00 on 4/11
+
+Christina Daniel HS
+4A2408QKDPW0001
+Date of Birth: 04/16/70
+Date of Injury: 08/18/24
+Date of Service: 03/27/25 - 1200.00
+Carrier: Sedgwick
+Resent: 4/8
+Status: paid 863.00 on 4/18
+received: 4/10
+last checked: 4/10
+
+Wacey Forga
+20240007933
+Date of Birth: 11/05/1986
+Date of Injury: 04/24/24
+Date of Service: 03/26/25 - 950.00
+sent: 3/31
+Carrier: TASB
+Status: paid 865.00 on 4/10
+received: 4/1
+last checked: 4/11
+
+Rose Paul 60
+003619029892WC01
+Date of Service: 1/29/25 - 2500.00
+Date of Birth: 11/21/66
+sent: 2/13
+Carrier: gb
+Status: denied - entitlement to benefit
+Paid 2310.00
+claim closed 2/2/24
+received: 2/21 - 3/5
+adj 972-931-6277
+last checked: 4/16
+
+Juana Martinez
+A00639941
+Date of Birth: 09/21/85
+Date of Injury: 07/18/24
+Date of Service: 01/29/25 - 1300.00
+sent: 2/12
+Carrier: Strategic Comp
+resent: 3/3/25
+Status: paid 1129.00
+received: 2/12
+last checked: 4/16
+w9@strategiccomp.com
+acantrell@strategiccomp.com
+7702253538
+adjust: 678-221-0800
+last checked: 3/19
+
+Juana Martinez FCE
+A00639941
+Date of Birth: 09/21/85
+Date of Injury: 07/18/24
+Date of Service: 01/29/25 - 775.00
+sent: 3/3/25
+Carrier: Strategic Comp
+Status: paid 723.00
+received: 4/16
+w9@strategiccomp.com
+acantrell@strategiccomp.com
+7702253538
+adjust: 678-221-0800
+last checked: 3/19
 
 Eddie Collins hs
 23T12K566436
@@ -277,6 +390,14 @@ Carrier: gb
 Status: paid 1129.00 on 3/27
 received: 3/17
 last checked: 3/28
+
+DD Billing Reconsideration for Manuel Gonzales
+Claim #: 014145000115WC01
+
+Claimant was billed for a Maximum Medical Improvement exam, an Impairment Rating and a return to work exam which according to EDI billing rules has a combined minimal payment of $1527.00 for 1 unit.
+Claimant payout was $1129.00.
+
+
 
 Harold Tisdale hs
 35986691

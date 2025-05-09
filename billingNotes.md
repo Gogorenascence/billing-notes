@@ -142,6 +142,14 @@ BILL ID [Internal Bill Number] WAS INCORRECTLY PROCESSED.
 Claimant was billed for 99456, [Billing Modifier], which according to EDI billing rules has a minimal payment of [Minimum Amount] for 1 unit. ** Claimant payout was [Amonut received].
 <!-- Repeat for each billing item -->
 
+
+DD Billing Reconsideration for Maria Burke
+Claim #: 4A2409QFZRQ0001
+
+Claimant was billed for a Maximum Medical Improvement exam and an Impairment Rating which according to EDI billing rules has a combined minimal payment of $863.00 for 1 unit.
+Claimant payout was $465.00.
+
+
 **Please note this bill is from a state oreded DD exam which requires mandatory payment, or be subject of fines and/or penalties.
 
 Please remit a payment theat was unfulfilled for m initial review.
@@ -224,3 +232,8 @@ jmn1009@yahoo.com
 Guidelines84$
 
 60 sent for all Denials the following
+
+Multiple Impairments 69
+Certification #1 Carrier Accepted Conditions
+Certification #2 Carrier Accepted and All Disputed Conditions
+Certification #3 Carrier Accepted and DD Determined Conditions

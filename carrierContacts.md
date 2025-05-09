@@ -49,7 +49,7 @@ TX -1-877-952-9222
 
 Service Lloyds Insurance Company
 (512) 637-3100 -1 -4
-512-231-8248
+Fx: 512-231-8248
 
 Claims Administrative Services
 <!-- (800) 765-2412 -->
@@ -60,6 +60,7 @@ Closes at 5pm
 Summit Holdings
 1-800-762-7811
 fax: 8636671871
+Fx: 7707189490
 PO Box 2928
 Lakeland, FL 33806-2928
 dg-summit_prov_auth_req@summitholdings.com
@@ -99,8 +100,11 @@ https://www.injurymanagement.com/bill-status/
 Message:
 Hello, billing for [Patient Name]'s DD Exam was sent by fax. I wanted to get information on that bill's status.
 
-877-339-1268
-888-55TRISTAR (888.558.7478)
+IMO: 877-339-1268
+Fax: 888-55TRISTAR (888.558.7478)
+<!-- 972-387-2594 -->
+
+8773391268
 
 CCMSI
 800-252-5059 -7
@@ -136,7 +140,8 @@ Coventry
 800-937-6824
 
 AS&G Claims Administration
-800-580-2334 -2
+Ph 800-580-2334 -2
+Fx 713-957-8510
 
 Randstad(Conduit)
 8888534735 - 6
@@ -202,8 +207,6 @@ bill 550 400
 ph 800-537-6655
 fx 732-813-1345
 
-
-
 Sunz Insurance Company
 (941) 306-3077
 505-212-6901
@@ -241,11 +244,14 @@ Mitchell International Inc
 -ICW
 -Berkley Medical MNGMT Solutions
 -EMCASCO
+-Service American Indemnity Company
 800-732-0153 (-2 ICW)
-800-482-7276 (TASB) -1 -2
+512-231-8248 ()
+<!-- 800-482-7276 (TASB) -1 -2 -->
 550 400
-(ICW) fx: 858-586-2444
-(TASB) fx: 732-212-7009
+fx: 858-586-2444 (ICW)
+fx: 732-212-7009 (TASB)
+fx: 512-231-8248 (Service American Indemnity Company)
 
 Weslaco/Amtrust
 ph: 866-380-9811
@@ -276,7 +282,6 @@ fx: 925-889-2410
 
 Gray Insurance Co.
 877-225-8442
-
 Fx: 504-324-2051
 
 Corvel
@@ -284,6 +289,14 @@ Corvel
 888-726-7835 -2 zip code -->
 Ph: 888-633-2435
 Fx: 888-851-9190
+
+
+Ph: 844-740-7007 - 1 - 4
+Fx: 512-231-8248
+
+Sentry Casualty Company
+Ph: 800-473-6879
+Fx: 8009994642
 
 Hello, billing for [Patient]'s DD Exam was sent to [Carrier] by fax. I wanted to get information on -  that bill's status.
  -

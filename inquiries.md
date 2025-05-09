@@ -5,7 +5,6 @@ dwc
 confirm compensable injuries
 
 
-Here's a professional email draft for your request:
 
 Subject: Request for Approval and Records for Alternative MMI/IR Exam
 
@@ -61,3 +60,20 @@ mon 12/30 at 1pm
 client requesting if carrier can pay for transportation
 from dallas to California
 call Sedgwick for adjuster
+
+
+Teresa Crosson
+Inquiry
+Alternative IR
+get DWC number and records
+Ombuds Brooke Greenway
+Crosson
+liberty mutual
+24283507
+
+Carrier: Liberty Mutual
+Carrier Claim: WC949G20386
+Date of Birth: 11/4/69
+Date of Injury: 3/11/24
+Adjuster: Tamika Giles 214-622-9918
+8003000110 2 4

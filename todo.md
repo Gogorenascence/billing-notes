@@ -577,3 +577,166 @@ and not available for a reschedule
 please re-designate
 
 call Hillcrest Chiropractic Clinic reaves
+
+
+lr no show
+bp refer for ct of r foot - contusion of r big toe
+
+
+tristar
+adair
+
+61 amber wilson 1 just slap tear
+
+cervical sprain/strain, left shoulder sprain/strain, lumbar sprain/strain, left hip sprain/strain, and left knee sprain/strain. These are all grade 1 (mild) injuries.
+
+65
+65
+66
+68
+71
+
+Bobby H: supra infra tears are separated 4
+
+jennifer reaves tomorrow 11am
+
+
+call for devins records
+resend burke
+add mri to bp
+
+resend mb and mr
+
+69 1500 bp S92.424A 7 8 1400
+
+68 69 pc
+
+ms report
+
+pc request mri
+extent pc
+
+<!-- burke 61
+2149220650 -->
+
+watson 69 1500 w5
+report
+4/21 10am
+arlington
+office - full duty
+r shoulder surgery history
+
+torres hip lumbar exam
+w5
+73
+68
+69
+1500 2 lv 2500
+500 1 unit
+600 2 units
+
+5/13
+1030
+1100
+
+
+burke call adj
+tristar lr
+
+
+call dylan
+
+
+txcomp dw
+doc fax bynum
+
+devin 1500
+bynum 1500
+
+all parties dw
+email pb dw
+
+
+ARTURO MEDINA records
+
+Dylan m
+d Watson
+paula b
+<!-- be pe -->
+john mir
+<!-- jos sal -->
+
+r torres
+69 68 73
+
+roberge
+
+60 for burke
+60 for ma gon
+
+pamela curtis
+
+rojas03
+
+martin ch
+watson
+
+bynum
+
+
+cordova
+60s
+
+no shows
+pc records kaye
+pa cu extent
+rt billing  2 lv exte rtw
+w5 500 1 units
+w5 600 2 units
+w6
+w8
+
+Inquiry
+Alternative IR
+get DWC number and records
+Ombuds Julia Ramirez
+Crosson
+liberty mutual
+Brooke Greenway
+
+
+69
+report
+dp
+
+69
+68
+report
+mmi
+lr
+
+LR extent of injury
+2 visits
+
+
+ Mar gray mmi 1 lv 69 1500
+
+ send lr
+
+
+ 69
+ 68
+ 1500 nm ext mi
+ jackie martin
+
+ mir scot
+ greenway
+
+ lr email
+
+
+artu 69 1500
+jese 69 1500
+
+Jackie Martin
+69 x3

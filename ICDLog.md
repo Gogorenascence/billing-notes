@@ -207,6 +207,7 @@ S90.01XA Contusion of Right ankle, initial encounter
 S90.02XA Contusion of Left ankle, initial encounter
 S90.31XA Contusion of Right foot, initial encounter
 S90.32XA Contusion of Left foot, initial encounter
+S90.111A Contusion of right great toe without damage to nail, initial encounter
 
 S09.90XA Unspecified injury of head, initial encounter
 

@@ -215,6 +215,7 @@ Nancy Spaniola
 512-427-2465
 
 
+
 Sending a reminder for your designated doctor exam for your worker’s compensation.
 
 Doctor: Dr. Jamon Clayton
@@ -225,7 +226,7 @@ For any questions or additional information, feel free to contact Jamon Clayton 
 
 You can also contact me at 346-269-8890 or via email at nantahkl@gmail.com.
 
-
+Stop Pay request
 
 Hello,
 I'd like to request for a stop pay for Ella Payne's current bill and for a new check to be reissued.
@@ -316,3 +317,79 @@ J5 Chiropractic and Health Centers
 
 DD Report and DWC-069
 Attached is a copy of your designated doctor exam's report and DWC-069.
+
+
+Hello, billing for Juan Lopez's DD Exam was sent by fax. I wanted to get information on that bill's status.
+
+Claim Number: 202300093800001
+Date of injury: 09/12/23
+Date of service: 04/01/25
+Billed amount: 950.00
+TX ID: 82-2170594
+
+A copy of the billing is also attached to this email.
+
+Thank you,
+Kornebari Nantah
+J5 Chiropractic and Health Centers
+
+List of disputed claims
+
+Dear Sandra Frausto-Gomez,
+
+I am writing to request a list of Rolando Gomez's disputed claims.
+
+Date of Birth: 09/13/1969
+DWC #: 25120550
+
+Attached is a copy of Rolando's DWC 32.
+
+Thank you,
+Kornebari Nantah
+J5 Chiropractic and Health Centers
+Healthcare Solutions
+
+
+Subject: DD Billing Reconsideration for Maria Burke
+
+Maria Burke - Claim #: 4A2409QFZRQ0001
+
+The claimant was billed for a Maximum Medical Improvement exam and an Impairment Rating which according to EDI billing rules has a combined minimal payment of $863.00 for 1 unit; claimant payout was $465.00.
+
+Please note this bill is from a state ordered DD exam which requires mandatory payment, or be subject to fines and/or penalties.
+
+See attached for original billing and billing rules for the relevant modifiers.
+
+
+Request for Surgery Report – Mirramyne Scott
+Dear Alyssa Kincanon,
+
+I am writing to request a copy of Mirramyne Scott’s most recent surgery report.
+
+Please send the records to j5healthcenters@gmail.com or fax them to (817) 977-0333. If you have any questions or need additional information, feel free to contact me at (346) 269-8890 or via email at nantahkl@gmail.com.
+
+Thank you for your assistance.
+
+Sincerely,
+Kornebari Nantah
+
+
+Request for Medical Records: Teresa Crosson DWC 24283507
+Inquiry with Ombudsman
+
+Dear Brooke Greenway,
+
+I am writing to request a copy of the medical records and a DWC-032 for an alternative IR exam for Teresa Crosson.
+
+Carrier: Liberty Mutual
+Carrier Claim: WC949G20386
+Date of Birth: 11/4/69
+Date of Injury: 3/11/24
+
+If there are any forms, authorizations, or fees required to process this request, please let me know so I can provide them promptly. I would appreciate your assistance in expediting the release of these records to ensure the exam can proceed as scheduled.
+
+Please send the records to j5healthcenters@gmail.com or fax them to (817) 977-0333. For any questions or additional information, feel free to contact me at 346-269-8890 or via email at nantahkl@gmail.com.
+
+Thank you,
+Kornebari Nantah
+J5 Chiropractic and Health Centers
