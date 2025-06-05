@@ -77,3 +77,15 @@ Date of Birth: 11/4/69
 Date of Injury: 3/11/24
 Adjuster: Tamika Giles 214-622-9918
 8003000110 2 4
+
+Taylor Lipinski
+4699979633
+taylor.lipinski@libertymutual.com
+
+benjamin.fleming@libertymutual.com
+
+Brooke J. Greenway
+866-393-6432 ext. 31355
+
+Adriana Torres
+866-393-6432 ext. 31366

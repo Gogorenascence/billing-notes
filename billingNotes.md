@@ -237,3 +237,10 @@ Multiple Impairments 69
 Certification #1 Carrier Accepted Conditions
 Certification #2 Carrier Accepted and All Disputed Conditions
 Certification #3 Carrier Accepted and DD Determined Conditions
+
+
+check email was received
+3 weeks for each
+Case will be closed
+Worker's comp will deny all treatment afterwards
+Speak to ombudsman

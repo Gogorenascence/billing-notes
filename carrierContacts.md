@@ -1,5 +1,3 @@
-Jopri 800-630-3060
-
 Texas Mutual - 1 - 1  2 -2 -1 -3 -6
     TM 8885325246
 
@@ -49,6 +47,7 @@ TX -1-877-952-9222
 
 Service Lloyds Insurance Company
 (512) 637-3100 -1 -4
+Ph: 844-740-7007 - 1 - 4
 Fx: 512-231-8248
 
 Claims Administrative Services
@@ -56,6 +55,7 @@ Claims Administrative Services
 903-509-8484
 cas_provider_relations@cas-services.com
 Closes at 5pm
+Josie Smith
 
 Summit Holdings
 1-800-762-7811
@@ -84,9 +84,10 @@ claim # in subject
 Liberty Mutual
 <!-- 800-290-8711 2 1 5 -->
 800-500-7044 2
+https://www.libertymutualprovidersupport.com/
 fx 8889258391
 
-Helmsmann
+Helmsman
 800-320-7582 - closes at 4pm
 8443252467
 
@@ -101,6 +102,7 @@ Message:
 Hello, billing for [Patient Name]'s DD Exam was sent by fax. I wanted to get information on that bill's status.
 
 IMO: 877-339-1268
+9723311867
 Fax: 888-55TRISTAR (888.558.7478)
 <!-- 972-387-2594 -->
 
@@ -133,7 +135,8 @@ Znat
 8182518901 1 2 3 need ssn
 
 Sentry Casualty Company
-800-473-6879
+Ph: 800-473-6879
+Fx: 8009994642
 closes at 5pm
 
 Coventry
@@ -185,21 +188,30 @@ closes at 5pm
 
 Broadspire
 1-866-830-2383 - 1 - 3
-provider24@choosebroadspire.com
+Ph: 800-800-7885 - 3
+FX: 859-550-2732
+provider24@choosebroadspire.com for status
 
 name
 DOS
 SSN
 Claim #
-Jopri tp021
+
+DD Billing for [patient name]
+Claim #: [claim number]
+
+See attached 1500, W9 and supporting documents.
+
 
 EK Health
 8885070616
 fx 408-740-4219
 
+
 PMA
 1-888-476-2669 -6 -2
 FX: 1-800-432-9762
+
 
 Texas Municipal League Intergovernmental Risk Pool
 tmlirp.org
@@ -223,8 +235,8 @@ fax 4842827680
 billaudit@s1-medical.com
 
 Zenith
-<!-- 800-440-5020 - 3 - 4 -->
-818-251-8904
+800-440-5020 - 3 - 4
+818-251-8904 - 3 attempts for agent
 fax 18003640443
 
 State Office of Risk Management
@@ -246,10 +258,11 @@ Mitchell International Inc
 -EMCASCO
 -Service American Indemnity Company
 800-732-0153 (-2 ICW)
-512-231-8248 ()
+512-231-8248
 <!-- 800-482-7276 (TASB) -1 -2 -->
 550 400
-fx: 858-586-2444 (ICW)
+
+fx: 858-586-2444
 fx: 732-212-7009 (TASB)
 fx: 512-231-8248 (Service American Indemnity Company)
 
@@ -287,240 +300,5 @@ Fx: 504-324-2051
 Corvel
 <!-- 972-383-1783
 888-726-7835 -2 zip code -->
-Ph: 888-633-2435
+Ph: 888-633-2435 -4
 Fx: 888-851-9190
-
-
-Ph: 844-740-7007 - 1 - 4
-Fx: 512-231-8248
-
-Sentry Casualty Company
-Ph: 800-473-6879
-Fx: 8009994642
-
-Hello, billing for [Patient]'s DD Exam was sent to [Carrier] by fax. I wanted to get information on -  that bill's status.
- -
-Claim Number: WC204308
-Date of injury: 10/20/23
-Date of service: 06/12/24
-Billed amount: 600.00
-TX ID: 82-2170594
-
-Thank you
-----------------------------------------------------------------
-
-Ricardo Pope
-berk
-rec.
-rev.
-bill#
-sent to
-amount
-w9 form - 2039892652
-new department email
-
-
-
-Nantos
-8636671871
-
-
-no yet reached mmi
-still hasn't
-2 if  only pt
-3 month out as normal
-4 month out for surgery
-statutory matches mmi date
-
-
-
-
--------------------------------------------
-
-[
-Heidi McDowell
-znat
-466-51-5709
-rec 1/9/23
-pending
-
-jesse j
-latonya
-
-o johnson
-pending
-
-
-miguel bl
-dde not fce
-1/29
-
-1000
-7709013617
-Leaves at 4
-
-ext 236
-fce dd order
-denied
-rec allowance nego disc
-
-
-
-<!-- 6. Loel Roberts
-    pending
-    Conduit
-
-    8888534735 - 6
-
-    8554965410 - fax
-
-    863-669-2059 - fax
-    Under 10
-    PO 14807 lexington Ky 40512
-    conduit
-    randstad -->
-
-10. Ricardo Pope
-    Not received
-    billing does not access
-    new department
-    emailing request of info
-
-
-Faith Mangrum p
-
-Marco Cuellar p
-
-Chad Harding p
-
-David Hill p
-
-sasha s dd
-latonya old new
-janis holliday
-dean gar
-loel rob p
-ob john dde
-migu dd and fce
-lucia v
-
-shelly
-----------------------------------------------------
-darryl will
-
-bertha doming
-Adj Renata Schuch 8337002461 ext 12045
-
-8008226099 - 1
-7325766009
-
-closes at 5pm
-
-lucia
-james dot
---------------------------------------------------------
-
-2/28 Oscar Gonzalez - tm - pending
-3/2 Jordan Clark 022324 - sedgwick - p under paid 350 not 650
-
-Sasha Spears FCE - GB - denied 3/11 - report not included add report
-Sasha adjuster
-Latonya shepard 2nd bill 2/13 - zurich
-
-Hernando Bustos - Employers Preferred Insurance Company
-
-bd nationwide
-ofer tm pending
-jessica cuell es pending 4/12
-jose reyes sed pending
-alfredo gon sed
-latony paid
-
-8003700594 -1 -5 gb bill review
-
-
-latony
-bertha - nr - 18003638904
-7325766009
-ofer - nr - 5122243889
-receive 4/2/24
-8885325246
-rojas - 3/19 - pending
-roberts - 3/26 - pending
-
-2149220650 - sedg fax
-9724439062 - deb campos
-
-
-cn 20321203
-8008226099
-cr 17004013
-
-ofer ros tm - pendin
-
-
-call bhavna g
-carol_garza@gbtpa.com
-
-
-
-ofer rosa
-belinda yabarra
-alice 4/19 nm
-
-
-stefanie galindo - sed - 4/26 pending
-manu mar crf
-lyset gamez strat comp - vm
-
-josh usher ccmsi loop
-ricardo pope
-
-
-concentra
-austinsouth@concentra.com
-
-farren lewis trav - billing hcs - 4/29 - pending
-
-sash sp gb - denied mar 11 - report - 972-728-1116
-
-loel roberts
-da92571302
-8888534735 - 6
-
-ryan williams
-8886826671
-
-jm014728
-
-thomas car lm - 4/20 - 4/23 5/11 350
-underpaid
-
-
-ashley rankin
-las
-farren lewis
-
-
-reginald - lm -
-ashley rankin sed 4a2203ftu98-0001
-2149220650
-
-
-9285
-
-nancy mmi at exam
-69
-1500
-post op pt 30 acl repair
-knee impairm
-
-compensible
-cerv s/s
-
-disputed
-
-
-no causation
-lumbar
-- 37556

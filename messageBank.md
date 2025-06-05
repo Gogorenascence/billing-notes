@@ -29,19 +29,21 @@ TX ID: 82-2170594
 
 Thank you
 
-Hello, billing for John Boyd's DD Exam was sent to Broadspire by fax. I wanted to get information on that bill's status.
+Hello, billing for Marlene Gray's DD Exam was sent to CCMSI by fax. I wanted to get information on that bill's status.
 
-Claim Number: 190426095001
-Date of injury: 08/30/24
-Date of service: 12/05/24
-Billed amount: 1950.00
+Claim Number: 23D68K605465
+Date of Birth: 07/16/62
+Date of Injury: 12/10/24
+Date of Service: 04/28/25
+Billed amount: 950.00
 TX ID: 27-4553755
 
-A copy of the billing is also attached to this email.
+A copy of the billing and supporting documents are also attached to this email.
+We would like to confirm whether this bill has been received and is currently under review or has already been processed for payment. If it has not yet been received, please forward the attached documents to the appropriate billing department for review.
 
 Thank you,
 Kornebari Nantah
-Healthcare Solutions
+J5 Chiropractic and Health Centers
 
 owens
 6/12
@@ -219,8 +221,9 @@ Nancy Spaniola
 Sending a reminder for your designated doctor exam for your worker’s compensation.
 
 Doctor: Dr. Jamon Clayton
-Location: Spine & Health Institute, 7400 Blanco Rd Ste 125, San Antonio, TX 78216
-Time: 02/07/2025 at 2pm
+Location: Healthcare Solutions 4366 Holmes Rd Houston, TX 77051
+
+Time: 05/21/2025 at 10:00 AM
 
 For any questions or additional information, feel free to contact Jamon Clayton at (682) 472-1132 or via email at j5healthcenters@gmail.com.
 
@@ -389,6 +392,29 @@ Date of Injury: 3/11/24
 If there are any forms, authorizations, or fees required to process this request, please let me know so I can provide them promptly. I would appreciate your assistance in expediting the release of these records to ensure the exam can proceed as scheduled.
 
 Please send the records to j5healthcenters@gmail.com or fax them to (817) 977-0333. For any questions or additional information, feel free to contact me at 346-269-8890 or via email at nantahkl@gmail.com.
+
+Thank you,
+Kornebari Nantah
+J5 Chiropractic and Health Centers
+
+Subject: Request for Medical Records: Teresa Crosson - Alternative Certification Request Attached
+
+Hello,
+
+I am writing to request a copy of the medical records for Teresa Crosson. The IR and EOI exams were completed on 05/12/25.
+
+Attached is the request for an alternative certification. 
+
+Carrier: Liberty Mutual
+Carrier Claim: WC949G20386
+Date of Birth: 11/4/69
+Date of Injury: 3/11/24
+
+If there are any forms, authorizations, or fees required to process this request, please let me know so I can provide them promptly. I would appreciate your assistance in expediting the release of these records to ensure the exam can proceed as scheduled.
+
+Please send the records to j5healthcenters@gmail.com or fax them to (817) 977-0333.
+
+For any questions or additional information, feel free to contact me via email at nantahkl@gmail.com or Jamon Clayton, DC at (682) 472-1132.
 
 Thank you,
 Kornebari Nantah

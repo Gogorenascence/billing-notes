@@ -740,3 +740,216 @@ jese 69 1500
 
 Jackie Martin
 69 x3
+
+
+Adair 2024
+
+
+69 johnson
+69 73 scott
+guerra billing
+
+
+DWC 60 Chaney cc sanchez and adjuster
+
+
+<!-- medina -->
+<!-- gray -->
+<!-- craig -->
+<!-- pikes -->
+<!-- cynth -->
+<!-- cordova -->
+wilson
+
+alumnso
+
+sabrina johnson billing
+chaney 60 + statement
+nm
+
+<!-- refugio status -->
+<!-- curtis 68 69  -->
+crosson records
+
+billing
+rojas
+cordova
+
+6/11
+0930 moha
+1000 tro
+1030 ana
+1100 ivo
+
+6/13
+1100
+
+
+h sosa
+number
+records stat
+956-376-7361
+
+
+david c
+6-16 1400
+6-17 1400
+back in motion
+
+crosson 68 69
+osvan first and last page
+
+
+a horn billing mmi ir
+larry johnson
+
+T Crosson
+sacrococcygeal disorders,
+lumbar spondylolisthesis,
+lumbar spondylosis,
+spinal stenosis of lumbar region,
+degeneration of lumbar intervertebral disc
+
+thoracic exam
+disputed conditions
+2 69s
+mmi with thoracic s/s
+nm with all codes
+
+the claimant was slightly flexed.
+She used slight force or minimal force
+to then try to extend backwards to pry open the cap.
+So, this is consistent in a quick extension maneuver
+with small force is consistent with a back
+sprain and strain of the thoracic and lumbar region.
+We can say something to the fact that the MRI findings
+of the claimant indicated moderate to severe degenerative joint
+disease in the lumbar spine.
+And there are no medical records
+or in another medical records provided
+does it indicate an aggravation or an acceleration
+of her pre-existing findings.
+She did not exhibit any loss of motor strength,
+any loss of sensation,
+any reflex changes,
+significant gait changes or atrophy
+in her initial examination findings
+and medical records.
+I can say something to the fact that
+the mechanism also would not be consistent
+with causing an acute lumbar disc injury
+or an injury that may have aggravated or accelerated
+her incidental or pre-existing findings.
+
+sign 68
+sign 69 3/10/25 5% on both
+cert 1 Certification #1 Carrier Accepted Conditions - Evaluator agrees with these conditions only 4 codes
+lumbar s/s
+thoracic s/s
+
+cert 2 carrier accepted conditions and all disputed conditions 9 codes
+
+<!-- add greenway -->
+
+prep emails
+1500 4 codes
+tdi reports
+
+referral section
+no w5
+w6
+
+mustapha
+
+5%
+15 weeks
+
+
+shiv patel referral 1500
+
+
+<!-- 1. Complete med records, 69 and dd report for Jennifer Reaves -->
+<!-- 6. Complete med records, -->
+<!-- 69 -->
+<!-- dd report for Hector Sosa. 83 -->
+<!-- 9. Put together dd report, 1st and last page for Donnie Scott. -->
+<!-- 2. Try to contact Eric Martinez to reschedule DD exam. -->
+<!-- 3. Try to contact Doris Escobar to reschedule DD exam. -->
+
+
+judy 2145706305
+
+
+<!-- 8. Complete med records,  -->
+<!-- 69 -->
+<!-- dd report for Cheryl Knox. 183 -->
+
+<!-- 4. Complete med records -->
+<!-- 69 -->
+<!-- dd report for Marcus Keel. 262 -->
+
+5. Complete med records,
+<!-- 69 -->
+dd report, including EOI section for Osvan Rodriguez 24
+
+7. Complete med records,
+<!-- 69 -->
+<!-- dd report for Doris Mendoza. 433 -->
+
+crosson
+chaney
+
+<!-- No Show and Re-designation -->
+<!-- Zonia s
+Jewel h
+5/1 -->
+
+<!-- Doris e
+5/13
+
+Dusty d
+5/13 and 6/2 -->
+
+<!-- fax tdi rescheduling -->
+
+<!-- reaves billing mmi 1   lv -->
+
+
+<!-- Ramon -->
+<!-- Belinda -->
+<!-- Melissa -->
+Cynthia
++6
+<!-- Joane Loyola -->
+<!-- Monica Orozco -->
+<!-- Victor Rodriguez -->
+<!-- Olubunmi Amosu -->
+<!-- Christopher Pikes -->
+<!-- Kerri Senegal -->
+<!-- Rolando Gomez -->
+
+add owned
+60
+Manuel g
+347.00
+51.00 under partially satisfied
+
+60
+Arturo Medina
+Broadspire
+190458654001
+Sent: 5/12
+Date of Birth: 08/16/87
+Date of Injury: 10/11/24
+Date of Service: 05/01/25 - 950.00
+Status: paid 465.00 on 5/29 under
+Received: 5/15
+last checked: 5/27
+
+
+
+curtis
+1 lv mmi ext
+send to curtis
+
+60 medina

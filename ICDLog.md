@@ -1,3 +1,5 @@
+Look for a billable code
+
 99203 vis
 97010
 97012
@@ -22,14 +24,10 @@ M54.2 Cervicalgia
 M99.01 Segmental Dysfunction of cervical
 
 S23.3XXA Thoracic Sprain, initial encounter
-S23.41XA Sprain of ribs, initial encounter
-M54.6 Thoracic Pain
-
-S23.3XXA Thoracic Sprain, initial encounter
-S29.019A Thoracic Strain, initial encounter
-M54.6 Thoracic Pain
-
 S29.012A Strain of muscle and tendon of back wall of thorax, initial encounter
+<!-- S23.41XA Sprain of ribs, initial encounter -->
+<!-- S29.019A Thoracic Strain, initial encounter -->
+M54.6 Thoracic Pain
 
 S43.81XA Right Shoulder Sprain, initial encounter
 S46.811A Right Shoulder Strain, initial encounter
@@ -42,8 +40,6 @@ M25.512 Pain in Left Shoulder
 M79.621 Pain in Right Upper Arm
 
 M79.622 Pain in Left Upper Arm
-
-
 
 S53.401A Unspecified sprain of Right elbow, initial encounter
 M25.521 Pain in Right elbow
@@ -342,9 +338,12 @@ Disc herniation/protrusion at L5/S1 M51.27
 S46.011A Strain of muscle(s) and tendon(s) of the rotator cuff of right shoulder, initial encounter
 
 
-S29.012A-STRAIN BACK WALL THORAX, S43.402A-LEFT SHOULDER SPRAIN, M50.20-CERVICAL DISC
-DISPLACEMENT, 54.12-CERVICAL RADICULOPATHY, S16.1XXA-CERVCIAL STRAIN, M72.2-LEFT PLANTAR
-FASCIITIS.
+S29.012A-STRAIN BACK WALL THORAX,
+S43.402A-LEFT SHOULDER SPRAIN,
+M50.20-CERVICAL DISC DISPLACEMENT,
+54.12-CERVICAL RADICULOPATHY,
+S16.1XXA-CERVCIAL STRAIN,
+M72.2-LEFT PLANTAR FASCIITIS.
 
 
 S93.602A
@@ -361,5 +360,6 @@ S22.42XA Multiple fractures of ribs, left side, initial encounter for closed fra
 S82.291A Other fracture of shaft of right tibia, initial encounter for closed fracture
 S83.512A  Sprain of anterior cruciate ligament of left knee, initial encounter
 
+S43.432A Superior glenoid labrum lesion of left shoulder, initial encounter
 
 S46.911D, M75.51, M75.121, 46.011D, S43.81XA

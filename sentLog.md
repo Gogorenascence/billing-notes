@@ -1,77 +1,155 @@
 <!-- HS -->
 Tax ID: 274553755
 
-Melissa Adair
+Melissa Adair HS
 1319WC240301063
 Date of Birth: 02/19/70
 Date of Injury: 04/06/24
 Date of Service: 02/26/25 - 1400.00
 Carrier: CorVel
 Status: pending
-received: 4/15
-last checked: 4/18
+Resent: 5/14
+received: 4/15 5/14
+last checked: 6/4
 
 Michelle L. Ethridge | EC Supervisor
 CorVel Corporation | Dallas, Texas
 T 972-628-2846 |  F 866-782-8959
 9723831711
 
-Melanie Lambright
-1425001363730
-04/03/25 - 1200.00
-Carrier: tm
-Status: pending
-received: 4/9
-last checked: 4/25
-
-Demetria Toliver HS
-20240021916
-Date of Birth: 02/15/73
-Date of Injury: 12/02/24
-Date of Service: 04/10/25 - 1200.00
-Carrier: TASB
-Resent: 4/25
-<!-- Status: pending -->
-<!-- received: 4/10 -->
-last checked: 4/25
-
-Cynthia Gregurek
-24000060
+Cynthia Gregurek HS
+VICT 24000060
 Date of Birth: 10/26/59
 Date of Injury: 09/04/24
 Date of Service: 04/16/25 - 1200.00
 Carrier: CAS
 Status: pending
 received: 4/22
-last checked: 4/25
-
-Thomas Zielonka
-001123009815WC01
-Date of Birth: 12/01/75
-Date of Injury: 08/06/24
-Date of Service: 04/16/25 - 1200.00
-Carrier: GB
-Status: pending
-received: 4/24
-last checked: 4/25
-
+last checked: 5/27
 adj Terri Marshall 9729316277
+Email sent: 6/5
+
+Carmen Mejia CAS
+CASA 24001953
+Date of Birth: 07/15/83
+Date of Injury: 05/23/24
+Date of Service: 05/16/25 - 1500.00
+Carrier: CAS
+Status: pending
+received: 5/26
+last checked: 5/30
+Email sent: 6/5
+
+Debra Flournoy
+CASA 24002561
+Date of Birth: 03/03/55
+Date of Injury: 08/26/24
+Date of Service: 05/07/25 - 1200.00
+Carrier: CAS
+Status: pending
+received: 5/21
+last checked: 5/30
+Email sent: 6/5
+
+Kerri Senegal
+WC949G38450
+Date of Birth: 10/21/82
+Date of Injury: 08/12/24
+Date of Service: 05/06/25 - 1200.00
+Carrier: LM
+Status: paid 834.00 on 5/19 under
+received: 5/15
+last checked: 6/5
+
+Olubunmi Amosu sed
+4A2312M1F9Q0001
+Date of Birth: 11/28/78
+Date of Injury: 12/18/23
+Date of Service: 04/19/25 - 1400.00
+Carrier: Sedgwick
+Status: denied on 6/4 dupe
+received: 5/20 6/1
+last checked: 6/4
+
+Amber Wilson
+A00689040
+Date of Birth: 01/10/89
+Date of Injury: 04/17/25
+Date of Service: 04/17/25 - 950.00
+Carrier: Great American Alliance Insurance/Strategic Comp
+<!-- Status: pending -->
+received: nr
+last checked: 6/5
+
+Robert Aguilar
+1022090 - 455351487
+Date of Birth: 05/10/72
+Date of Injury: 01/11/24
+Date of Service: 05/02/25 - 1200.00
+Carrier: The Zenith
+<!-- Status: paid 104.00 on 3/4/25 -->
+<!-- received: 2/6 -->
+Resent: 5/30
+last checked: 5/30
+Email sent: 6/5
+
+Shamanesha Edwards
+WC4072301
+Date of Birth: 03/07/79
+Date of Injury: 09/20/24
+Date of Service: 05/06/25 - 2150.00
+Carrier: SORM
+Status: pending
+received: 6/2/25
+last checked: 6/5
+
+Victor Rodriguez
+1427001425004
+04/24/25 - 2900.00
+Date of Injury: 10/07/24
+Carrier: TM
+Status: pending
+received: 5/26
+last checked: 6/4
+
+loy ow luh
+Joane Loyola
+4A2411BXTL10019M
+Date of Birth: 07/25/90
+Date of Injury: 11/07/24
+Date of Service: 05/14/25 - 1200.00
+Carrier: genex
+<!-- Status: pending -->
+received: nr
+last checked: 6/5
+
+Belinda Rojas HS
+55C821530
+Date of Birth: 10/18/67
+Date of Injury: 03/27/24
+Date of Service: 04/24/25 - 1400.00
+Carrier: Sentry Casualty Company
+Status: paid 863.00 on 5/14
+Recon sent: 5/20 pending
+received: 5/5 5/21
+last checked: 6/4
+
+Ramon Cordova HS
+2024024160
+Date of Birth: 05/17/76
+Date of Injury: 09/10/24
+Date of Service: 04/24/25 - 1200.00
+Carrier: ICW
+Status: paid 465.00 on 05/15
+denied dupe eob
+resent: 5/5
+Recon sent: 5/20
+received: 5/3 5/22
+last checked: 6/4
+
 <!-- HS End -->
 
 Tax ID: 822170594
-
-Martin Chaney
-241158188
-Date of Birth: 11/04/83
-Date of Injury: 09/27/2024
-Date of Service: 01/29/25 - 1300.00
-sent: 3/3
-resent: 4/22
-Carrier: Tristar
-Status: pending
-<!-- received: 2/19 -->
-Email sent: 4/24
-last checked: 4/22
 
 9723872594
 
@@ -87,16 +165,315 @@ received: 4/14/25
 Email sent: 4/24
 last checked: 4/18
 
-Dylan Martinez
-CAS
-Claim Number: CELP 24000837
-Date of injury: 08/09/2024
-Date of service: 03/11/25
-Billed amount: $1300.00
-TX ID: 82-2170594
-Status: Pending
-Received: 4/23
-last checked: 4/25
+Leticia Ramirez
+241181529
+Date of Birth: 11/01/62
+Date of Injury: 12/10/24
+Date of Service: 04/25/25 - 2000.00
+Sent: 5/8
+Carrier: Tristar
+<!-- Status: pending -->
+<!-- received: 4/14/25 -->
+<!-- Email sent: 4/24 -->
+<!-- last checked: 4/18 -->
+
+Jose Salinas
+1428001390472
+04/01/2025 - 600.00
+Carrier: tm
+Status: denied pending
+received: 4/10 5/14
+Resent: 5/14
+last checked: 6/5
+
+Dusty Dickerson
+1427001402657
+05/01/25 - 125.00
+Date of Birth: 12/01/85
+Date of Injury: 06/14/24
+Sent: 6/2
+Carrier: TM
+Status: pending
+received: 6/2
+last checked: 6/5
+
+Marlene Gray
+23D68K605465
+Date of Birth: 07/16/62
+Date of Injury: 12/10/24
+Date of Service: 04/28/25 - 950.00
+Sent: 5/8
+Carrier: CCMSI
+<!-- Status: pending -->
+<!-- received: 4/14/25 -->
+<!-- Email sent: 4/24 -->
+last checked: 5/27 adjuster
+email:
+
+Doris Mendoza
+9706886
+Date of Birth: 05/05/65
+Date of Injury: 01/08/24
+Date of Service: 05/01/25 - 125.00
+Sent: 5/2
+Carrier: Service American Indemnity Company
+Status: pending
+received: 5/12/25
+last checked: 6/5
+
+Jesus Guerra
+Berkley Casualty Company
+BIN000105938
+Sent: 5/13
+Date of Birth: 03 22 1985
+Date of Injury: 04 02 24
+Date of Service: 05/01/25 - 950.00
+Status: paid 465.00 on 5/26 under
+Received: 5/23
+last checked: 6/5
+60
+
+Larry johnson
+011260160249WC01
+Date of Birth: 06/02/78
+Date of Injury: 02/27/24
+Date of Service: 05/20/25 - 1650.00
+Sent: 5/28
+Carrier: GB
+Status: pending
+received: 5/29
+last checked: 6/5
+
+Doris Escobar
+000808167657WC01
+Date of Birth: 02/10/67
+Date of Injury: 11/04/24
+Date of Service: 05/13/25 - 125.00
+Sent: 6/2
+Carrier: GB
+Status: pending
+received: 6/2
+last checked: 6/5
+
+Mirramyne Scott
+ESIS
+1E01E017244424
+Date of Birth: 03/18/90
+Date of Injury: 12/03/24
+Date of Service: 05/07/25 - 1300.00
+Status: pending
+Received: 5/22
+last checked: 5/30
+
+Anthony Horn
+broadspire
+190482065001
+Date of Birth: 03/06/63
+Date of Injury: 11/11/24
+Date of Service: 05/13/25 - 600.00
+Sent: 5/28
+Status: pending
+Received: 5/28
+last checked: 6/5
+bstx-990681
+
+Jennifer Reaves
+4A2308RZ1H50001
+Date of Birth: 04/19/85
+Date of Injury: 08/08/23
+Date of Service: 05/23/25 - 950.00
+Sent: 6/3
+Carrier: sed
+<!-- Status: pending -->
+<!-- received:  -->
+last checked: 6/5
+
+Teresa Crosson
+WC949G20386
+Date of Birth: 11/04/69
+Date of Injury: 03/11/24
+Date of Service: 05/12/25 - 1650.00
+Carrier: LM
+Status: pending
+received: 6/2
+last checked: 6/5
+
+Martin Chaney
+Tristar
+
+Donnie Scott
+Travelers
+Sent: 6/5
+
+<!-- Resolutions -->
+
+Martin Chaney
+241158188
+Date of Birth: 11/04/83
+Date of Injury: 09/27/2024
+Date of Service: 01/29/25 - 1300.00
+sent: 3/3
+resent: 4/22
+Carrier: Tristar
+Status: pending
+<!-- received: 2/19 -->
+Email sent: 4/24
+last checked: 4/22
+9723872594
+
+Arturo Medina 60
+Broadspire
+190458654001
+Sent: 5/12
+Date of Birth: 08/16/87
+Date of Injury: 10/11/24
+Date of Service: 05/01/25 - 950.00
+Status: paid 465.00 on 5/29 under
+Received: 5/15
+last checked: 5/27
+
+<!-- Hank Howard - Resolution -->
+
+<!-- Resolutions End -->
+
+
+<!--
+
+Christopher Pikes hs
+WC949G40300
+Date of Birth: 08/10/00
+Date of Injury: 08/17/24
+Date of Service: 04/24/25 - 1200.00
+Carrier: LM
+Status: paid 850.00 on 6/4
+received: 5/12 5/14
+last checked: 6/4
+
+Monica Orozco hs
+24F30M340092
+Date of Birth: 12/12/1974
+Date of Injury: 08/12/24
+Date of Service: 05/06/25 - 1200.00
+Carrier: CCMSI
+Status: paid 863.00 on 6/2
+received: 05/14/25
+last checked: 6/4
+
+Rolando Gomez hs
+039CBF4Q9367
+Date of Birth: 09/13/69
+Date of Injury: 05/24/24
+Date of Service: 04/24/25 - 950.00
+Carrier: Travelers
+Status: paid 664.00 on 5/16
+received: 5/6
+last checked: 6/4
+
+Daniel Paredes
+1426001405149
+04/24/25 - 950.00
+Date of Birth: 07/16/62
+Date of Injury: 12/10/24
+Sent: 5/5
+Carrier: TM
+Status: paid 863.00 on 6/4
+received: 5/5/25
+last checked: 6/5
+
+Jewel Hameed
+355881
+Date of Birth: 04/12/97
+Date of Injury: 01/11/25
+Date of Service: 05/01/25 - 125.00
+Sent: 5/2
+Carrier: Summit Holdings
+Status: paid 104.00 on 5/29
+received: 5/14/25
+Resent: 5/14
+last checked: 5/30
+
+Sabrina Johnson
+4A2407G977K0001
+Date of Birth: 08/20/73
+Date of Injury: 07/13/24
+Date of Service: 05/05/25 - 600.00
+sent: 5/15
+Carrier: sed
+Status: paid 465.00 on 5/28
+received: 5/20
+last checked: 5/30
+
+David Lewis HS
+4A2308QXHQ20001
+Date of Birth: 10/26/64
+Date of Injury: 08/22/23
+Date of Service: 04/24/25 - 950.00
+Carrier: Sedgwick
+Status: paid 664.00 on 5/29
+received: 5/10
+last checked: 5/30
+
+Alejandrina Vela HS
+Carrier: TASB - 20250000746
+Date of Birth: 11/26/69
+Date of Injury: 01/16/25
+Date of Service: 05/08/25 - 1950.00
+Status: paid 1950.00 on 5/26
+received: 5/20
+last checked: 5/27
+
+Jackie Martin
+travelers - F5S6455
+Sent: 5/12
+Date of Birth: 11/07/64
+Date of Injury: 07/22/2024
+Date of Service: 04/29/25 - 1875.00
+Status: paid 1875.00 on 5/23
+Received: 5/12
+last checked: 5/29
+
+Paula Bynum
+WC254312500
+Date of Birth: 10/10/63
+Date of Injury: 09/10/24
+Date of Service: 04/16/25 - 950.00
+Carrier: Sed/Genex
+Status: paid 863.00 on 5/9
+Resent: 5/1
+received: 4/30
+last checked: 5/27
+
+Zonia Sanchez
+004742042888WC01
+Date of Birth: 07/12/82
+Date of Injury: 12/15/24
+Date of Service: 05/01/25 - 125.00
+Sent: 5/2
+Carrier: GB
+Status: paid 104.00 on 5/16
+received: 5/5
+last checked: 5/23
+
+Refugio Torres
+WC4047874
+Date of Birth: 10/13/71
+Date of Injury: 05/26/24
+Date of Service: 04/22/25 - 2500.00
+Sent: 5/2
+Carrier: SORM
+Status: paid 2390.00 on 5/22
+received: 5/6/25
+last checked: 5/23
+
+Devin Watson
+ASGX810X23386X1
+Date of Birth: 09/23/99
+Date of Injury: 05/24/24
+Date of Service: 04/21/25 - 950.00
+Carrier: AS&G Claims/IMO
+Status: Paid 950.00
+received: 4/22
+last checked: 5/1
 
 Thelma Behee
 001064052243WC01
@@ -105,49 +482,9 @@ Date of Injury: 01/08/24
 Date of Service: 03/21/25 - 1725.00
 sent: 4/2
 Carrier: gb
-Status: pending
+Status: paid 1602.00
 received: 4/3
-last checked: 4/25
-
-Benito Perez
-011260171081WC01
-Date of Birth: 12/10/78
-Date of Injury: 09/11/24
-Date of Service: 04/11/25 - 1400.00
-Carrier: GB
-Status: pending
-received: 4/23
-last checked: 4/25
-
-Sarah Magallon
-4A2412DX1F90001
-Date of Birth: 07/11/00
-Date of Injury: 12/13/24
-Date of Service: 04/10/25 - 950.00
-Carrier: Sedgwick
-Status: paid 863.00 on 4/23
-received: 4/16
-last checked: 4/25
-
-John Mireles
-4A2501DTYXQ0001
-Date of Birth: 06/28/61
-Date of Injury: 01/11/25
-Date of Service: 04/11/25 - 600.00
-Carrier: Sedgwick
-Status: pending
-received: 4/22
-last checked: 4/25
-
-Jose Salinas
-1428001390472
-04/01/2025 - 700.00
-Carrier: tm
-Status: pending
-received: 4/10
-last checked: 4/25
-
-<!-- Resolutions -->
+last checked: 5/9
 
 Maria Burke
 4A2409QFZRQ0001
@@ -159,7 +496,7 @@ Carrier: sed
 Status: paid 465.00 on 4/7
 received: 3/25
 last checked: 4/8
-Recon sent: 4/16/25
+Recon sent: 4/29/25
 
 DD Billing Reconsideration for Maria Burke
 Claim #: 4A2409QFZRQ0001
@@ -167,12 +504,103 @@ Claim #: 4A2409QFZRQ0001
 Claimant was billed for a Maximum Medical Improvement exam and an Impairment Rating which according to EDI billing rules has a combined minimal payment of $863.00 for 1 unit.
 Claimant payout was $465.00.
 
-<!-- Hank Howard - Resolution -->
 
-<!-- Resolutions End -->
+Manuel Gonzalez
+014145000115WC01
+Date of Birth: 03/06/64
+Date of Injury: 08/17/23
+Date of Service: 03/04/25 - 1650.00
+sent: 3/17
+Carrier: gb
+Status: paid 1129.00 on 3/27
+received: 3/17
+last checked: 3/28
 
+DD Billing Reconsideration for Manuel Gonzales
+Claim #: 014145000115WC01
 
-<!--
+Claimant was billed for a Maximum Medical Improvement exam, an Impairment Rating and a return to work exam which according to EDI billing rules has a combined minimal payment of $1527.00 for 1 unit.
+Claimant payout was $1129.00.
+
+Craig Roberge HS
+4A25023K83R0001
+Date of Birth: 09/25/67
+Date of Injury: 01/29/25
+Date of Service: 04/24/25 - 1200.00
+Carrier: Sed
+Status: paid 863.00 on 5/12
+Resent: 5/5
+received: 5/2
+last checked: 5/14
+
+Melanie Lambright HS
+1425001363730
+04/03/25 - 1200.00
+Carrier: tm
+Status: paid 863.00 on 5/8
+received: 4/9
+last checked: 5/13
+
+Benito Perez
+011260171081WC01
+Date of Birth: 12/10/78
+Date of Injury: 09/11/24
+Date of Service: 04/11/25 - 1400.00
+Carrier: GB
+Status: paid 1328.00 on 5/6
+received: 4/23
+last checked: 5/9
+
+Demetria Toliver HS
+20240021916
+Date of Birth: 02/15/73
+Date of Injury: 12/02/24
+Date of Service: 04/10/25 - 950.00
+Carrier: TASB
+Status: paid 950.00 on 5/8
+received: 4/26
+last checked: 5/9
+
+Thomas Zielonka HS
+001123009815WC01
+Date of Birth: 12/01/75
+Date of Injury: 08/06/24
+Date of Service: 04/16/25 - 1200.00
+Carrier: GB
+Status: paid 1200.00 on 5/7
+received: 4/24
+last checked: 5/8
+
+Dylan Martinez
+CAS
+Claim Number: CELP 24000837
+Date of injury: 08/09/2024
+Date of service: 03/11/25
+Billed amount: $1300.00
+TX ID: 82-2170594
+Status: Paid 1129.00 on 5/1
+Received: 4/23
+last checked: 5/1
+
+John Mireles
+4A2501DTYXQ0001
+Date of Birth: 06/28/61
+Date of Injury: 01/11/25
+Date of Service: 04/11/25 - 600.00
+Carrier: Sedgwick
+Status: paid 465.00 on 4/25
+received: 4/22
+last checked: 4/30
+
+Sarah Magallon
+4A2412DX1F90001
+Date of Birth: 07/11/00
+Date of Injury: 12/13/24
+Date of Service: 04/10/25 - 950.00
+Carrier: Sedgwick
+Status: paid 863.00 on 4/23
+received: 4/16
+last checked: 4/25
 
 Melvin Ross
 4A240741ZYQ0001
@@ -379,25 +807,6 @@ Carrier: LM
 Status: paid 1650.00 on 3/27
 received: 3/6
 last checked: 3/28
-
-Manuel Gonzalez
-014145000115WC01
-Date of Birth: 03/06/64
-Date of Injury: 08/17/23
-Date of Service: 03/04/25 - 1650.00
-sent: 3/17
-Carrier: gb
-Status: paid 1129.00 on 3/27
-received: 3/17
-last checked: 3/28
-
-DD Billing Reconsideration for Manuel Gonzales
-Claim #: 014145000115WC01
-
-Claimant was billed for a Maximum Medical Improvement exam, an Impairment Rating and a return to work exam which according to EDI billing rules has a combined minimal payment of $1527.00 for 1 unit.
-Claimant payout was $1129.00.
-
-
 
 Harold Tisdale hs
 35986691
